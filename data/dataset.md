@@ -1,12 +1,14 @@
 # Datasets for Robotics
 
+### RH20T Dataset
+
+<div align=center><img width="800" src="./img/RH20T.png" /></div>
+
+<div align="center">
+  图1 RH20T数据集概览图
+</div>
 
 
-|      | Area               | Reference |
-| ---- | ------------------ | --------- |
-|      | Imitation Learning | [1]       |
-|      |                    |           |
-|      |                    |           |
 
 
 

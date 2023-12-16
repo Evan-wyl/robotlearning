@@ -1,14 +1,12 @@
 # Datasets for Robotics
 
-### RH20T Dataset
-
-<div align=center><img width="800" src="./img/RH20T.png" /></div>
-
-<div align="center">
-  图1 RH20T数据集概览图
-</div>
 
 
+| Dataset                           | Robotic Type   | #Tasks | #Skills | Format                                    | Reference |
+| --------------------------------- | -------------- | ------ | ------- | ----------------------------------------- | --------- |
+| [RH20T](https://rh20t.github.io/) | Mechanical Arm | 147    | 42      | <Human Demonstration, Robot Manipulation> | [1]       |
+|                                   |                |        |         |                                           |           |
+|                                   |                |        |         |                                           |           |
 
 
 

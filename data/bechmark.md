@@ -2,7 +2,7 @@
 
 
 
-| Name                                                  | Num  | Domains                                                      | Areas                                                        | Simulator                               |
+| Name                                                  | Num  | Domains                                                      | Areas                                                        | Simulators                              |
 | ----------------------------------------------------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------- |
 | [RLBech](https://sites.google.com/view/rlbench)       | 100  | 1. manipulation.<br />                                       | 1. Reinforcement Learning<br />2. Imitation Learning<br />3. Multi-task learning<br />4. Geometric computer vision<br />5. Few-shot learning | 1. Coppeliasim                          |
 | [D4RL](https://sites.google.com/view/d4rl-anonymous/) | 42   | 1.  manipulation<br />2. locomotion<br />3. autonomous<br />4.  traffic | 1. Offline RL<br />                                          | 1. Gym<br />2. Flow<br />3. CARLA<br /> |

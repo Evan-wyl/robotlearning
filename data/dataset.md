@@ -12,6 +12,7 @@
 | [RoboSet](https://robopen.github.io/)                        |        |        |         |                                           |              |                    |
 | [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) |        |        |         |                                           |              |                    |
 | [**RH20T**](https://rh20t.github.io/)                        | Multi  | 147    | 42      | <Human Demonstration, Robot Manipulation> | manipulation | Imitation Learning |
+| [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) |        |        |         |                                           |              |                    |
 
 <div align="center">Table 1: Information of Dataset</div>
 

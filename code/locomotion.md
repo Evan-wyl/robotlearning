@@ -1,6 +1,6 @@
 # Locomotion Robot
 
-| Project                                                      | Links                                                |
+| Project                                                      | Github Links                                         |
 | ------------------------------------------------------------ | ---------------------------------------------------- |
 | [RMA](https://ashish-kmr.github.io/rma-legged-robots/) and [CMS](https://antonilo.github.io/vision_locomotion/) | https://github.com/antonilo/rl_locomotion            |
 | [Rapid Locomotion](https://agility.csail.mit.edu/)           | https://github.com/Improbable-AI/rapid-locomotion-rl |

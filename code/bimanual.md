@@ -1,6 +1,6 @@
 # Bimanual
 
-| Project                                         | Code                                     |
+| Project                                         | Github Links                             |
 | ----------------------------------------------- | ---------------------------------------- |
 | [Mobilde ALOHA](https://mobile-aloha.github.io) | https://github.com/MarkFzp/act-plus-plus |
 |                                                 |                                          |

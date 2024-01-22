@@ -9,6 +9,16 @@
 
 
 
+## Foundation Model
+
+### Manipulation
+
+| Project                                     | Github Link                    |
+| ------------------------------------------- | ------------------------------ |
+| [CALVIN](http://calvin.cs.uni-freiburg.de/) | https://github.com/mees/calvin |
+
+
+
 ## Reference
 
 [1] James S, Ma Z, Arrojo D R, et al. Rlbench: The robot learning benchmark & learning environment[J]. IEEE Robotics and Automation Letters, 2020, 5(2): 3019-3026.

@@ -8,3 +8,11 @@
 | DM-Control                                                 | manipulation & locomotion | https://github.com/google-deepmind/dm_control    |
 | [Raisim](https://raisim.com/)                              | manipulation & locomotion | https://github.com/raisimTech/raisimLib          |
 
+
+
+### Foundation Model
+
+| Project                                 | Domains   | Github Links                               |
+| --------------------------------------- | --------- | ------------------------------------------ |
+| [VirtualHome](http://virtual-home.org/) | Household | https://github.com/xavierpuigf/virtualhome |
+

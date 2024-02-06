@@ -1,9 +1,10 @@
 # Manipulation
 
-| Project                                          | Time | Algo | Github Link                                 | Conference |
-| ------------------------------------------------ | ---- | ---- | ------------------------------------------- | ---------- |
-| [MCAC](https://sites.google.com/view/mcac-rl)    | 2022 | RL   | https://github.com/albertwilcox/mcac        | NeurlPS    |
-| [GELLO](https://wuphilipp.github.io/gello_site/) | 2023 |      | https://github.com/wuphilipp/gello_software |            |
+| Project                                                      | Time | Algo                   | Github Link                                       | Conference |
+| ------------------------------------------------------------ | ---- | ---------------------- | ------------------------------------------------- | ---------- |
+| [MCAC](https://sites.google.com/view/mcac-rl)                | 2022 | Reinforcement Learning | https://github.com/albertwilcox/mcac              | NeurlPS    |
+| [GELLO](https://wuphilipp.github.io/gello_site/)             | 2023 |                        | https://github.com/wuphilipp/gello_software       |            |
+| [Diffusion Policy](https://diffusion-policy.cs.columbia.edu) | 2023 | Imitation Learning     | https://github.com/real-stanford/diffusion_policy | RSS        |
 
 
 

@@ -2,7 +2,7 @@
 
 ## Manipulation
 
-| Project                                         | Github Links                                 |
-| ----------------------------------------------- | -------------------------------------------- |
-| [RoboFlamingo](https://roboflamingo.github.io/) | https://github.com/RoboFlamingo/RoboFlamingo |
+| Project                                         | Time | Github Links                                 |
+| ----------------------------------------------- | ---- | -------------------------------------------- |
+| [RoboFlamingo](https://roboflamingo.github.io/) | 2023 | https://github.com/RoboFlamingo/RoboFlamingo |
 

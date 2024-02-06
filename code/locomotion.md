@@ -1,5 +1,7 @@
 # Locomotion Robot
 
+### Quadruped
+
 | Project                                                      | Time | Algo                   | Github Links                                         | Conference             |
 | ------------------------------------------------------------ | ---- | ---------------------- | ---------------------------------------------------- | ---------------------- |
 | [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | 2020 | Imitation Learning     | https://github.com/erwincoumans/motion_imitation     | RSS(Best Paper Reward) |

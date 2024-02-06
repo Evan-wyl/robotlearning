@@ -2,7 +2,7 @@
 
 ### Datasets for Robotics
 
-| Dataset                                                      | Time | Feature                                        | Domains                     | Algo-Domains                           | Conference |
+| Dataset                                                      | Time | Feature                                        | Domains                     | Areas                                  | Conference |
 | ------------------------------------------------------------ | ---- | ---------------------------------------------- | --------------------------- | -------------------------------------- | ---------- |
 | [MIME](https://sites.google.com/view/mimedataset)            | 2018 | human demonstration & Robot demonstration      | manipulation                | mitation Learning                      | CoRL       |
 | [Robo Turk](https://roboturk.stanford.edu/)                  | 2018 | human teleoperation demonstration              | manipulation                | Imitation Learning                     | CoRL       |

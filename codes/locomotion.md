@@ -2,7 +2,7 @@
 
 ### Quadruped
 
-| Project                                                      | Time | Algo                   | Github Links                                         | Conference             |
+| Project                                                      | Time | Areas                  | Github Links                                         | Conference             |
 | ------------------------------------------------------------ | ---- | ---------------------- | ---------------------------------------------------- | ---------------------- |
 | [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | 2020 | Imitation Learning     | https://github.com/erwincoumans/motion_imitation     | RSS(Best Paper Reward) |
 | [RMA](https://ashish-kmr.github.io/rma-legged-robots/)       | 2021 | Reinforcement Learning | https://github.com/antonilo/rl_locomotion            | RSS                    |

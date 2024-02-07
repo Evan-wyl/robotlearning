@@ -4,7 +4,7 @@
 
 | Dataset                                                      | Time | Feature                                        | Domains                     | Areas                                  | Conference |
 | ------------------------------------------------------------ | ---- | ---------------------------------------------- | --------------------------- | -------------------------------------- | ---------- |
-| [MIME](https://sites.google.com/view/mimedataset)            | 2018 | human demonstration & Robot demonstration      | manipulation                | mitation Learning                      | CoRL       |
+| [MIME](https://sites.google.com/view/mimedataset)            | 2018 | human demonstration & Robot demonstration      | manipulation                | Imitation Learning                     | CoRL       |
 | [Robo Turk](https://roboturk.stanford.edu/)                  | 2018 | human teleoperation demonstration              | manipulation                | Imitation Learning                     | CoRL       |
 | [RoboNet](https://www.robonet.wiki/)                         | 2019 | vision frames                                  | vision-based manipulation   | Visual Foresight                       | CoRL       |
 | [BridgeData](https://sites.google.com/view/bridgedata)       | 2021 | multi-tasks and multi-domains of demonstration | manipulation                | Imitation Learning                     | RSS        |

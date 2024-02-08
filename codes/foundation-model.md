@@ -15,6 +15,7 @@
 
 | Project                                                      | Time | Github Links                                   | Conference |
 | ------------------------------------------------------------ | ---- | ---------------------------------------------- | ---------- |
+| [CLIP](https://github.com/OpenAI/CLIP)                       | 2021 | https://github.com/OpenAI/CLIP                 | PMLR       |
 | [OpenFlamingo](https://deepmind.google/discover/blog/tackling-multiple-tasks-with-a-single-visual-language-model/) | 2023 | https://github.com/mlfoundations/open_flamingo |            |
 
 

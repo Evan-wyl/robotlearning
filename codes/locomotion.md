@@ -10,4 +10,5 @@
 | [Walk These Way](https://gmargo11.github.io/walk-these-ways/) | 2022 | Reinforcement Learning | https://github.com/Improbable-AI/walk-these-ways     | CoRL(Oral)             |
 | [CMS](https://antonilo.github.io/vision_locomotion/)         | 2023 | Reinforcement Learning | https://github.com/antonilo/rl_locomotion            | ICRA                   |
 | [Parkour](https://robot-parkour.github.io/)                  | 2023 | Reinforcement Learning | https://github.com/ZiwenZhuang/parkour               | CoRL(Oral)             |
+| [ABS](https://agile-but-safe.github.io/)                     | 2024 | Reinforcement Learning | https://github.com/LeCAR-Lab/ABS                     | ICRA                   |
 

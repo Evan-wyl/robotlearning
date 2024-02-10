@@ -1,9 +1,7 @@
 # Robot Learning
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
 Papers, codes, datasets, applications, tutorials.
-
-
-
-
 
 
 
@@ -25,4 +23,3 @@ If you are interested in contributing, please refer to [HERE](https://github.com
 <p>扫描下方二维码关注公众号：whaleRobot</p>
 <img src="https://www.robotech.ink/usr/uploads/2024/02/43216513.jpg" width = 200 >
 </div>
-

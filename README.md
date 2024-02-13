@@ -6,7 +6,7 @@ Papers, codes, datasets, applications, tutorials.
 **Widely used by top conferences and journals:**
 
 - Conferences: [[RSS](https://roboticsconference.org/)] [[IROS](https://ieee-iros.org/)] [[ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)] [[CoRL](https://www.corl.org/)] [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)]
-- Journals: 
+- Journals: [[Science Robotics](https://www.science.org/journal/scirobotics)]
 
 
 

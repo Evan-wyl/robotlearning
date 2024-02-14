@@ -1,6 +1,6 @@
 # Locomotion Robot
 
-### Quadruped
+### Domain: Quadruped
 
 #### Area: Imitation Learning
 

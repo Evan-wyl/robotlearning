@@ -8,3 +8,5 @@
 
 - Natural pre-collected data is sub-optimal, noisy and contains multi-modes of behavior, all entangled in a single dataset.
 - Transformer can model the multi-mode data.
+
+**Experiment Result:**  https://mahis.life/bet/

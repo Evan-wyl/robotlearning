@@ -10,7 +10,7 @@
 
 ## Framework
 
-| Project                                  | Time | Area               | Support-Env |
-| ---------------------------------------- | ---- | ------------------ | ----------- |
-| [Robomimic](https://robomimic.github.io) | 2021 | Imitation Learning | Mujoco      |
+| Project                                                      | Time | Area               | Support-Env |
+| ------------------------------------------------------------ | ---- | ------------------ | ----------- |
+| [Robomimic](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/Robomimic.md) | 2021 | Imitation Learning | Mujoco      |
 

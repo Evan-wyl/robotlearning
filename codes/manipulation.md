@@ -1,6 +1,6 @@
 # Manipulation
 
-| Project                                                      | Time | Area                   | Github Link                                       | Env    | Dataset                                                |
+|                                                              | Time | Area                   | Github Link                                       | Env    | Dataset                                                |
 | ------------------------------------------------------------ | ---- | ---------------------- | ------------------------------------------------- | ------ | ------------------------------------------------------ |
 | [BeT](https://mahis.life/bet/)                               | 2022 | Behavior Transformer   | https://github.com/notmahi/bet                    | MuJoco | [CARLA](https://sites.google.com/view/d4rl-anonymous/) |
 | [MCAC](https://sites.google.com/view/mcac-rl)                | 2022 | Reinforcement Learning | https://github.com/albertwilcox/mcac              | MuJoco |                                                        |

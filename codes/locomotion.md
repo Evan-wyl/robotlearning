@@ -2,13 +2,13 @@
 
 ### Quadruped
 
-#### IL
+#### Area: Imitation Learning
 
 | Project                                                      | Time | Github Links                                     |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------ |
 | [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | 2020 | https://github.com/erwincoumans/motion_imitation |
 
-#### RL
+#### Area: Reinforcement Learning
 
 | Project                                                      | Time | Github Links                                         |
 | ------------------------------------------------------------ | ---- | ---------------------------------------------------- |

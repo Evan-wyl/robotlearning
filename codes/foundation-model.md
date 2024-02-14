@@ -1,6 +1,6 @@
 # Foundation Model
 
-### Transformer
+### Area: Transformer
 
 | Project                                           | Time | Github Links                                            |
 | ------------------------------------------------- | ---- | ------------------------------------------------------- |
@@ -11,7 +11,7 @@
 
 
 
-### VLM
+### Area: VLM
 
 | Project                                                      | Time | Github Links                                   |
 | ------------------------------------------------------------ | ---- | ---------------------------------------------- |
@@ -22,9 +22,9 @@
 
 
 
-### Manipulation
+### Area: Manipulation
 
-| Project                                         | Time | Algo                      | Github Links                                 |
+| Project                                         | Time | Area                      | Github Links                                 |
 | ----------------------------------------------- | ---- | ------------------------- | -------------------------------------------- |
 | [RoboFlamingo](https://roboflamingo.github.io/) | 2023 | VLMs & Imitation Learning | https://github.com/RoboFlamingo/RoboFlamingo |
 

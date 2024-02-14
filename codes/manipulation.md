@@ -1,10 +1,10 @@
 # Manipulation
 
-|                                                              | Time | Area                   | Github Link                                       | Env    | Dataset                                                |
-| ------------------------------------------------------------ | ---- | ---------------------- | ------------------------------------------------- | ------ | ------------------------------------------------------ |
-| [BeT](https://mahis.life/bet/)                               | 2022 | Behavior Transformer   | https://github.com/notmahi/bet                    | MuJoco | [CARLA](https://sites.google.com/view/d4rl-anonymous/) |
-| [MCAC](https://sites.google.com/view/mcac-rl)                | 2022 | Reinforcement Learning | https://github.com/albertwilcox/mcac              | MuJoco |                                                        |
-| [Diffusion Policy](https://diffusion-policy.cs.columbia.edu) | 2023 | Imitation Learning     | https://github.com/real-stanford/diffusion_policy | MuJoco |                                                        |
+|                                                              | Time | Area                   | Env    |
+| ------------------------------------------------------------ | ---- | ---------------------- | ------ |
+| [BeT](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/BeT.md) | 2022 | Behavior Transformer   | MuJoco |
+| [MCAC](https://sites.google.com/view/mcac-rl)                | 2022 | Reinforcement Learning | MuJoco |
+| [Diffusion Policy](https://diffusion-policy.cs.columbia.edu) | 2023 | Imitation Learning     | MuJoco |
 
 
 

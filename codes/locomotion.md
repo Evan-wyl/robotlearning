@@ -18,5 +18,6 @@
 | [Walk These Way](https://gmargo11.github.io/walk-these-ways/) | 2022 | https://github.com/Improbable-AI/walk-these-ways     |          |
 | [CMS](https://antonilo.github.io/vision_locomotion/)         | 2023 | https://github.com/antonilo/rl_locomotion            |          |
 | [Parkour](https://robot-parkour.github.io/)                  | 2023 | https://github.com/ZiwenZhuang/parkour               | IsaacGym |
+| [Extreme Parkour](https://extreme-parkour.github.io/)        | 2024 | https://github.com/chengxuxin/extreme-parkour        | IsaacGym |
 | [ABS](https://agile-but-safe.github.io/)                     | 2024 | https://github.com/LeCAR-Lab/ABS                     | IsaacGym |
 

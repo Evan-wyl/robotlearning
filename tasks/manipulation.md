@@ -15,7 +15,7 @@
 
 ## Summary
 
-- Src: Data Source
+- Src: data or adapted  source
 - #Rob: number of robots
 -  #Obj: number of objects
 - #ActD: action dimension

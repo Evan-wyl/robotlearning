@@ -1,14 +1,12 @@
-# Locomotion Robot
+## Domain: Quadruped
 
-### Domain: Quadruped
-
-#### Area: Imitation Learning
+### Area: Imitation Learning
 
 | Project                                                      | Time | Github Links                                     | Dataset |
 | ------------------------------------------------------------ | ---- | ------------------------------------------------ | ------- |
 | [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | 2020 | https://github.com/erwincoumans/motion_imitation |         |
 
-#### Area: Reinforcement Learning
+### Area: Reinforcement Learning
 
 | Project                                                      | Time | Github Links                                         | Env      |
 | ------------------------------------------------------------ | ---- | ---------------------------------------------------- | -------- |
@@ -20,4 +18,3 @@
 | [Parkour](https://robot-parkour.github.io/)                  | 2023 | https://github.com/ZiwenZhuang/parkour               | IsaacGym |
 | [Extreme Parkour](https://extreme-parkour.github.io/)        | 2024 | https://github.com/chengxuxin/extreme-parkour        | IsaacGym |
 | [ABS](https://agile-but-safe.github.io/)                     | 2024 | https://github.com/LeCAR-Lab/ABS                     | IsaacGym |
-

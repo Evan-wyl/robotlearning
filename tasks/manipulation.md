@@ -30,7 +30,7 @@
 | BlockPush | [BeT](https://arxiv.org/abs/2206.11251)                      | 1    | 2    | 2     | 0    | 0    | 350   | No   | No     |
 | Kitchen   | [Relay Policy](https://relay-policy-learning.github.io)      | 1    | 7    | 9     | 656  | 0    | 280   | No   | No     |
 
-<div align="center">
+<div>
   Table2. Task Summary.# Rob: number of robots, #Obj: number of objects, ActD: action dimension, PH: proficient-human demonstration, MH: multi-human demonstration, Steps: max number of rollout steps, HiPrec: whether the task has a high precision requirement.
 </div>
 

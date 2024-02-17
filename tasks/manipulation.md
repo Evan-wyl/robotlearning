@@ -11,13 +11,18 @@
 | BlockPush | This task tests the policy’s ability to model multimodal action distributions by pushing two blocks into two squares in any order. | :star::star::star::star::star::star:             |
 | Kitchen   | the Franka Kitchen environment contains 7 objects for interaction and comes with a human demonstration dataset of 566 demonstrations, each completing 4 tasks in arbitrary order. | :star::star::star::star::star::star::star::star: |
 
-<div align="center">
-  Table2. Task Description.
-</div>
-
 
 
 ## Summary
+
+- Src: Data Source
+- #Rob: number of robots
+-  #Obj: number of objects
+- #ActD: action dimension
+-  #PH: proficient-human demonstration
+-  #MH: multi-human demonstration
+-  Steps: max number of rollout steps
+-  HiPrec: whether the task has a high precision requirement.
 
 | Task      | Src                                                          | #Rob | #Obj | #ActD | #PH  | #MH  | Steps | Img? | HiPrec |
 | --------- | ------------------------------------------------------------ | ---- | ---- | ----- | ---- | ---- | ----- | ---- | -----: |
@@ -27,8 +32,5 @@
 | Transport | Robomimic                                                    | 2    | 3    | 14    | 200  | 300  | 700   | Yes  |     No |
 | ToolHang  | Robomimic                                                    | 1    | 2    | 7     | 200  | 0    | 700   | Yes  |    Yes |
 | Push-T    | [IBC](https://arxiv.org/abs/2109.00137)                      | 1    | 1    | 2     | 200  | 0    | 300   | Yes  |    Yes |
-| BlockPush | [BeT](https://arxiv.org/abs/2206.11251)                      | 1    | 2    | 2     | 0    | 0    | 350   | No   |     No |
+| BlockPush | [BeT](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/BeT.md) | 1    | 2    | 2     | 0    | 0    | 350   | No   |     No |
 | Kitchen   | [Relay Policy](https://relay-policy-learning.github.io)      | 1    | 7    | 9     | 656  | 0    | 280   | No   |     No |
-
-Table2. Task Summary.# Rob: number of robots, #Obj: number of objects, #ActD: action dimension, #PH: proficient-human demonstration, #MH: multi-human demonstration, Steps: max number of rollout steps, HiPrec: whether the task has a high precision requirement.
-

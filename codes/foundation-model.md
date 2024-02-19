@@ -11,20 +11,10 @@
 
 
 
-### Area: VLM
+### Area: VLA
 
-| Project                                                      | Time | Github Links                                   | Dataset |
-| ------------------------------------------------------------ | ---- | ---------------------------------------------- | ------- |
-| [CLIP](https://github.com/OpenAI/CLIP)                       | 2021 | https://github.com/OpenAI/CLIP                 |         |
-| [OpenFlamingo](https://deepmind.google/discover/blog/tackling-multiple-tasks-with-a-single-visual-language-model/) | 2023 | https://github.com/mlfoundations/open_flamingo |         |
-
-
-
-
-
-### Domain: Manipulation
-
-| Project                                         | Time | Area                      | Github Links                                 | Dataset |
-| ----------------------------------------------- | ---- | ------------------------- | -------------------------------------------- | ------- |
-| [RoboFlamingo](https://roboflamingo.github.io/) | 2023 | VLMs & Imitation Learning | https://github.com/RoboFlamingo/RoboFlamingo |         |
+| Project                                         | Time | Github Links                                 | Dataset |
+| ----------------------------------------------- | ---- | -------------------------------------------- | ------- |
+| [VIMA](https://vimalabs.github.io/)             | 2023 | https://github.com/vimalabs/VIMA             |         |
+| [RoboFlamingo](https://roboflamingo.github.io/) | 2023 | https://github.com/RoboFlamingo/RoboFlamingo |         |
 

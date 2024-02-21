@@ -7,9 +7,9 @@ Code: https://github.com/leggedrobotics/legged_gym
 ## Requirement
 
 - nvidia-driver-525-server
-- IsaacGym
 - Cuda 11.3
 - PyTorch 1.10
+- IsaacGym
 - rsl_rl v1.0.2
 
 

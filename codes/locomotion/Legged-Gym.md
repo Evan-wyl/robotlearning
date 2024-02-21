@@ -11,6 +11,7 @@ Code: https://github.com/leggedrobotics/legged_gym
 - PyTorch 1.10
 - IsaacGym
 - rsl_rl v1.0.2
+- setuptools 59.5.0
 
 
 
@@ -18,4 +19,4 @@ Code: https://github.com/leggedrobotics/legged_gym
 
 - `python legged_gym/script/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda --headless `
 
-- `python legged_gym/script/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda  `
+- `python legged_gym/script/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda --pipeline=cpu --num_envs=1024  `

@@ -10,7 +10,7 @@
 
 | Project                                                      | Time | Env      | Dataset |
 | ------------------------------------------------------------ | ---- | -------- | ------- |
-| [Legged gym](https://leggedrobotics.github.io/legged_gym/)   | 2021 | IsaacGym |         |
+| [Legged gym](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/locomotion/Legged-Gym.md) | 2021 | IsaacGym |         |
 | [RMA](https://ashish-kmr.github.io/rma-legged-robots/)       | 2021 |          |         |
 | [Rapid Locomotion](https://agility.csail.mit.edu/)           | 2022 | IsaacGym |         |
 | [Walk These Way](https://gmargo11.github.io/walk-these-ways/) | 2022 |          |         |

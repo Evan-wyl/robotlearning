@@ -2,7 +2,7 @@
 
 |                                                              | Time | Area                           | Env                                        | Dataset |
 | ------------------------------------------------------------ | ---- | ------------------------------ | ------------------------------------------ | ------- |
-| [Transporter Networks](https://transporternets.github.io)    | 2020 |                                | Ravens with Pybullet                       |         |
+| [Transporter Networks](https://transporternets.github.io)    | 2020 | Imitation Learning             | Ravens with Pybullet                       |         |
 | [Robomimic](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/Robomimic.md) | 2021 | Imitation Learning             | Robomimic & Gym & Pybullet & Mujoco & D4RL |         |
 | [BeT](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/BeT.md) | 2022 | Behavior Cloning & Transformer | PyBullet                                   |         |
 | [MCAC](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/MCAC.md) | 2022 | Reinforcement Learning         | MuJoco                                     |         |

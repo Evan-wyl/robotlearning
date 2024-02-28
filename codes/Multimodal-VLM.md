@@ -1,7 +1,7 @@
 
 
-| Project                             | Github Link                          | Dataset                                                      |
-| ----------------------------------- | ------------------------------------ | ------------------------------------------------------------ |
-| [LLaVA](https://llava-vl.github.io) | https://github.com/haotian-liu/LLaVA | https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K |
-|                                     |                                      |                                                              |
+| Project                             | Time | Feat                                                         |
+| ----------------------------------- | ---- | ------------------------------------------------------------ |
+| [LLaVA](https://llava-vl.github.io) | 2023 | [Vision Instruction Tuning](https://arxiv.org/abs/2304.08485) |
+|                                     |      |                                                              |
 

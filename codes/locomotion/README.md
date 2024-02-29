@@ -1,12 +1,14 @@
-## Domain: Quadruped
+## Locomotion
 
-### Area: Imitation Learning
+### Domain: Quadruped
+
+#### Area: Imitation Learning
 
 | Project                                                      | Time | Env  | Dataset |
 | ------------------------------------------------------------ | ---- | ---- | ------- |
 | [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | 2020 |      |         |
 
-### Area: Reinforcement Learning
+#### Area: Reinforcement Learning
 
 | Project                                                      | Time | Env      | Dataset |
 | ------------------------------------------------------------ | ---- | -------- | ------- |

@@ -1,4 +1,4 @@
-# Vision Language Action Large Model
+# Vision Language Action
 
 ### Area: Transformer
 

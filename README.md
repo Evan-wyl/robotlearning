@@ -12,7 +12,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Survey(综述)
 
-#### Vision-Lanuage-Action Large Model or Foundation Model
+#### Vision-Language-Action Model
 
 [2021] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 
@@ -26,7 +26,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
 
-#### Multimodal Large Model
+#### Vision-Language Model
 
 [2024] [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
 

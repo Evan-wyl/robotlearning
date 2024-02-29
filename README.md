@@ -52,7 +52,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Vision-Lanuage-Model](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/VLM)
 - [Vision-Lanuage-Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
-- [Quadruped Robot](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/locomotion/Quadruped)
+- [Locomotion](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/locomotion)
 - [Manipulation](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/manipulation)
 - [Bimanual Manipulation](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/bimanual.md)
 - [Planning](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/planning.md)

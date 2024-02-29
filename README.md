@@ -42,8 +42,9 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Robot Learning Areas and Papers(研究领域与论文)
 
-- Safe Reinforcement Learning
-- Vision Reinforcement Learning
+- [Multimodal Large Model or Vision-Language-Action Large Model](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/Multimodal-VLA.md)
+- [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
+- [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
 
 
 

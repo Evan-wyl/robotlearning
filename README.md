@@ -12,7 +12,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Survey(综述)
 
-#### Large Model or Foundation Model
+#### Vision-Lanuage-Action Large Model or Foundation Model
 
 [2021] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 
@@ -26,7 +26,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
 
-#### Multimodal Large Model or Vision-Lanuage Model
+#### Multimodal Large Model
 
 [2024] [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
 
@@ -42,7 +42,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Robot Learning Areas and Papers(研究领域与论文)
 
-- [Multimodal Large Model or Vision-Language-Action Large Model](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/Multimodal-VLA.md)
+- [Vision-Language-Action Large Model](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/Multimodal-VLA.md)
 - [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
 - [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
 

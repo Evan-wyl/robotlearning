@@ -1,6 +1,9 @@
-Project: https://agility.csail.mit.edu/
+# Rapid Locomotion
 
-Original Code: https://github.com/Improbable-AI/rapid-locomotion-rl
+|               | Links                                                |
+| ------------- | ---------------------------------------------------- |
+| Project       | https://agility.csail.mit.edu/                       |
+| Original Code | https://github.com/Improbable-AI/rapid-locomotion-rl |
 
 
 

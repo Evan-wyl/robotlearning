@@ -1,6 +1,9 @@
-Project: https://leggedrobotics.github.io/legged_gym/
+# Legged Gym
 
-Code: https://github.com/leggedrobotics/legged_gym
+|         | Links                                        |
+| ------- | -------------------------------------------- |
+| Project | https://leggedrobotics.github.io/legged_gym/ |
+| Code    | https://github.com/leggedrobotics/legged_gym |
 
 
 

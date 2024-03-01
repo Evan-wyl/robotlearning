@@ -30,11 +30,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
 
+[2024] [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601)
+
 #### Efficient Large Language Model
 
 [2023] [Efficient large language models: A survey](https://arxiv.org/abs/2312.03863)
 
-#### Vision
+#### Visions
 
 [2024] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
 

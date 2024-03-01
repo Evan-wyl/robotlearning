@@ -48,9 +48,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
 - [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
 
+## 2.Model Deploying(模型部署)
+
+- VLM
 
 
-## 2.Code(代码)
+
+## 3.Code(代码)
 
 - [Vision-Lanuage-Model](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/VLM)
 - [Vision-Lanuage-Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
@@ -61,7 +65,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 3.Datasets and Benchmarks(数据集与评测结果)
+## 4.Datasets and Benchmarks(数据集与评测结果)
 
 Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
@@ -69,13 +73,13 @@ Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/data)
 
 
 
-## 4.Tasks(任务)
+## 5.Tasks(任务)
 
 - [Manipulation](https://github.com/whaleRobot/Robot-Learning/blob/master/tasks/manipulation.md)
 
 
 
-## 5.Related Resource
+## 6.Related Resource(相关资源)
 
 #### Vision-Lanuage-Model
 

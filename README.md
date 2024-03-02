@@ -50,7 +50,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 2.Model Deploying(模型部署)
 
-- [VLM](https://github.com/whaleRobot/Robot-Learning/blob/master/deploy/VLM.md)
+- [Vision Language Model](https://github.com/whaleRobot/Robot-Learning/blob/master/deploy/VLM.md)
 
 
 

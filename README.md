@@ -8,6 +8,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - Conferences: [[RSS](https://roboticsconference.org/)] [[IROS](https://ieee-iros.org/)] [[ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)] [[CoRL](https://www.corl.org/)] [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)]
 - Journals: [[Science Robotics](https://www.science.org/journal/scirobotics)]
 
+**Multimodal Resource**:  [[mm-lm](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm)]
+
 
 
 ## 0.Survey(综述)
@@ -26,12 +28,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
 
-#### Vision-Language Model
-
-[2024] [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
-
-[2024] [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601)
-
 #### Efficient Large Language Model
 
 [2023] [Efficient large language models: A survey](https://arxiv.org/abs/2312.03863)
@@ -47,10 +43,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
 - [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
 - [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
-
-## 2.Model Deploying(模型部署)
-
-- [Vision Language Model](https://github.com/whaleRobot/Robot-Learning/blob/master/deploy/VLM.md)
 
 
 
@@ -76,14 +68,6 @@ Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/data)
 ## 5.Tasks(任务)
 
 - [Manipulation](https://github.com/whaleRobot/Robot-Learning/blob/master/tasks/manipulation.md)
-
-
-
-## 6.Related Resource(相关资源)
-
-#### Vision-Lanuage-Model
-
-- [mm-llm](https://mm-llms.github.io/)
 
 
 

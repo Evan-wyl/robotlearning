@@ -44,7 +44,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Robot Learning Areas and Papers(研究领域与论文)
 
-- [Vision-Language-Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
+- [Vision Language Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
 - [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
 - [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
 
@@ -56,8 +56,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 3.Code(代码)
 
-- [Vision-Lanuage-Model](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/VLM)
-- [Vision-Lanuage-Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
+- [Vision Lanuage Model](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/VLM)
+- [Vision Lanuage Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
 - [Locomotion](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/locomotion)
 - [Manipulation](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/manipulation)
 - [Bimanual Manipulation](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/bimanual.md)

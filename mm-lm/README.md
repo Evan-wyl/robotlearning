@@ -6,8 +6,6 @@
 
 ## 0.Survey(综述)
 
-#### Vision-Language Model
-
 [2024] [The (R)Evolution of Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2402.12451)
 
 [2024] [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://arxiv.org/abs/2401.13601)

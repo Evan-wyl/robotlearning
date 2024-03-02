@@ -1,4 +1,4 @@
-Anyone interested in multimodal large model is welcomed to contribute to this repo (by pull request):
+Anyone interested in robot learning is welcomed to contribute to this repo (by pull request):
 
 - You can add the latest publications / codes  / datasets / benchmark directly to `corresponding folder or file`.
 - If you would like to modify structure of files/tables, please give reason!

@@ -8,8 +8,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - Conferences: [[RSS](https://roboticsconference.org/)] [[IROS](https://ieee-iros.org/)] [[ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)] [[CoRL](https://www.corl.org/)] [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)]
 - Journals: [[Science Robotics](https://www.science.org/journal/scirobotics)]
 
-**Multimodal Resource**:  [[mm-lm](https://github.com/whaleRobot/Robot-Learning/tree/master/mm-lm)]
-
 
 
 ## 0.Survey(综述)

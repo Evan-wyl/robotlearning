@@ -26,10 +26,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
 
-#### Efficient Large Language Model
-
-[2023] [Efficient large language models: A survey](https://arxiv.org/abs/2312.03863)
-
 #### Visions
 
 [2024] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
@@ -39,7 +35,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ## 1.Robot Learning Areas and Papers(研究领域与论文)
 
 - [Vision Language Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
-- Locomotion
+- [Locomotion](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/locomotion.md)
 - [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
 - [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
 

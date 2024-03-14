@@ -2,17 +2,17 @@
 
 ### Datasets for Robotics
 
-| Dataset                                                      | Time | Feature                                        | Domains                     | Areas                                  |
-| ------------------------------------------------------------ | ---- | ---------------------------------------------- | --------------------------- | -------------------------------------- |
-| [MIME](https://sites.google.com/view/mimedataset)            | 2018 | human demonstration & Robot demonstration      | manipulation                | Imitation Learning                     |
-| [Robo Turk](https://roboturk.stanford.edu/)                  | 2018 | human teleoperation demonstration              | manipulation                | Imitation Learning                     |
-| [RoboNet](https://www.robonet.wiki/)                         | 2019 | vision frames                                  | vision-based manipulation   | Visual Foresight                       |
-| [BridgeData](https://sites.google.com/view/bridgedata)       | 2021 | multi-tasks and multi-domains of demonstration | manipulation                | Imitation Learning                     |
-| [BC-Z](https://sites.google.com/view/bc-z/home)              | 2021 | VR-teleoperated demonstrations                 | vision-based manipulation   | Imitation Learning and Active Learning |
-| [RoboSet](https://robopen.github.io/)                        | 2023 | multi-skill, multi-task, and multi-modal       | manipulation                | Imitation Learning                     |
-| [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) | 2023 | multi-task and multi-modal                     | manipulation                | Imitation Learning                     |
-| [RH20T](https://rh20t.github.io/)                            | 2023 | Human Demonstration, Robot Manipulation pairs  | manipulation                | Imitation Learning                     |
-| [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) | 2023 | Demonstration                                  | manipulation and locomotion | Large Model and Imitation Learning     |
+| Dataset                                                      | Feature                                        | Domains                     | Areas                                  |
+| ------------------------------------------------------------ | ---------------------------------------------- | --------------------------- | -------------------------------------- |
+| [BridgeData](https://sites.google.com/view/bridgedata)       | multi-tasks and multi-domains of demonstration | manipulation                | Imitation Learning                     |
+| [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) | multi-task and multi-modal                     | manipulation                | Imitation Learning                     |
+| [BC-Z](https://sites.google.com/view/bc-z/home)              | VR-teleoperated demonstrations                 | vision-based manipulation   | Imitation Learning and Active Learning |
+| [MIME](https://sites.google.com/view/mimedataset)            | human demonstration & Robot demonstration      | manipulation                | Imitation Learning                     |
+| [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) | Demonstration                                  | manipulation and locomotion | Large Model and Imitation Learning     |
+| [Robo Turk](https://roboturk.stanford.edu/)                  | human teleoperation demonstration              | manipulation                | Imitation Learning                     |
+| [RoboNet](https://www.robonet.wiki/)                         | vision frames                                  | vision-based manipulation   | Visual Foresight                       |
+| [RoboSet](https://robopen.github.io/)                        | multi-skill, multi-task, and multi-modal       | manipulation                | Imitation Learning                     |
+| [RH20T](https://rh20t.github.io/)                            | Human Demonstration, Robot Manipulation pairs  | manipulation                | Imitation Learning                     |
 
 
 

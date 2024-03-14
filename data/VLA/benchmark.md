@@ -4,8 +4,8 @@
 
 
 
-|                        Name                         |  X Open  | #.X  | #.A  |
-| :-------------------------------------------------: | :------: | ---- | ---- |
-|     [CALVIN](http://calvin.cs.uni-freiburg.de/)     | &#x2714; |      |      |
-| [VIMA-Bench](https://github.com/vimalabs/VimaBench) | &#x2714; |      |      |
+|                        Name                         |  X Open  | #.X  | #.A  |                       X Feat                       |
+| :-------------------------------------------------: | :------: | :--: | :--: | :------------------------------------------------: |
+|     [CALVIN](http://calvin.cs.uni-freiburg.de/)     | &#x2714; |      |      |     Composing Actions from Language and Vision     |
+| [VIMA-Bench](https://github.com/vimalabs/VimaBench) | &#x2714; |      |      | General Robot Manipulation with Multimodal Prompts |
 

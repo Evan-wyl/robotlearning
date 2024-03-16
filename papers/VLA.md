@@ -7,3 +7,5 @@
 [2023] [Vision-Language Foundation Models as Effective Robot Imitators](https://arxiv.org/abs/2311.01378)
 
 [2023] [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/abs/2308.07931)
+
+[2024] [OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics](https://arxiv.org/abs/2401.12202)

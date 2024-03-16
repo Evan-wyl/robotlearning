@@ -1,9 +1,11 @@
 ## Robotic Transformer
 
-| Project                                           | Time | Env  | Dataset |
-| ------------------------------------------------- | ---- | ---- | ------- |
-| [RT-1](https://robotics-transformer1.github.io/)  | 2022 |      |         |
-| [Metamorph](https://arxiv.org/abs/2203.11931)     | 2022 |      |         |
-| [RT-2](https://robotics-transformer2.github.io/)  | 2023 |      |         |
-| [RT-X](https://robotics-transformer-x.github.io/) | 2023 |      |         |
-| [RT-Sketch](https://rt-sketch.github.io/)         | 2024 |      |         |
+[2022] [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931)
+
+[2022] [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)
+
+[2023] [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)
+
+[2023] [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864)
+
+[2024] [RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches](https://arxiv.org/abs/2403.02709)

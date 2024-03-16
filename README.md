@@ -35,7 +35,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ## 1.Robot Learning Areas and Papers(研究领域与论文)
 
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/RT.md)
-- [Vision Language Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
+- [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)

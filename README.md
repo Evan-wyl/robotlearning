@@ -66,7 +66,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data/VL
 
 ## 5.Tasks(任务)
 
-- [Manipulation](https://github.com/whaleRobot/Robot-Learning/blob/master/tasks/manipulation.md)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/tasks/manipulation.md)
 
 
 

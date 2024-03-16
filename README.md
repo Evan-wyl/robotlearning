@@ -34,30 +34,30 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Robot Learning Areas and Papers(研究领域与论文)
 
-- [Robotic Transformer](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/RT.md)
+- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/RT.md)
 - [Vision Language Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
-- [Locomotion](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/locomotion.md)
-- [Safe Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/safe-rl.md)
-- [Vision Reinforcement Learning](https://github.com/whaleRobot/Robot-Learning/blob/master/papers/vision-rl.md)
+- [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
+- [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
+- [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 
 
 
 ## 3.Code(代码)
 
 - [Vision Lanuage Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/VLM)
-- [Vision Lanuage Action](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/VLA.md)
-- [Locomotion](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/locomotion)
-- [Manipulation](https://github.com/whaleRobot/Robot-Learning/tree/master/codes/manipulation)
-- [Bimanual Manipulation](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/bimanual.md)
-- [Planning](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/planning.md)
+- [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/VLA.md)
+- [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
+- [Bimanual Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
+- [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
 
 
 
 ## 4.Datasets and Benchmarks(数据集与评测结果)
 
-Please see [HERE](https://github.com/whaleRobot/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
-[这里](https://github.com/whaleRobot/Robot-Learning/tree/master/data)整理了机器人学习常用的公开数据集、仿真环境和一些已发表的文章在这些数据集上的实验结果。
+[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/data)整理了机器人学习常用的公开数据集、仿真环境和一些已发表的文章在这些数据集上的实验结果。
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data/VLA) for the popular vision-language-action **datasets, simulator and benchmark** results.
 

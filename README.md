@@ -22,6 +22,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)
 
+[2023] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+
 #### Safe Reinforcement Learning
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)

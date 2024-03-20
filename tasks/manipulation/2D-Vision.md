@@ -26,7 +26,7 @@
 
 | Task      | Src                                                          | #Rob | #Obj | #ActD | #PH  | #MH  | Steps | Img? | HiPrec |
 | --------- | ------------------------------------------------------------ | ---- | ---- | ----- | ---- | ---- | ----- | ---- | -----: |
-| Lift      | [Robomimic](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/manipulation/Robomimic.md) | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |     No |
+| Lift      | [Robomimic](https://robomimic.github.io/)                    | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |     No |
 | Can       | Robomimic                                                    | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |     No |
 | Square    | Robomimic                                                    | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |    Yes |
 | Transport | Robomimic                                                    | 2    | 3    | 14    | 200  | 300  | 700   | Yes  |     No |

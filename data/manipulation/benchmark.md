@@ -1,6 +1,14 @@
-## Manipulation with 3D Vision Benchmark
+# Benchmark
 
 ***ActD: the highest action dimension for the domain. #Demo: Number of expert demonstrations used for each task in the domain. Art: articulated objects. Deform: deformable objects.***
+
+| Domain                                    | Robo | Object | Simulator | ActD | #Task |
+| ----------------------------------------- | ---- | ------ | --------- | ---- | ----- |
+| [RoboMimic](https://robomimic.github.io/) |      |        |           |      |       |
+
+
+
+## Manipulation with 3D Vision Benchmark
 
 | Domain                                         | Robo    | Object      | Simulator     | ActD | #Task | #Demo |
 | ---------------------------------------------- | ------- | ----------- | ------------- | ---- | ----- | ----- |

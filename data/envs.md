@@ -9,12 +9,3 @@
 | [Legged Gym](https://leggedrobotics.github.io/legged_gym/) | manipulation & locomotion | https://github.com/leggedrobotics/legged_gym     |
 | [MuJoCo](https://mujoco.org/)                              | manipulation & locomotion | https://github.com/google-deepmind/mujoco        |
 | [Raisim](https://raisim.com/)                              | manipulation & locomotion | https://github.com/raisimTech/raisimLib          |
-
-
-
-### Foundation Model
-
-| Project                                 | Domains   | Github Links                               |
-| --------------------------------------- | --------- | ------------------------------------------ |
-| [VirtualHome](http://virtual-home.org/) | Household | https://github.com/xavierpuigf/virtualhome |
-

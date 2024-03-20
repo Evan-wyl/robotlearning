@@ -40,6 +40,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation.md)
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Bimanual.md)
 - [Dexterous Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Dexterous.md)
+- Humanoid Loco-manipulation
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 

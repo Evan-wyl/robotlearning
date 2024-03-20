@@ -11,13 +11,13 @@ Papers of Manipulation Policy.
 ||
 ||-dexterous: Dexterous Manipulation Policy
 ||
-||-HL: Humanoid-Loco Manipulation Policy
+||-hl: Humanoid-Loco Manipulation Policy
 ||
 ||-manipulation: Manipulation Policy
 ||
 ||-manipulation3d: Manipulation Policy with 3D Vision
 ||
-||-Planning：Planning of Manipulation Policy
+||-planning：Planning of Manipulation Policy
 ```
 
 

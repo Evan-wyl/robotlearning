@@ -7,13 +7,17 @@ Papers of Manipulation Policy.
 ```
 |-Manipulation
 ||
-||-bimanual: Bimanual
+||-bimanual: Bimanual Policy
 ||
-||-dexterous: Dexterous Manipulation
+||-dexterous: Dexterous Manipulation Policy
 ||
-||-manipulation: Manipulation with 2D Vision
+||-HL: Humanoid-Loco Manipulation Policy
 ||
-||-manipulation3d: Manipulation with 3D Vision
+||-manipulation: Manipulation Policy
+||
+||-manipulation3d: Manipulation Policy with 3D Vision
+||
+||-Planning：Planning of Manipulation Policy
 ```
 
 

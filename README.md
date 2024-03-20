@@ -30,6 +30,12 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
 
+#### Offline RL
+
+[2020] [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
+
+[2022] [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/abs/2203.01387)
+
 
 
 ## 1.Robot Learning Areas and Papers(研究领域与论文)

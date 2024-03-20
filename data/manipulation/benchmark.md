@@ -1,10 +1,4 @@
-## 2D Vision Benchmark
-
-
-
-
-
-## 3D Vision Benchmark
+## Manipulation with 3D Vision Benchmark
 
 ***ActD: the highest action dimension for the domain. #Demo: Number of expert demonstrations used for each task in the domain. Art: articulated objects. Deform: deformable objects.***
 

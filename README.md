@@ -60,10 +60,6 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 
 [这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/data)整理了机器人学习常用的公开数据集、仿真环境和一些已发表的文章在这些数据集上的实验结果。
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data/VLA) for the popular vision-language-action **datasets, simulator and benchmark** results.
-
-[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/data/VLA)整理了视觉-语言-动作模型常用的公开数据集、仿真环境和一些已发表的文章在这些数据集上的实验结果。
-
 
 
 ## 5.Tasks(任务)

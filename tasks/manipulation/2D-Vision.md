@@ -26,11 +26,11 @@
 
 | Task      | Src                                                          | #Rob | #Obj | #ActD | #PH  | #MH  | Steps | Img? | HiPrec |
 | --------- | ------------------------------------------------------------ | ---- | ---- | ----- | ---- | ---- | ----- | ---- | -----: |
-| Lift      | [Robomimic](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/Robomimic.md) | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |     No |
+| Lift      | [Robomimic](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/manipulation/Robomimic.md) | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |     No |
 | Can       | Robomimic                                                    | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |     No |
 | Square    | Robomimic                                                    | 1    | 1    | 7     | 200  | 300  | 400   | Yes  |    Yes |
 | Transport | Robomimic                                                    | 2    | 3    | 14    | 200  | 300  | 700   | Yes  |     No |
 | ToolHang  | Robomimic                                                    | 1    | 2    | 7     | 200  | 0    | 700   | Yes  |    Yes |
 | Push-T    | [IBC](https://arxiv.org/abs/2109.00137)                      | 1    | 1    | 2     | 200  | 0    | 300   | Yes  |    Yes |
-| BlockPush | [BeT](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/manipulation/BeT.md) | 1    | 2    | 2     | 0    | 0    | 350   | No   |     No |
+| BlockPush | [BeT](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/manipulation/BeT.md) | 1    | 2    | 2     | 0    | 0    | 350   | No   |     No |
 | Kitchen   | [Relay Policy](https://relay-policy-learning.github.io)      | 1    | 7    | 9     | 656  | 0    | 280   | No   |     No |

@@ -37,7 +37,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/RT.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation.md)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Humanoid Loco-manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Humanoid-Loco.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)

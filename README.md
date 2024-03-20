@@ -45,7 +45,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 2.Code(代码)
 
-- [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/VLA.md)
+- [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/VLA)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)

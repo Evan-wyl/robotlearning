@@ -39,13 +39,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation.md)
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Bimanual.md)
-- Dexterous Manipulation
+- [Dexterous Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Dexterous.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 
 
 
-## 3.Code(代码)
+## 2.Code(代码)
 
 - [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/VLA.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
@@ -53,9 +53,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
 
-
-
-## 4.Datasets and Benchmarks(数据集与评测结果)
+## 3.Datasets and Benchmarks(数据集与评测结果)
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
@@ -63,7 +61,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 
 
 
-## 5.Tasks(任务)
+## 4.Tasks(任务)
 
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks/manipulation)
 

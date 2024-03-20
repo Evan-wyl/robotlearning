@@ -38,6 +38,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation.md)
+- Manipulation with 3D Vision
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Bimanual.md)
 - [Dexterous Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Dexterous.md)
 - [Humanoid Loco-manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Humanoid-Loco.md)

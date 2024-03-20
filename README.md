@@ -38,7 +38,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation.md)
-- [Bimanual Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Bimanual.md)
+- [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Bimanual.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 
@@ -49,7 +49,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/VLA.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
-- [Bimanual Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
+- [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
 
 

@@ -61,8 +61,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
-[这里](https://github.com/Evan-wyl/Robot-Learning/tree/master/data)整理了机器人学习常用的公开数据集、仿真环境和一些已发表的文章在这些数据集上的实验结果。
-
 
 
 ## 4.Tasks

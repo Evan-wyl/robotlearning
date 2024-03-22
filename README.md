@@ -72,6 +72,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 ## 5. Related Resource
 
 - [rl_games](https://github.com/Denys88/rl_games)
+- [OpenDR](https://github.com/opendr-eu/opendr)
 
 
 

@@ -16,6 +16,7 @@
 | ------------------------------------------------------------ | ------------------------------------------ |
 | [2017] [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453) |                                            |
 | [2020] [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404) | :star2::star2::star2::star2::star2::star2: |
+| [2021] [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning](https://arxiv.org/abs/2109.11978) |                                            |
 | [2021] [RMA: Rapid Motor Adaptation for Legged Robots](https://arxiv.org/abs/2107.04034) | :star2::star2::star2::star2::star2:        |
 | [2022] [Rapid Locomotion via Reinforcement Learning](https://arxiv.org/abs/2205.02824) | :star2::star2::star2::star2::star2:        |
 | [2022] [Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior](https://arxiv.org/abs/2212.03238) |                                            |

@@ -10,7 +10,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 0.Survey(综述)
+## 0.Survey
 
 #### Vision-Language-Action Model
 
@@ -38,7 +38,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 1.Robot Learning Areas and Papers(研究领域与论文)
+## 1.Robot Learning Areas and Papers
 
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/RT.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
@@ -49,7 +49,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 2.Code(代码)
+## 2.Code
 
 - [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/VLA)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
@@ -57,7 +57,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
 
-## 3.Datasets and Benchmarks(数据集与评测结果)
+## 3.Datasets and Benchmarks
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
@@ -65,13 +65,13 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 
 
 
-## 4.Tasks(任务)
+## 4.Tasks
 
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks/manipulation)
 
 
 
-## Contributing (欢迎参与贡献)
+## Contributing
 
 If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/CONTRIBUTING.md) for instructions in contribution.
 

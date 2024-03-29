@@ -10,4 +10,6 @@
 
 [2023] [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/abs/2308.07931)
 
+[2023] [Think Before You Act: Decision Transformers with Internal Working Memory](https://arxiv.org/abs/2305.16338)
+
 [2024] [OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics](https://arxiv.org/abs/2401.12202)

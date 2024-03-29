@@ -20,6 +20,6 @@
 
 ## Usage
 
-- `python legged_gym/script/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda --headless `
+- `python legged_gym/scripts/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda --headless `
 
-- `python legged_gym/script/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda --pipeline=cpu --num_envs=1024  `
+- `python legged_gym/scripts/train.py --task=anymal_c_flat --sim_device=cuda --rl_device=cuda --pipeline=cpu --num_envs=1024  `

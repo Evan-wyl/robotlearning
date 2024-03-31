@@ -45,6 +45,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Autonomous Driving](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/auto-driving.md)
+- Computer Vision
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 

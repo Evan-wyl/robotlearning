@@ -42,7 +42,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/RT.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
-- [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/locomotion.md)
+- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
+- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Autonomous Driving](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/auto-driving.md)
 - [Computer Vision](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/cv.md)

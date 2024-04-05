@@ -14,13 +14,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 #### Vision-Language-Action Model
 
-| Papers                                                       | Recommendation Index                 |
-| ------------------------------------------------------------ | ------------------------------------ |
-| [2021] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258) | :star::star::star:                   |
-| [2023] [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843) | :star::star::star::star::star::star: |
-| [2023] [Robot Learning in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2311.14379) | :star::star::star:                   |
-| [2023] [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782) | :star::star::star::star::star:       |
-| [2023] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) | :star::star::star::star::star::star: |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
 
 #### Safe Reinforcement Learning
 
@@ -40,7 +40,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Robot Learning Areas and Papers
 
-- Embodied Intelligence
+- [Embodied Intelligence](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)

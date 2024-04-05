@@ -34,9 +34,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 3.Datasets and Benchmarks
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
-
-
+Please see Here for the popular robot learning **datasets, simulator and benchmark** results.
 
 
 
@@ -46,10 +44,6 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 - [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 
 
-
-## 5.Contributing
-
-If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/CONTRIBUTING.md) for instructions in contribution.
 
 ------
 

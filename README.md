@@ -8,6 +8,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - Top Conferences: [[RSS](https://roboticsconference.org/)] [[IROS](https://ieee-iros.org/)] [[ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)] [[CoRL](https://www.corl.org/)] [[NeurlPS](https://nips.cc/)] [[ICLR](https://iclr.cc/)] [[PMLR](https://proceedings.mlr.press/)] [[ICML](https://icml.cc/)]
 - Top Journals: [[T-RO](https://www.ieee-ras.org/publications/t-ro)] [[IJRR](https://journals.sagepub.com/home/ijr)] [[Science Robotics](https://www.science.org/journal/scirobotics)]
 
+**Related Resources:**
+
+- [Awesome-Embodied-AI](https://github.com/yunlongdong/Awesome-Embodied-AI)
+- [rl_games](https://github.com/Denys88/rl_games)
+- [OpenDR](https://github.com/opendr-eu/opendr)
+- [dex-urdf](https://github.com/dexsuite/dex-urdf)
+
 
 
 ## 0.Survey
@@ -71,14 +78,6 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 ## 4.Tasks
 
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks/manipulation)
-
-
-
-## 5. Related Resource
-
-- [rl_games](https://github.com/Denys88/rl_games)
-- [OpenDR](https://github.com/opendr-eu/opendr)
-- [dex-urdf](https://github.com/dexsuite/dex-urdf)
 
 
 

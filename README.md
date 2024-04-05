@@ -40,13 +40,10 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Robot Learning Areas and Papers
 
-- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/RT.md)
-- [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/VLA.md)
+- Embodied Intelligence
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
-- [Autonomous Driving](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/auto-driving.md)
-- [Computer Vision](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/cv.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 

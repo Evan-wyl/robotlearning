@@ -77,6 +77,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 ## 5.Related Resources
 
 - [Awesome-Embodied-AI](https://github.com/yunlongdong/Awesome-Embodied-AI)
+- [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 - [rl_games](https://github.com/Denys88/rl_games)
 - [OpenDR](https://github.com/opendr-eu/opendr)
 - [dex-urdf](https://github.com/dexsuite/dex-urdf)

@@ -12,16 +12,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Survey
 
-#### Vision-Language-Action Model
-
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-
 #### Safe Reinforcement Learning
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
@@ -38,7 +28,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 1.Robot Learning Areas and Papers
+## 1.Research Areas and Papers
 
 - [Embodied Intelligence](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
@@ -51,7 +41,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 2.Code
 
-- [Vision Lanuage Action](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/VLA)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
@@ -73,8 +62,6 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 
 ## 5.Related Resources
 
-- [Awesome-Embodied-AI](https://github.com/yunlongdong/Awesome-Embodied-AI)
-- [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 - [rl_games](https://github.com/Denys88/rl_games)
 - [OpenDR](https://github.com/opendr-eu/opendr)
 - [dex-urdf](https://github.com/dexsuite/dex-urdf)

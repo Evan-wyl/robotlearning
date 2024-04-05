@@ -17,3 +17,42 @@ Papers, codes, datasets, tasks, applications, tutorials.
 [2023] [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782)
 
 [2023] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+
+
+
+## 1.Research Areas and Papers
+
+
+
+
+
+## 2.Code
+
+
+
+
+
+## 3.Datasets and Benchmarks
+
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
+
+
+
+
+
+## 4.Related Resources
+
+- [Awesome-Embodied-AI](https://github.com/yunlongdong/Awesome-Embodied-AI)
+- [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
+
+
+
+## 5.Contributing
+
+If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/CONTRIBUTING.md) for instructions in contribution.
+
+------
+
+### Copyright notice
+
+> ***[Notes]This Github repo can be used by following the corresponding licenses. I want to emphasis that it may contain some PDFs or thesis, which were downloaded by me and can only be used for academic purposes. The copyrights of these materials are owned by corresponding publishers or organizations. All this are for better adademic research. If any of the authors or publishers have concerns, please contact me to delete or replace them.***

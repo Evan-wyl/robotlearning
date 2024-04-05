@@ -22,6 +22,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Research Areas and Papers
 
+- Robotic Transformer
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/manipulation.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/agents.md)

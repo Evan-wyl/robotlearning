@@ -10,6 +10,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2021] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 
+[2023] [Large language models for human–robot interaction: A review](https://www.sciencedirect.com/science/article/pii/S2667379723000451)
+
 [2023] [Foundation Models in Robotics: Applications, Challenges, and the Future](https://arxiv.org/abs/2312.07843)
 
 [2023] [Robot Learning in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2311.14379)
@@ -18,11 +20,17 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 
+[2024] [Large Language Models for Robotics: Opportunities, Challenges, and Perspectives](https://arxiv.org/abs/2401.04334)
+
+[2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
+
 
 
 ## 1.Research Areas and Papers
 
-
+- Locomotion
+- Manipulation
+- Agents
 
 
 
@@ -34,7 +42,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 3.Datasets and Benchmarks
 
-Please see Here for the popular robot learning **datasets, simulator and benchmark** results.
+Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
 
 

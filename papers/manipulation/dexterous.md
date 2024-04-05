@@ -1,5 +1,9 @@
 ### Papers
 
+[2019] [DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System](https://arxiv.org/abs/1910.03135)
+
+[2022] [Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations](https://arxiv.org/abs/2207.05053)
+
 [2023] [Dexterous Functional Grasping](https://arxiv.org/abs/2312.02975)
 
 [2023] [Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations](https://arxiv.org/abs/2303.01497)

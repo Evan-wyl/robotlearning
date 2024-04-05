@@ -15,3 +15,5 @@
 [2023] [Behavior Transformers: Cloning k modes with one stone](https://arxiv.org/abs/2206.11251)
 
 [2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
+
+[2024] [A visual imitation learning algorithm for the selection of robots’ grasping points](https://www.sciencedirect.com/science/article/abs/pii/S0921889023002397)

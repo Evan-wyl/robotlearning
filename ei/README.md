@@ -16,7 +16,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 | [2023] [Robot Learning in the Era of Foundation Models: A Survey](https://arxiv.org/abs/2311.14379) |                                            |
 | [2023] [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/abs/2312.08782) | :star2::star2::star2::star2::star2:        |
 | [2024] [Large Language Models for Robotics: Opportunities, Challenges, and Perspectives](https://arxiv.org/abs/2401.04334) |                                            |
-| [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915) | :star2::star2::star2:                      |
 
 
 

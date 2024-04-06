@@ -12,6 +12,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Survey
 
+[2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
+
 #### Safe Reinforcement Learning
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)

@@ -44,6 +44,7 @@ Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data
 
 ## 4.Related Resources
 
+- [Multimodal-Large-Model](https://github.com/Evan-wyl/Multimodal-Large-Model)
 - [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 
 

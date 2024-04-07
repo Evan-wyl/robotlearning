@@ -22,7 +22,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ## 1.Research Areas and Papers
 
 - Robot Policy Learning
-- [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/LIGCVL.md)
+- [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/ligcvl.md)
 - LLM-Based Code Generation
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/rt.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/perception.md)

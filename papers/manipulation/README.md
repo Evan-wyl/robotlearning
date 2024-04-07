@@ -3,7 +3,6 @@
 Papers of Manipulation Policy.
 
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/bimanual.md)
-- [Representation Learningfor Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/cv.md)
 - [Dexterous Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/dexterous.md)
 - [Humanoid-Loco Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/hl.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/manipulation.md)

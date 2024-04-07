@@ -25,6 +25,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/vla.md)
 - [Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/locomotion.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/manipulation.md)
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/cv.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/agents.md)
 - [Data Acquisition](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/dq.md)
 

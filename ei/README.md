@@ -24,7 +24,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/rpl.md)
 - [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/ligcvl.md)
 - [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/hltp.md)
-- LLM-Based Code Generation
+- [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/llmcg.md)
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/rt.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/perception.md)
 - Embodied AI

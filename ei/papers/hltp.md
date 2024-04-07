@@ -1,4 +1,4 @@
-### High-Level Task Planning
+## High-Level Task Planning
 
 [2023] [NL2TL: Transforming Natural Languages to Temporal Logics using Large Language Models](https://arxiv.org/abs/2305.07766)
 

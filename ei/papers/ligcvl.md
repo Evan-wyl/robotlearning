@@ -1,4 +1,4 @@
-### Language Image Goal Conditioned Value Learning
+## Language Image Goal Conditioned Value Learning
 
 [2021] [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
 

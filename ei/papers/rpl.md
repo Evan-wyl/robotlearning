@@ -14,6 +14,10 @@
 
 [2023] [Language-Driven Representation Learning for Robotics](https://arxiv.org/abs/2302.12766)
 
+[2023] [Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation](https://arxiv.org/abs/2308.07931)
+
+[2024] [Language-Conditioned Robotic Manipulation with Fast and Slow Thinking](https://arxiv.org/abs/2401.04181)
+
 
 
 ### Language-Assisted Reinforcement Learning

@@ -4,6 +4,12 @@
 
 [2022] [RT-1: Robotics Transformer for Real-World Control at Scale](https://arxiv.org/abs/2212.06817)
 
+[2022] [PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training](https://arxiv.org/abs/2209.11133)
+
+[2022] [Masked Visual Pre-training for Motor Control](https://arxiv.org/abs/2203.06173)
+
+[2022] [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/abs/2210.03109)
+
 [2023] [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/abs/2307.15818)
 
 [2023] [Open X-Embodiment: Robotic Learning Datasets and RT-X Models](https://arxiv.org/abs/2310.08864)

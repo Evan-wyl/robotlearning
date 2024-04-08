@@ -1,5 +1,13 @@
 ## Perception
 
+### Survey
+
+[2024] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181) 
+
+[2024] [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
+
+
+
 ### Open-Vocabulary Object Detection and 3D classification
 
 [2021] [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)

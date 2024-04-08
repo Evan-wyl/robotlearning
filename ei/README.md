@@ -28,6 +28,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/rt.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/perception.md)
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/ea.md)
+- [Pose Estimation](https://arxiv.org/abs/2312.08344)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/agents.md)
 
 

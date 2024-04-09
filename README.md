@@ -32,7 +32,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Research Areas and Papers
 
-- [Embodied Intelligence](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei)
+- [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)

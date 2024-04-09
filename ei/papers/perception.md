@@ -53,3 +53,11 @@
 [2023] [Affordances from Human Videos as a Versatile Representation for Robotics](https://arxiv.org/abs/2304.08488)
 
 [2023] [Affordance diffusion: Synthesizing hand-object interactions.](https://arxiv.org/abs/2303.12538)
+
+
+
+### Pose Estimation
+
+[2024] [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344)
+
+[2024] [HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud](https://arxiv.org/abs/2404.03159)

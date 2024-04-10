@@ -21,14 +21,14 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Research Areas and Papers
 
-- [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/rpl.md)
-- [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/ligcvl.md)
-- [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/hltp.md)
-- [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/llmcg.md)
-- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/rt.md)
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/perception.md)
-- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/ea.md)
-- [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/ei/papers/agents.md)
+- [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/rpl.md)
+- [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/ligcvl.md)
+- [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/hltp.md)
+- [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llmcg.md)
+- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/rt.md)
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/perception.md)
+- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/ea.md)
+- [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 
 
 

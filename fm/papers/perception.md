@@ -8,6 +8,12 @@
 
 
 
+### Dataset
+
+[2024] [MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception](https://arxiv.org/abs/2403.11496)
+
+
+
 ### Open-Vocabulary Object Detection and 3D classification
 
 [2021] [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)

@@ -1,14 +1,15 @@
 # Datasets
 
-| Dataset                                                      | Robo | Simulator |
-| ------------------------------------------------------------ | ---- | --------- |
-| [BridgeData](https://sites.google.com/view/bridgedata)       |      |           |
-| [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) |      |           |
-| [BC-Z](https://sites.google.com/view/bc-z/home)              |      |           |
-| [MIME](https://sites.google.com/view/mimedataset)            |      |           |
-| [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) |      |           |
-| [Robo Turk](https://roboturk.stanford.edu/)                  |      |           |
-| [RoboNet](https://www.robonet.wiki/)                         |      |           |
-| [RoboSet](https://robopen.github.io/)                        |      |           |
-| [RH20T](https://rh20t.github.io/)                            |      |           |
-| [DROID](https://droid-dataset.github.io/)                    |      |           |
+***X  Open represents whether the dataset is open source,#.X represents the quantity of X, and#.A represents the quantity of Action***
+
+|                           Dataset                            |  X Open  | #.X  | #.A  | Robo | Simulator |
+| :----------------------------------------------------------: | :------: | :--: | :--: | :--: | :-------: |
+|    [BridgeData](https://sites.google.com/view/bridgedata)    | &#x2714; |      |      |      |           |
+| [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) | &#x2714; |      |      |      |           |
+|       [BC-Z](https://sites.google.com/view/bc-z/home)        | &#x2714; |      |      |      |           |
+|      [MIME](https://sites.google.com/view/mimedataset)       | &#x2714; |      |      |      |           |
+|         [Robo Turk](https://roboturk.stanford.edu/)          | &#x2714; |      |      |      |           |
+|             [RoboNet](https://www.robonet.wiki/)             | &#x2714; |      |      |      |           |
+|            [RoboSet](https://robopen.github.io/)             | &#x2714; |      |      |      |           |
+|              [RH20T](https://rh20t.github.io/)               | &#x2714; |      |      |      |           |
+|          [DROID](https://droid-dataset.github.io/)           | &#x2714; |      |      |      |           |

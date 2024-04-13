@@ -29,8 +29,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vla.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/perception.md)
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/ea.md)
-- [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 - [Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/lm.md)
+- [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 
 
 
@@ -48,7 +48,6 @@ Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data
 
 ## 4.Related Resources
 
-- [Multimodal-Large-Model](https://github.com/Evan-wyl/Multimodal-Large-Model)
 - [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 
 

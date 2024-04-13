@@ -11,3 +11,4 @@
 | [RoboNet](https://www.robonet.wiki/)                         |      |           |
 | [RoboSet](https://robopen.github.io/)                        |      |           |
 | [RH20T](https://rh20t.github.io/)                            |      |           |
+| [DROID](https://droid-dataset.github.io/)                    |      |           |

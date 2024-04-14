@@ -12,6 +12,14 @@
 
 
 
+### Papers
+
+[2024] [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)
+
+[2024] [Octopus v2: On-device language model for super agent](https://arxiv.org/abs/2404.01744)
+
+
+
 ## Large Vision Model
 
 [2021] [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)

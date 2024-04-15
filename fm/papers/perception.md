@@ -6,6 +6,8 @@
 
 [2024] [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 
+[2024] [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization](https://arxiv.org/abs/2404.07771)
+
 
 
 ### Dataset

@@ -4,11 +4,13 @@
 
 [2023] [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 
+[2023] [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863)
+
 [2024] [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)
 
 [2024] [Efficient Prompting Methods for Large Language Models: A Survey](https://arxiv.org/abs/2404.01077)
 
-[2023] [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863)
+[2024] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 
 
 

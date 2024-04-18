@@ -47,3 +47,7 @@
 
 
 
+### Papers
+
+[2024] [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://arxiv.org/abs/2403.00522)
+

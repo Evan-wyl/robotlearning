@@ -10,6 +10,8 @@
 
 [2024] [Efficient Prompting Methods for Large Language Models: A Survey](https://arxiv.org/abs/2404.01077)
 
+[2024] [On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models](https://arxiv.org/abs/2403.04204)
+
 [2024] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 
 

@@ -18,4 +18,6 @@
 
 [2023] [Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://arxiv.org/abs/2310.10639)
 
+[2023] [Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor](https://arxiv.org/abs/2311.01248)
+
 [2024] [A visual imitation learning algorithm for the selection of robots’ grasping points](https://www.sciencedirect.com/science/article/abs/pii/S0921889023002397)

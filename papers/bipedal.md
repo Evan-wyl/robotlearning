@@ -11,3 +11,5 @@
 [2024] [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
 
 [2024] [Real-world humanoid locomotion with reinforcement learning](https://www.science.org/doi/10.1126/scirobotics.adi9579)
+
+[2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)

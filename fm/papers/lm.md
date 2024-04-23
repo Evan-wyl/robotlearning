@@ -53,3 +53,5 @@
 
 [2024] [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://arxiv.org/abs/2403.00522)
 
+[2024] [Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models](https://arxiv.org/abs/2402.07865)
+

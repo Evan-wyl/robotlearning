@@ -7,3 +7,5 @@
 [2023] [ChatGPT for Robotics: Design Principles and Model Abilities](https://arxiv.org/abs/2306.17582)
 
 [2024] [RoboScript: Code Generation for Free-Form Manipulation Tasks across Real and Simulation](https://arxiv.org/abs/2402.14623)
+
+[2024] [Programming-by-Demonstration for Long-Horizon Robot Tasks](https://dl.acm.org/doi/pdf/10.1145/3632860)

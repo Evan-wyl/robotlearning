@@ -14,3 +14,5 @@
 - gym 0.21.0
 - hydra-core 1.2.0
 - robomimic 0.2.0
+- numba 0.56.4
+- [robosuite](https://github.com/cheng-chi/robosuite/archive/277ab9588ad7a4f4b55cf75508b44aa67ec171f0.tar.gz)

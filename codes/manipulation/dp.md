@@ -13,3 +13,4 @@
 - wheel 0.38.4
 - gym 0.21.0
 - hydra-core 1.2.0
+- robomimic 0.2.0

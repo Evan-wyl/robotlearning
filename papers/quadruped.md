@@ -17,3 +17,18 @@
 | [2024] [DTC: Deep Tracking Control](https://www.science.org/doi/abs/10.1126/scirobotics.adh5401) | :star2::star2::star2::star2::star2:        |
 | [2024] [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583) | :star2::star2::star2::star2::star2:        |
 
+
+
+#### Whole Body Control
+
+[2022] [Efficient multitask learning with an embodied predictive model for door opening and entry with whole-body control](https://www.science.org/doi/abs/10.1126/scirobotics.aax8177)
+
+[2022] [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)
+
+[2023] [Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion](https://arxiv.org/abs/2303.11330)
+
+[2023] [Learning Whole-body Manipulation for Quadrupedal Robot](https://arxiv.org/abs/2308.16820)
+
+[2023] [Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks](https://openreview.net/pdf?id=QG_ERxtDAP-)
+
+[2023] [DribbleBot: Dynamic Legged Manipulation in the Wild](https://arxiv.org/abs/2304.01159)

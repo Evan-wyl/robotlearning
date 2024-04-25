@@ -12,8 +12,6 @@
 
 [2024] [Real-world humanoid locomotion with reinforcement learning](https://www.science.org/doi/10.1126/scirobotics.adi9579)
 
-[2024] [Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer](https://arxiv.org/abs/2404.05695)
-
 
 
 #### Whole Body Control

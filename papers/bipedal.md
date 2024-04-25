@@ -28,3 +28,8 @@
 
 [2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
 
+
+
+#### Simulated Humanoid Control
+
+[2023] [Perpetual Humanoid Control for Real-time Simulated Avatars](https://arxiv.org/abs/2305.06456)

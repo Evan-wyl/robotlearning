@@ -20,12 +20,3 @@
 | [Parkour](https://robot-parkour.github.io/)                  | IsaacGym | &#x2714; |
 | [Extreme Parkour](https://extreme-parkour.github.io/)        | IsaacGym | &#x2714; |
 | [ABS](https://agile-but-safe.github.io/)                     | IsaacGym | &#x2714; |
-
-
-
-## Bipedal Robot
-
-| Project | Env  |  X Open  |
-| ------- | :--: | :------: |
-|         |      | &#x2714; |
-

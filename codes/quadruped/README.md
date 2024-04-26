@@ -1,12 +1,12 @@
->  ***X Open: represent whether the code is open source***
+>  ***X Open: represent whether the code is open source,Dataset Open: represent whether the dataset is open source***
 
 ## Quadruped Robot
 
 ### Imitation Learning
 
-| Project                                                      |   Env    | Dataset |  X Open  |
-| ------------------------------------------------------------ | :------: | :-----: | :------: |
-| [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | PyBullet |         | &#x2714; |
+| Project                                                      |   Env    | Dataset Open |  X Open  |
+| ------------------------------------------------------------ | :------: | :----------: | :------: |
+| [motion imitation](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) | PyBullet |   &#x2714;   | &#x2714; |
 
 ### Reinforcement Learning
 

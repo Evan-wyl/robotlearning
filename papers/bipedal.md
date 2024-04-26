@@ -16,8 +16,6 @@
 
 #### Whole Body Control
 
-[2022] [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
-
 [2023] Robust and versatile bipedal jumping control through multi-task reinforcement learning
 
 [2023] [Sim-to-Real Learning for Humanoid Box Loco-Manipulation](https://arxiv.org/abs/2310.03191)

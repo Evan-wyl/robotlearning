@@ -21,6 +21,8 @@
 
 #### Whole Body Control
 
+[2022] [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
+
 [2022] [Efficient multitask learning with an embodied predictive model for door opening and entry with whole-body control](https://www.science.org/doi/abs/10.1126/scirobotics.aax8177)
 
 [2022] [Hierarchical Reinforcement Learning for Precise Soccer Shooting Skills using a Quadrupedal Robot](https://arxiv.org/abs/2208.01160)

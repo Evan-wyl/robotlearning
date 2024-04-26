@@ -53,13 +53,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 3.Datasets and Benchmarks
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results.
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results. The links of datasets only are acquired by summarizing survey papers. If you would need more, you can acquire it by linking [codes.](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes)  
 
 
 
 ## 4.Tasks
 
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks/manipulation)
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) for the popular robot learning tasks.
 
 
 

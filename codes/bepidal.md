@@ -2,10 +2,10 @@
 
 ## Bipedal Robot
 
-| Project                                                 | Env  |  X Open  |
-| ------------------------------------------------------- | :--: | :------: |
-| AMP                                                     |      |          |
-| [ASE](https://xbpeng.github.io/projects/ASE/index.html) |      | &#x2714; |
-| [FLD](https://sites.google.com/view/iclr2024-fld/home)  |      | &#x2714; |
-| ExBody                                                  |      |          |
+| Project                                                 |   Env    |  X Open  |
+| ------------------------------------------------------- | :------: | :------: |
+| AMP                                                     | IsaacGym |          |
+| [ASE](https://xbpeng.github.io/projects/ASE/index.html) | IsaacGym | &#x2714; |
+| [FLD](https://sites.google.com/view/iclr2024-fld/home)  | IsaacGym | &#x2714; |
+| ExBody                                                  | IsaacGym |          |
 

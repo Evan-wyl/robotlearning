@@ -43,7 +43,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 2.Code
 
-- [Locomotion](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/locomotion)
+- [Bepidal](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bepidal.md)
+- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/quadruped)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)

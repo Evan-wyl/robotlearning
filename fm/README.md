@@ -50,6 +50,7 @@ Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data
 ## 4.Related Resources
 
 - [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
+- [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 
 

@@ -1,4 +1,4 @@
-> If you need more, Please read [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/abs/2402.05741)
+***If you would like to deeply understand for Multi-Modal Large Model in Robotics, Please read [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/abs/2402.05741)***
 
 ## Multi-Modal Large Model
 
@@ -67,3 +67,18 @@
 
 [2024] [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168)
 
+
+
+### More than One Modal
+
+[2022] [Human Motion Diffusion Model](https://arxiv.org/abs/2209.14916)
+
+[2023] [ImageBind: One Embedding Space To Bind Them All](https://arxiv.org/abs/2305.05665)
+
+[2023] [Meta-Transformer: A Unified Framework for Multimodal Learning](https://arxiv.org/abs/2307.10802)
+
+[2023] [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344)
+
+[2023] [T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations](https://arxiv.org/abs/2301.06052)
+
+[2023] [GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents](https://arxiv.org/abs/2303.14613)

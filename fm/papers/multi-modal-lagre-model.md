@@ -45,3 +45,23 @@
 
 [2022] [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)
 
+
+
+### 3D Representation Vision Language Model
+
+[2022] [ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)
+
+[2022] [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
+
+[2023] [CLIP goes 3D: Leveraging Prompt Tuning for Language Grounded 3D Recognition](https://arxiv.org/abs/2303.11313)
+
+[2023] [OmniObject3D: Large-Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation](https://arxiv.org/abs/2301.07525)
+
+[2023] [3D-LLM: Injecting the 3D World into Large Language Models](https://arxiv.org/abs/2307.12981)
+
+[2023] [OpenScene: 3D Scene Understanding with Open Vocabularies](https://arxiv.org/abs/2211.15654)
+
+[2023] [LL3DA: Visual Interactive Instruction Tuning for Omni-3D Understanding, Reasoning, and Planning](https://arxiv.org/abs/2311.18651)
+
+[2024] [SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities](https://arxiv.org/abs/2401.12168)
+

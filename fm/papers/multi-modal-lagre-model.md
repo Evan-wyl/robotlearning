@@ -27,3 +27,21 @@
 
 [2024] [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://arxiv.org/abs/2404.14396)
 
+
+
+### Audio Vision Language Model
+
+[2021] [AudioCLIP: Extending CLIP to Image, Text and Audio](https://arxiv.org/abs/2106.13043v1)
+
+[2022] [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769)
+
+[2023] [MusicLM: Generating Music From Text](https://arxiv.org/abs/2301.11325)
+
+[2023] [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111)
+
+
+
+### Audio Language Model
+
+[2022] [Robust Speech Recognition via Large-Scale Weak Supervision](https://arxiv.org/abs/2212.04356)
+

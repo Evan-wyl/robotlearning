@@ -18,10 +18,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
 
-#### Visions
-
-[2024] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181)
-
 #### Offline RL
 
 [2020] [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)

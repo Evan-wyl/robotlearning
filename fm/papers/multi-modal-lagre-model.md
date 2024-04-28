@@ -1,3 +1,5 @@
+> If you need more, Please read [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/abs/2402.05741)
+
 ## Multi-Modal Large Model
 
 ### Survey

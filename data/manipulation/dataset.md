@@ -13,6 +13,6 @@
 |             [RoboNet](https://www.robonet.wiki/)             | &#x2714; |                   |      |      |      |           |
 |            [RoboSet](https://robopen.github.io/)             | &#x2714; |                   |      |      |      |           |
 |              [RH20T](https://rh20t.github.io/)               | &#x2714; |                   |      |      |      |           |
-|       [RT-1](https://robotics-transformer1.github.io/)       |          |                   |      |      |      |           |
-|      [RT-X](https://robotics-transformer-x.github.io/)       |          |                   |      |      |      |           |
+|       [RT-1](https://robotics-transformer1.github.io/)       | &#x2714; | Household Kitchen |      |      |      |           |
+|      [RT-X](https://robotics-transformer-x.github.io/)       | &#x2714; |                   |      |      |      |           |
 |          [DROID](https://droid-dataset.github.io/)           | &#x2714; |                   |      |      |      |           |

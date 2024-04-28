@@ -15,7 +15,7 @@
 
 
 
-### Papers
+### Vision Language Model
 
 [2024] [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://arxiv.org/abs/2403.00522)
 
@@ -24,5 +24,6 @@
 [2024] [VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing](https://vitron-llm.github.io/)
 
 [2024] [Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference](https://arxiv.org/abs/2403.14520)
+
 [2024] [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://arxiv.org/abs/2404.14396)
 

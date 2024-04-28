@@ -30,8 +30,10 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vla.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/perception.md)
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/ea.md)
-- [Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/lm.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
+- [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)
+- [Large Vision Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/large-vision-model.md)
+- [Multi-Modal Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multi-modal-lagre-model.md)
 
 
 

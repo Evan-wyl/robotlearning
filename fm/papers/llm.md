@@ -14,6 +14,8 @@
 
 [2024] [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 
+[2024] [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)
+
 
 
 ### Papers

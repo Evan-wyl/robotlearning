@@ -6,5 +6,5 @@
 | :-----------------------------------: | :------: | ---- | ---- |
 | [SFU mocap](https://mocap.cs.sfu.ca/) | &#x2714; |      |      |
 | [CMU mocap](http://mocap.cs.cmu.edu/) | &#x2714; |      |      |
-| [AMASS](https://amass.is.tue.mpg.de/) |          |      |      |
+| [AMASS](https://amass.is.tue.mpg.de/) | &#x2714; |      |      |
 

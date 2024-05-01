@@ -1,6 +1,7 @@
 ## Benchmark
 
-| Name                                             | Robo      |      |
-| ------------------------------------------------ | --------- | ---- |
-| [Barkour](https://sites.google.com/view/barkour) | Quadruped |      |
+| Name                                                   | Env    | #.Task |
+| ------------------------------------------------------ | ------ | ------ |
+| [Barkour](https://sites.google.com/view/barkour)       |        |        |
+| [loco-mujoco](https://github.com/robfiras/loco-mujoco) | Mujoco | 2      |
 

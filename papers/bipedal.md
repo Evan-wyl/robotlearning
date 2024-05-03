@@ -33,3 +33,5 @@
 #### Simulated Humanoid Control
 
 [2023] [Perpetual Humanoid Control for Real-time Simulated Avatars](https://arxiv.org/abs/2305.06456)
+
+[2023] [MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion](https://arxiv.org/abs/2311.12052)

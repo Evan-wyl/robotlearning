@@ -9,3 +9,5 @@
 [2023] [TidyBot: Personalized Robot Assistance with Large Language Models](https://arxiv.org/abs/2305.05658)
 
 [2024] [Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V](https://arxiv.org/abs/2404.10220)
+
+[2024] [Grounding Language Plans in Demonstrations Through Counterfactual Perturbations](https://arxiv.org/abs/2403.17124)

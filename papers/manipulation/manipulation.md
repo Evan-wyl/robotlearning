@@ -10,6 +10,8 @@
 
 [2021] [Implicit Behavioral Cloning](https://arxiv.org/abs/2109.00137)
 
+[2022] [Temporal Logic Imitation: Learning Plan-Satisficing Motion Policies from Demonstrations](https://arxiv.org/abs/2206.04632)
+
 [2023] [What Matters in Learning from Offline Human Demonstrations for Robot Manipulation](https://arxiv.org/abs/2108.03298)
 
 [2023] [Behavior Transformers: Cloning k modes with one stone](https://arxiv.org/abs/2206.11251)

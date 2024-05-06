@@ -4,8 +4,9 @@
 
 |                           Dataset                            | I→O  |  X Open  | #.X  | #.A  |
 | :----------------------------------------------------------: | ---- | :------: | ---- | ---- |
-|       [RT-1](https://robotics-transformer1.github.io/)       |      |          |      |      |
-| [VIMA-Data](https://huggingface.co/datasets/VIMA/VIMA-Data)  |      | &#x2714; |      |      |
-| [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) |      | &#x2714; |      |      |
 |               [Ego4D](https://ego4d-data.org/)               |      | &#x2714; |      |      |
+|  [Language-Table](https://interactive-language.github.io/)   |      | &#x2714; |      |      |
+| [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) |      | &#x2714; |      |      |
+|       [RT-1](https://robotics-transformer1.github.io/)       |      | &#x2714; |      |      |
 | [Something-Somthing v2](https://developer.qualcomm.com/software/ai-datasets/something-something) | V→L  | &#x2714; |      |      |
+| [VIMA-Data](https://huggingface.co/datasets/VIMA/VIMA-Data)  |      | &#x2714; |      |      |

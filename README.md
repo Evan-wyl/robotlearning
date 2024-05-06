@@ -20,8 +20,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
 
-[2023] [Foundation Models for Decision Making: Problems, Methods, and Opportunities](https://arxiv.org/abs/2303.04129)
-
 #### Safe Reinforcement Learning
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)

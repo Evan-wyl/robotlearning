@@ -22,4 +22,8 @@
 
 [2023] [Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor](https://arxiv.org/abs/2311.01248)
 
+[2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
+
 [2024] [A visual imitation learning algorithm for the selection of robots’ grasping points](https://www.sciencedirect.com/science/article/abs/pii/S0921889023002397)
+
+[2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)

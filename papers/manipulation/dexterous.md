@@ -8,6 +8,8 @@
 
 [2023] [Teach a Robot to FISH: Versatile Imitation from One Minute of Demonstrations](https://arxiv.org/abs/2303.01497)
 
+[2023] [Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps](https://arxiv.org/abs/2209.11221)
+
 [2024]  [Universal manipulation interface: In-the wild robot teaching without in-the-wild robots](https://arxiv.org/abs/2402.10329)
 
 [2024] [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788)

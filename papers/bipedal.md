@@ -32,6 +32,14 @@
 
 #### Simulated Humanoid Control
 
+[2022] [Deepphase: Periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/abs/10.1145/3528223.3530178)
+
 [2023] [Perpetual Humanoid Control for Real-time Simulated Avatars](https://arxiv.org/abs/2305.06456)
 
 [2023] [MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion](https://arxiv.org/abs/2311.12052)
+
+
+
+### Text-to-Motion
+
+[2024] [SATO: Stable Text-to-Motion Framework](https://arxiv.org/abs/2405.01461)

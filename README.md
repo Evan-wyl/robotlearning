@@ -16,7 +16,11 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 #### Reinforcement Learning
 
+[2018] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)
+
 [2021] [A Survey of Zero-shot Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
+
+[2023] [Diffusion Models for Reinforcement Learning: A Survey](https://arxiv.org/abs/2311.01223)
 
 [2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
 
@@ -38,6 +42,9 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
+- Reinforcement Learning
+- Imitation Learning
+- Offline Reinforcement Learning
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 

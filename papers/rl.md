@@ -1,3 +1,9 @@
+### Transformers for TL
+
+[2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
+
+
+
 ### Theory
 
 [2018] [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)

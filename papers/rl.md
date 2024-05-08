@@ -2,6 +2,8 @@
 
 [2018] [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)
 
+[2022] [A Theory of Abstraction in Reinforcement Learning](https://arxiv.org/abs/2203.00397)
+
 
 
 #### Resolve Data non-i.i.d 

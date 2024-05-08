@@ -87,3 +87,9 @@
 [2024] [FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects](https://arxiv.org/abs/2312.08344)
 
 [2024] [HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud](https://arxiv.org/abs/2404.03159)
+
+
+
+#### Pose Tracking
+
+[2022] [Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation](https://arxiv.org/abs/2205.11047)

@@ -12,7 +12,7 @@
 
 
 
-#### Resolve Data non-i.i.d 
+#### Resolve non-i.i.d. Data
 
 [2017] [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560)
 

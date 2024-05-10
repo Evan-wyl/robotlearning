@@ -1,3 +1,15 @@
+### Survey
+
+[2018] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)
+
+[2021] [A Survey of Zero-shot Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
+
+[2023] [Diffusion Models for Reinforcement Learning: A Survey](https://arxiv.org/abs/2311.01223)
+
+[2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
+
+
+
 ### Transformers for RL
 
 [2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)

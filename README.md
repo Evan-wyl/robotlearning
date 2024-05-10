@@ -14,26 +14,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
 
-#### Reinforcement Learning
-
-[2018] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)
-
-[2021] [A Survey of Zero-shot Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
-
-[2023] [Diffusion Models for Reinforcement Learning: A Survey](https://arxiv.org/abs/2311.01223)
-
-[2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
-
-#### Safe Reinforcement Learning
-
-[2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
-
-#### Offline RL
-
-[2020] [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
-
-[2022] [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/abs/2203.01387)
-
 
 
 ## 1.Research Areas and Papers

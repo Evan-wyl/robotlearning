@@ -1,3 +1,9 @@
+### Survey
+
+[2020] [Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey](https://arxiv.org/abs/2009.13303)
+
+
+
 ### Curriculum Learning
 
 [2020] [Self-Paced Deep Reinforcement Learning](https://arxiv.org/abs/2004.11812)

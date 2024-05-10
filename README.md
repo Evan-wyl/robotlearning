@@ -12,7 +12,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Survey
 
+[2020] [Sim-to-Real Transfer in Deep Reinforcement Learning for Robotics: a Survey](https://arxiv.org/abs/2009.13303)
+
+[2021] [Robot Learning from Randomized Simulations: A Review](https://arxiv.org/abs/2111.00956)
+
 [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
+
+
 
 #### Reinforcement Learning
 
@@ -44,6 +50,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
+- Sim-to-Real Transfer
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)

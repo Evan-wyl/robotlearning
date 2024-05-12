@@ -38,8 +38,6 @@
 
 [2023] [MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion](https://arxiv.org/abs/2311.12052)
 
-[2024] [Real-Time Simulated Avatar from Head-Mounted Sensors](https://arxiv.org/abs/2403.06862)
-
 
 
 #### Text-to-Motion

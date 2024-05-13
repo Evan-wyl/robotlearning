@@ -4,6 +4,12 @@
 
 
 
+### LLM-Guided Transfer
+
+[2024] [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/)
+
+
+
 ### Curriculum Learning
 
 [2020] [Self-Paced Deep Reinforcement Learning](https://arxiv.org/abs/2004.11812)

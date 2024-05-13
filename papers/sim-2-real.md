@@ -34,11 +34,23 @@
 
 
 
+### Randomization
+
+[2022] [Analysis of Randomization Effects on Sim2Real Transfer in Reinforcement Learning for Robotic Manipulation Tasks](https://arxiv.org/abs/2206.06282)
+
+
+
+### Dynamics Randomization
+
+[2018] [Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://arxiv.org/abs/1710.06537)
+
+[2020] [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
+
+
+
 ### Domain Randomization
 
 [2018] [Policy Transfer with Strategy Optimization](https://arxiv.org/abs/1810.05751)
-
-[2018] [Sim-to-Real Transfer of Robotic Control with Dynamics Randomization](https://arxiv.org/abs/1710.06537)
 
 [2019] [How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?](https://arxiv.org/abs/1903.11774)
 
@@ -46,11 +58,7 @@
 
 [2019] [Learning Domain Randomization Distributions for Training Robust Locomotion Policies](https://arxiv.org/abs/1906.00410)
 
-[2020] [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
-
 [2021] [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)
-
-[2022] [Analysis of Randomization Effects on Sim2Real Transfer in Reinforcement Learning for Robotic Manipulation Tasks](https://arxiv.org/abs/2206.06282)
 
 [2022] [Online vs. Offline Adaptive Domain Randomization Benchmark](https://arxiv.org/abs/2206.14661)
 

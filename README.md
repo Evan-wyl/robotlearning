@@ -14,6 +14,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2021] [Robot Learning from Randomized Simulations: A Review](https://arxiv.org/abs/2111.00956)
 
+[2023] [Transfer Learning in Robotics: An Upcoming Breakthrough? A Review of Promises and Challenges](https://arxiv.org/abs/2311.18044)
+
 [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
 
 

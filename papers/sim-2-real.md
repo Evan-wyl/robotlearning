@@ -8,6 +8,8 @@
 
 [2023] [Language to Rewards for Robotic Skill Synthesis](https://arxiv.org/abs/2306.08647)
 
+[2023] [Text2Reward: Automated Dense Reward Function Generation for Reinforcement Learning](https://arxiv.org/abs/2309.11489)
+
 [2023] [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931)
 
 [2024] [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/)

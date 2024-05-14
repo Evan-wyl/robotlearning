@@ -49,6 +49,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
+- Reward Designation
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
 - [Sim-to-Real Transfer Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)

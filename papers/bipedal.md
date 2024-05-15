@@ -12,6 +12,8 @@
 
 [2024] [Real-world humanoid locomotion with reinforcement learning](https://www.science.org/doi/10.1126/scirobotics.adi9579)
 
+[2024] [I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning](https://arxiv.org/abs/2405.08726)
+
 
 
 #### Whole Body Control

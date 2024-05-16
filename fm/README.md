@@ -37,7 +37,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 - [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/perception.md)
 - [Multi-Modal Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multi-modal-lagre-model.md)
 
 

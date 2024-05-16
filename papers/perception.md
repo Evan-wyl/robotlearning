@@ -6,6 +6,8 @@
 
 [2024] [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 
+[2024] [Deep Learning-Based Object Pose Estimation: A Comprehensive Survey](https://arxiv.org/abs/2405.07801)
+
 [2024] [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization](https://arxiv.org/abs/2404.07771)
 
 
@@ -90,6 +92,6 @@
 
 
 
-#### Pose Tracking
+### Pose Tracking
 
 [2022] [Keypoint-Based Category-Level Object Pose Tracking from an RGB Sequence with Uncertainty Estimation](https://arxiv.org/abs/2205.11047)

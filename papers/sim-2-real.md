@@ -14,6 +14,8 @@
 
 [2024] [DrEureka: Language Model Guided Sim-To-Real Transfer](https://eureka-research.github.io/dr-eureka/)
 
+[2024] [Natural Language Can Help Bridge the Sim2Real Gap](https://arxiv.org/abs/2405.10020)
+
 
 
 ### Curriculum Learning

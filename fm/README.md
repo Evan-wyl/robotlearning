@@ -34,6 +34,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm-based-code-generation.md)
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robotic-transformer.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
+- Vision Speech Action
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 - [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)

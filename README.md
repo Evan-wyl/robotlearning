@@ -18,6 +18,12 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
 
+### Imitation Learning
+
+[2018] [An Algorithmic Perspective on Imitation Learning](https://arxiv.org/abs/1811.06711)
+
+[2023] [A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges](https://arxiv.org/abs/2309.02473)
+
 
 
 #### Reinforcement Learning
@@ -49,6 +55,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
+- Speech
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)

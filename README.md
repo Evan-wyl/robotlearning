@@ -55,7 +55,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
-- Speech
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)

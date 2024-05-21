@@ -22,6 +22,8 @@
 
 [2024] [Multimodal Fusion on Low-quality Data: A Comprehensive Survey](https://arxiv.org/abs/2404.18947)
 
+[2024] [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739v1)
+
 
 
 ### Vision Language Model

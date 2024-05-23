@@ -15,3 +15,4 @@
 ### Related Resources
 
 - [Simulately](https://github.com/geng-haoran/Simulately): A universal summary of current robotics simulators.
+- [Transic-Envs](https://github.com/transic-robot/transic-envs) is a collection of simulation environments built on [IsaacGym](https://developer.nvidia.com/isaac-gym) to support sim-to-real transfer of contact-rich robotic arm manipulation tasks.

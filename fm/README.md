@@ -4,6 +4,10 @@
 
 Papers, codes, datasets, tasks, applications, tutorials.
 
+**Widely used by top conferences and journals:**
+
+- Top Conferences: [[ICML MFM-EAI Workshop](https://icml-mfm-eai.github.io/)]
+
 
 
 ## 0.Survey

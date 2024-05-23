@@ -1,6 +1,4 @@
-### Datasets
+### Resources
 
-| Name                                      | Domains      | Areas     |
-| ----------------------------------------- | ------------ | --------- |
-| [LeRobot](https://huggingface.co/lerobot) | Manipulation | RL and IL |
-
+- [LeRobot](https://huggingface.co/lerobot) aims to provide models, datasets, and tools for real-world robotics in PyTorch.
+- [DROID](https://github.com/AlexanderKhazatsky/DROID): Distributed Robot Interaction Dataset.

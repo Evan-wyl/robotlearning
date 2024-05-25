@@ -34,7 +34,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Research Areas and Papers
 
-:speaker: ***There are just some pretty papers for beginners and interested persons.***
+:speaker: ***There are just some pretty papers for beginners and interested figures.***
 
 - [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
 - [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/language-image-goal-conditioned-value-learning.md)

@@ -58,7 +58,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 1.Research Areas and Papers
 
-:speaker: ***There are just some pretty papers for beginners and interested persons.***
+:speaker: ***There are just some pretty papers for beginners and interested figures.***
 
 - [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)

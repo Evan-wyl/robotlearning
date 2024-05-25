@@ -43,11 +43,3 @@
 [2023] [MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion](https://arxiv.org/abs/2311.12052)
 
 [2024] [Real-Time Simulated Avatar from Head-Mounted Sensors](https://arxiv.org/abs/2403.06862)
-
-
-
-#### Text-to-Motion
-
-[2022] [Generating Diverse and Natural 3D Human Motions from Text](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf?ref=https://githubhelp.com)
-
-[2024] [SATO: Stable Text-to-Motion Framework](https://arxiv.org/abs/2405.01461)

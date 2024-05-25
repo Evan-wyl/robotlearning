@@ -1,17 +1,3 @@
-### Other Paradigms of RL
-
-[2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
-
-[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
-
-[2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
-
-[2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
-
- [2024] [Privileged Sensing Scaffolds Reinforcement Learning](https://openreview.net/pdf?id=EpVe8jAjdx)
-
-
-
 ### Transformers for RL
 
 [2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -69,3 +55,16 @@
 [2021] [What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study](https://openreview.net/pdf?id=nIAxjsniDzg)
 
 [2022] [The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)
+
+
+### Other Paradigms of RL
+
+[2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
+
+[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
+
+[2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
+
+[2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
+
+ [2024] [Privileged Sensing Scaffolds Reinforcement Learning](https://openreview.net/pdf?id=EpVe8jAjdx)

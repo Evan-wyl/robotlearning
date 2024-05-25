@@ -67,10 +67,8 @@ Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data
 - [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
 - [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
-
-
 ------
 
-### Copyright notice
+***Copyright notice***
 
 > ***[Notes]This Github repo can be used by following the corresponding licenses. I want to emphasis that it may contain some PDFs or thesis, which were downloaded by me and can only be used for academic purposes. The copyrights of these materials are owned by corresponding publishers or organizations. All this are for better adademic research. If any of the authors or publishers have concerns, please contact me to delete or replace them.***

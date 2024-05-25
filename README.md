@@ -30,7 +30,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-#### Reinforcement Learning
+### Reinforcement Learning
 
 [2018] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)
 
@@ -42,13 +42,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-#### Safe Reinforcement Learning
+### Safe Reinforcement Learning
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
 
 
 
-#### Offline RL
+### Offline RL
 
 [2020] [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
 
@@ -112,6 +112,6 @@ If you are interested in contributing, please refer to [HERE](https://github.com
 
 ------
 
-### Copyright notice
+***Copyright notice***
 
 > ***[Notes]This Github repo can be used by following the corresponding licenses. I want to emphasis that it may contain some PDFs or thesis, which were downloaded by me and can only be used for academic purposes. The copyrights of these materials are owned by corresponding publishers or organizations. All this are for better adademic research. If any of the authors or publishers have concerns, please contact me to delete or replace them.***

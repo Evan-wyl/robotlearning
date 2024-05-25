@@ -1,3 +1,17 @@
+### Other Paradigms of RL
+
+[2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
+
+[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
+
+[2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
+
+[2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
+
+ [2024] [Privileged Sensing Scaffolds Reinforcement Learning](https://openreview.net/pdf?id=EpVe8jAjdx)
+
+
+
 ### Transformers for RL
 
 [2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
@@ -20,10 +34,6 @@
 
 [2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
 
-[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
-
-[2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
-
 
 
 ### Temporal Processing
@@ -33,8 +43,6 @@
 [2018] [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016)
 
 [2019] [Making Deep Q-learning methods robust to time discretization](https://arxiv.org/abs/1901.09732)
-
-[2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
 
 [2020] [Thinking While Moving: Deep Reinforcement Learning with Concurrent Control](https://arxiv.org/abs/2004.06089)
 

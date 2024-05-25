@@ -28,9 +28,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/abs/2402.05741)
 
+[2024] [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)
+
 
 
 ## 1.Research Areas and Papers
+
+:speaker: ***There are just some pretty papers for beginners and interested persons.***
 
 - [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
 - [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/language-image-goal-conditioned-value-learning.md)
@@ -38,7 +42,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm-based-code-generation.md)
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robotic-transformer.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
-- Vision Speech Action
+- [Vision Speech Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-speech-action.md)
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 - [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)

@@ -14,6 +14,8 @@
 
 [2024] [I-CTRL: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning](https://arxiv.org/abs/2405.08726)
 
+[2024] [CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning](https://arxiv.org/abs/2309.17046)
+
 
 
 #### Whole Body Control

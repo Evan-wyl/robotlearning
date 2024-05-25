@@ -6,6 +6,8 @@
 
 [2024] [FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills](https://arxiv.org/abs/2404.19217)
 
+[2024] [Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data](https://openreview.net/pdf?id=Xkf2EBj4w3)
+
 
 
 ### Imitation Learning
@@ -29,3 +31,5 @@
 [2024] [A visual imitation learning algorithm for the selection of robots’ grasping points](https://www.sciencedirect.com/science/article/abs/pii/S0921889023002397)
 
 [2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
+
+[2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

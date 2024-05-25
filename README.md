@@ -18,6 +18,10 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
 
+[2024] [A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings](https://arxiv.org/abs/2405.13245)
+
+
+
 ### Imitation Learning
 
 [2018] [An Algorithmic Perspective on Imitation Learning](https://arxiv.org/abs/1811.06711)
@@ -36,9 +40,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
 
+
+
 #### Safe Reinforcement Learning
 
 [2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
+
+
 
 #### Offline RL
 
@@ -49,6 +57,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 ## 1.Research Areas and Papers
+
+:speaker: ***There are just some pretty papers for beginners and interested persons.***
 
 - [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)

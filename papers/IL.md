@@ -10,6 +10,14 @@
 
 
 
+#### Imitation From Observation
+
+[2023] [Preventing Mode Collapse When Imitating Latent Policies from Observations](https://openreview.net/forum?id=Mf9fQ0OgMzo) 
+
+[2024] [Learning to Act without Actions](https://arxiv.org/abs/2312.10812)
+
+
+
 #### Sample Efficiency
 
 [2022] [Abstract-to-Executable Trajectory Translation for One-Shot Task Generalization](https://arxiv.org/abs/2210.07658)

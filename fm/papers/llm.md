@@ -16,6 +16,8 @@
 
 [2024] [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)
 
+[2024] [A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models](https://arxiv.org/abs/2405.13019)
+
 
 
 ### Papers

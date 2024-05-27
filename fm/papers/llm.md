@@ -6,6 +6,8 @@
 
 [2023] [Efficient Large Language Models: A Survey](https://arxiv.org/abs/2312.03863)
 
+[2023] [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402)
+
 [2024] [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)
 
 [2024] [Efficient Prompting Methods for Large Language Models: A Survey](https://arxiv.org/abs/2404.01077)

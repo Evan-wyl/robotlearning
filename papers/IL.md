@@ -12,6 +12,8 @@
 
 #### Imitation From Observation
 
+[2019] [Recent Advances in Imitation Learning from Observation](https://arxiv.org/abs/1905.13566)
+
 [2023] [Preventing Mode Collapse When Imitating Latent Policies from Observations](https://openreview.net/forum?id=Mf9fQ0OgMzo) 
 
 [2024] [Learning to Act without Actions](https://arxiv.org/abs/2312.10812)

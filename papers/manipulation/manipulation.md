@@ -1,5 +1,3 @@
-## Papers
-
 ### Reinforcement Learning
 
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
@@ -33,3 +31,11 @@
 [2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)
+
+
+
+### Perception Representation
+
+[2022] [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601)
+
+[2024] [Recasting Generic Pretrained Vision Transformers As Object-Centric Scene Encoders For Manipulation Policies](https://arxiv.org/abs/2405.15916)

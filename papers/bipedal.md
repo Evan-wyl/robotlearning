@@ -16,6 +16,8 @@
 
 [2024] [CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning](https://arxiv.org/abs/2309.17046)
 
+[2024] [Learning Generic and Dynamic Locomotion of Humanoids Across Discrete Terrains](https://arxiv.org/abs/2405.17227)
+
 
 
 #### Whole Body Control

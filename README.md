@@ -20,6 +20,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [A Survey of Robotic Language Grounding: Tradeoffs Between Symbols and Embeddings](https://arxiv.org/abs/2405.13245)
 
+[2024] [AI Robots and Humanoid AI: Review, Perspectives and Directions](https://arxiv.org/abs/2405.15775)
+
 
 
 ### Imitation Learning

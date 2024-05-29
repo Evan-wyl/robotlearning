@@ -22,39 +22,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [AI Robots and Humanoid AI: Review, Perspectives and Directions](https://arxiv.org/abs/2405.15775)
 
-
-
-### Imitation Learning
-
-[2018] [An Algorithmic Perspective on Imitation Learning](https://arxiv.org/abs/1811.06711)
-
-[2023] [A Survey of Imitation Learning: Algorithms, Recent Developments, and Challenges](https://arxiv.org/abs/2309.02473)
-
-
-
-### Reinforcement Learning
-
-[2018] [Reinforcement Learning and Control as Probabilistic Inference: Tutorial and Review](https://arxiv.org/abs/1805.00909)
-
-[2021] [A Survey of Zero-shot Generalisation in Deep Reinforcement Learning](https://arxiv.org/abs/2111.09794)
-
-[2023] [Diffusion Models for Reinforcement Learning: A Survey](https://arxiv.org/abs/2311.01223)
-
-[2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
-
-
-
-### Safe Reinforcement Learning
-
-[2023] [State-wise Safe Reinforcement Learning: A Survey](https://arxiv.org/abs/2302.03122)
-
-
-
-### Offline RL
-
-[2020] [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
-
-[2022] [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/abs/2203.01387)
+:speaker: ***If you would like some specific areas' survey, such as reinforcement learning,imitation learning, and etc, please click related links in part one.***
 
 
 
@@ -66,11 +34,11 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
+- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
-- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)

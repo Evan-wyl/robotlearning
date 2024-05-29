@@ -6,7 +6,7 @@
 
 
 
-### Papers
+### Algorithm
 
 [2021] [Safety and Liveness Guarantees through Reach-Avoid Reinforcement Learning](https://arxiv.org/abs/2112.12288)
 

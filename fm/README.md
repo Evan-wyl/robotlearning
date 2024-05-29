@@ -30,6 +30,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/abs/2405.14093)
 
+:speaker: ***If you would like some specific areas' survey, such as  multimodal large model, large language model, and etc, please click related links in part one.***
+
 
 
 ## 1.Research Areas and Papers

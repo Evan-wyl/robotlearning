@@ -1,16 +1,6 @@
-***If you would like to deeply understand for Multi-Modal Large Model in Robotics, Please read [Real-World Robot Applications of Foundation Models: A Review](https://arxiv.org/abs/2402.05741)***
-
-## Multi-Modal Large Model
-
 ### Survey
 
-[2023] [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
-
-[2023] [Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2311.13165)
-
 [2023] [Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey](https://arxiv.org/abs/2312.16602)
-
-[2023] [A Survey on Multimodal Large Language Models](https://arxiv.org/abs/2306.13549)
 
 [2024] [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model](https://arxiv.org/abs/2311.07594)
 
@@ -23,6 +13,8 @@
 [2024] [Multimodal Fusion on Low-quality Data: A Comprehensive Survey](https://arxiv.org/abs/2404.18947)
 
 [2024] [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739v1)
+
+[2024] [An Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247)
 
 
 

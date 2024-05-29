@@ -26,6 +26,8 @@
 
 [2024] [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
 
+[2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
+
 
 
 #### Whole Body Control

@@ -1,4 +1,4 @@
-### Papers
+### Locomotion Policy Learning
 
 [2017] [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453)
 
@@ -25,6 +25,10 @@
 [2024] [Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response](https://arxiv.org/abs/2312.11460)
 
 [2024] [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
+
+
+
+### Planning
 
 [2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 

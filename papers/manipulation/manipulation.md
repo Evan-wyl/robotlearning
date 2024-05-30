@@ -22,19 +22,29 @@
 
 [2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
 
-[2023] [Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models](https://arxiv.org/abs/2310.10639)
+[2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
+
+[2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)
+
+
+
+#### Multimodal
 
 [2023] [Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor](https://arxiv.org/abs/2311.01248)
 
-[2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
 
-[2024] [A visual imitation learning algorithm for the selection of robots’ grasping points](https://www.sciencedirect.com/science/article/abs/pii/S0921889023002397)
 
-[2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
+#### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)
 
-[2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)
+
+
+
+
+### Offline RL
+
+[2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
 
 
 

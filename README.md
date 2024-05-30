@@ -30,16 +30,16 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
-- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
-- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
-- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
+- [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
+- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
+- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
+- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 
@@ -48,10 +48,10 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ## 2.Code
 
 - [Bepidal](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bepidal.md)
-- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/quadruped)
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
 - [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
+- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/quadruped)
 
 
 
@@ -69,12 +69,12 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) 
 
 ## 5.Related Resources
 
-- [Mujoco-Menagerie](https://github.com/google-deepmind/mujoco_menagerie): A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
-- [RL-Games](https://github.com/Denys88/rl_games): High performance Reinforcement Learning library.
-- [OpenDR](https://github.com/opendr-eu/opendr): A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning.
 - [Dex-URDF](https://github.com/dexsuite/dex-urdf): This repository offers an assortment of high-quality models for dexterous hands and objects. Both of them are in URDF format.
 - [Diffusion-Literature-for-Robotics](https://github.com/mbreuss/diffusion-literature-for-robotics): This repository offers a brief summary of essential papers and blogs.
+- [Mujoco-Menagerie](https://github.com/google-deepmind/mujoco_menagerie): A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
+- [OpenDR](https://github.com/opendr-eu/opendr): A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning.
 - [PyTorch-Kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics): Robot kinematics implemented in pytorch.
+- [RL-Games](https://github.com/Denys88/rl_games): High performance Reinforcement Learning library.
 
 
 

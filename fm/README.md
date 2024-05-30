@@ -38,18 +38,19 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
-- [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/language-image-goal-conditioned-value-learning.md)
-- [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/high-level-task-planning.md)
-- [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm-based-code-generation.md)
-- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robotic-transformer.md)
-- [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
-- [Vision Speech Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-speech-action.md)
-- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
 - [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
+- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
+- [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/high-level-task-planning.md)
+- [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/language-image-goal-conditioned-value-learning.md)
+- [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm-based-code-generation.md)
 - [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)
 - [Multi-Modal Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multi-modal-lagre-model.md)
 - [Multimodal Machine Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multimodal-machine-learning.md)
+- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robotic-transformer.md)
+- [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
+- [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
+- [Vision Speech Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-speech-action.md)
+- World Model
 
 
 

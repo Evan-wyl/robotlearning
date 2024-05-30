@@ -28,6 +28,8 @@
 
 [2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)
 
+[2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
+
 
 
 #### Multimodal

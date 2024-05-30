@@ -1,5 +1,7 @@
 ### Reinforcement Learning
 
+[2021] [Learning Visible Connectivity Dynamics for Cloth Smoothing](https://arxiv.org/abs/2105.10389)
+
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
 
 [2024] [FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills](https://arxiv.org/abs/2404.19217)

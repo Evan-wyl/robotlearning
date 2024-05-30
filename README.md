@@ -73,6 +73,8 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) 
 - [RL-Games](https://github.com/Denys88/rl_games): High performance Reinforcement Learning library.
 - [OpenDR](https://github.com/opendr-eu/opendr): A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning.
 - [Dex-URDF](https://github.com/dexsuite/dex-urdf): This repository offers an assortment of high-quality models for dexterous hands and objects. Both of them are in URDF format.
+- [Diffusion-Literature-for-Robotics](https://github.com/mbreuss/diffusion-literature-for-robotics): This repository offers a brief summary of essential papers and blogs.
+- [PyTorch-Kinematics](https://github.com/UM-ARM-Lab/pytorch_kinematics): Robot kinematics implemented in pytorch.
 
 
 

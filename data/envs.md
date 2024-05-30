@@ -1,14 +1,13 @@
 # Simulator
 
-| Project                                                    | Domains                   | Github Links                                     |
-| ---------------------------------------------------------- | ------------------------- | ------------------------------------------------ |
-| DM-Control                                                 | manipulation & locomotion | https://github.com/google-deepmind/dm_control    |
-| Gym-gazebo                                                 | manipulation              | https://github.com/erlerobot/gym-gazebo          |
-| Gym-gazebo2                                                | manipulation              | https://github.com/AcutronicRobotics/gym-gazebo2 |
-| [Issac Gym](https://developer.nvidia.com/isaac-gym)        | manipulation & locomotion | https://github.com/NVIDIA-Omniverse/IsaacGymEnvs |
-| [Legged Gym](https://leggedrobotics.github.io/legged_gym/) | manipulation & locomotion | https://github.com/leggedrobotics/legged_gym     |
-| [MuJoCo](https://mujoco.org/)                              | manipulation & locomotion | https://github.com/google-deepmind/mujoco        |
-| [Raisim](https://raisim.com/)                              | manipulation & locomotion | https://github.com/raisimTech/raisimLib          |
+- [DM-Control](https://github.com/google-deepmind/dm_control): Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo physics.
+- [Gym-Gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2): a toolkit for developing and comparing reinforcement learning algorithms using ROS 2 and Gazebo.
+- [Issac Gym](https://github.com/NVIDIA-Omniverse/IsaacGymEnvs): Isaac Gym Reinforcement Learning Environments.
+- [Legged Gym](https://github.com/leggedrobotics/legged_gym): Isaac Gym Environments for Legged Robots.
+- [MuJoCo](https://mujoco.org/)  is a free and open source physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, and other areas where fast and accurate simulation is needed.
+- [Raisim](https://raisim.com/) RaiSim is a cross-platform multi-body physics engine for robotics and AI.
+
+- [RoboCasa](https://github.com/robocasa/robocasa): Large-Scale Simulation of Everyday Tasks for Generalist Robots
 
 
 

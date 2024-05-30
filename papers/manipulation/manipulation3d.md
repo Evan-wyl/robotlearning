@@ -1,4 +1,4 @@
-### Papers
+## Manipulation with 3D Vision
 
 [2023] [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
 

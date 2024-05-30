@@ -1,4 +1,4 @@
-### Papers
+## Dexterous Manipulation
 
 [2019] [DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System](https://arxiv.org/abs/1910.03135)
 

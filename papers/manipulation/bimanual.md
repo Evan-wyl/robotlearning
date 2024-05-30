@@ -1,4 +1,4 @@
-### Papers
+## Bimanual
 
 [2023] [Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware](https://arxiv.org/abs/2304.13705)
 

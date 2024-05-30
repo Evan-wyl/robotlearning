@@ -69,10 +69,10 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) 
 
 ## 5.Related Resources
 
-- [mujoco_menagerie](https://github.com/google-deepmind/mujoco_menagerie)
-- [rl_games](https://github.com/Denys88/rl_games)
-- [OpenDR](https://github.com/opendr-eu/opendr)
-- [dex-urdf](https://github.com/dexsuite/dex-urdf)
+- [Mujoco-Menagerie](https://github.com/google-deepmind/mujoco_menagerie): A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.
+- [RL-Games](https://github.com/Denys88/rl_games): High performance Reinforcement Learning library.
+- [OpenDR](https://github.com/opendr-eu/opendr): A modular, open and non-proprietary toolkit for core robotic functionalities by harnessing deep learning.
+- [Dex-URDF](https://github.com/dexsuite/dex-urdf): This repository offers an assortment of high-quality models for dexterous hands and objects. Both of them are in URDF format.
 
 
 

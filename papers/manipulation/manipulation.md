@@ -1,3 +1,5 @@
+## Manipulation
+
 ### Reinforcement Learning
 
 [2021] [Learning Visible Connectivity Dynamics for Cloth Smoothing](https://arxiv.org/abs/2105.10389)

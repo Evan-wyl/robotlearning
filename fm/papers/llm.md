@@ -22,6 +22,14 @@
 
 
 
+#### RAG and LLM
+
+[2024] [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
+
+[2024] [A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2405.06211)
+
+
+
 ### Papers
 
 [2023] [Textbooks Are All You Need II: phi-1.5 technical report](https://arxiv.org/abs/2309.05463)

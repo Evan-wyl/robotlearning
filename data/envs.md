@@ -7,7 +7,12 @@
 - [MuJoCo](https://mujoco.org/)  is a free and open source physics engine that aims to facilitate research and development in robotics, biomechanics, graphics and animation, and other areas where fast and accurate simulation is needed.
 - [Raisim](https://raisim.com/) RaiSim is a cross-platform multi-body physics engine for robotics and AI.
 
-- [RoboCasa](https://github.com/robocasa/robocasa): Large-Scale Simulation of Everyday Tasks for Generalist Robots
+- [RoboCasa](https://github.com/robocasa/robocasa): Large-Scale Simulation of Everyday Tasks for Generalist Robots.
+
+- [RoboGen](https://github.com/Genesis-Embodied-AI/RoboGen): Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation.
+
+- [RFUniverse](https://sites.google.com/view/rfuniverse): A Multiphysics Simulation Platform for Embodied AI.
+
 
 
 

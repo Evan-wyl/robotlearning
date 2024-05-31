@@ -4,6 +4,8 @@
 
 [2017] [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453)
 
+[2019] [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517)
+
 [2020] [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
 
 [2021] [RMA: Rapid Motor Adaptation for Legged Robots](https://arxiv.org/abs/2107.04034)

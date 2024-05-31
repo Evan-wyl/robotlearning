@@ -71,3 +71,9 @@
 [2023] [DROPO: Sim-to-Real Transfer with Offline Domain Randomization](https://arxiv.org/abs/2201.08434)
 
 [2024] [Domain Randomization via Entropy Maximization](https://arxiv.org/abs/2311.01885)
+
+
+
+### NeRF2Real
+
+[2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)

@@ -2,8 +2,6 @@
 
 ### Algorithms
 
-[2024] [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)
-
 [2024] [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
 
 [2024] [Real-world humanoid locomotion with reinforcement learning](https://arxiv.org/abs/2303.03381v2)
@@ -30,6 +28,14 @@
 
 [2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
 
+
+
+#### Humanoid and Football
+
+[2021] [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196)
+
+[2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
+
 [2024] [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)
 
 
@@ -47,3 +53,5 @@
 [2023] [MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion](https://arxiv.org/abs/2311.12052)
 
 [2024] [Real-Time Simulated Avatar from Head-Mounted Sensors](https://arxiv.org/abs/2403.06862)
+
+[2024] [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)

@@ -38,6 +38,8 @@
 
 [2024] [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)
 
+[2024] [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/abs/2405.18418)
+
 
 
 #### Simulated Humanoid Control

@@ -22,6 +22,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [AI Robots and Humanoid AI: Review, Perspectives and Directions](https://arxiv.org/abs/2405.15775)
 
+[2024] [Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview](https://arxiv.org/abs/2405.05526)
+
 :speaker: ***If you would like some specific areas' survey, such as reinforcement learning,imitation learning, and etc, please click related links in part one.***
 
 

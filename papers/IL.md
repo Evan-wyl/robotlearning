@@ -18,6 +18,8 @@
 
 [2024] [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954)
 
+[2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
+
 
 
 ### Sample Efficiency

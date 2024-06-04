@@ -30,6 +30,8 @@
 
 [2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
 
+[2024] [Learning Manipulation by Predicting Interaction](https://arxiv.org/abs/2406.00439)
+
 
 
 #### Multimodal

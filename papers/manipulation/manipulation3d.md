@@ -11,3 +11,25 @@
 [2024] [3D Diffusion Policy](https://arxiv.org/abs/2403.03954)
 
 [2024] [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885)
+
+
+
+### Manipulation with NeRF
+
+[2023] [Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping](https://arxiv.org/abs/2309.07970)
+
+#### Open-end Grasping
+
+[2023] [Affordance-Driven Next-Best-View Planning for Robotic Grasping](https://arxiv.org/abs/2309.09556)
+
+
+
+#### Closed-end Grasping
+
+[2023] [NeRF in the Palm of Your Hand: Corrective Augmentation for Robotics via Novel-View Synthesis](https://arxiv.org/abs/2301.08556)
+
+
+
+### Manipulation with 3D Gaussian Splatting
+
+[2024] [MANUS: Markerless Grasp Capture using Articulated 3D Gaussians](https://arxiv.org/abs/2312.02137)

@@ -8,6 +8,12 @@
 
 [2023] [NeRFuser: Diffusion Guided Multi-Task 3D Policy Learning](https://openreview.net/forum?id=8GmPLkO0oR)
 
+
+
+### Point Cloud
+
+[2020] [Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds](https://arxiv.org/abs/2010.00824)
+
 [2024] [3D Diffusion Policy](https://arxiv.org/abs/2403.03954)
 
 [2024] [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885)

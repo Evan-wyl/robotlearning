@@ -71,15 +71,13 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) 
 
 ## 5.Related Resources
 
-If you would like some related resources, such as
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/res.md) for some awesome resources, such as
 
 - Tutorials
 - Awesome URDF and MJCF
 - Awesome Toolkit
-- Awesome Algorithms Implementation
-- Awesome Papers Repository
-
-Please click HERE.
+- Awesome RL,IL,IRL Implementation
+- Awesome Robot Learning Related Papers' Repository
 
 
 

@@ -38,7 +38,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Agents](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/agents.md)
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
 - [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/high-level-task-planning.md)
 - [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/language-image-goal-conditioned-value-learning.md)

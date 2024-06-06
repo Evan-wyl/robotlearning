@@ -1,6 +1,6 @@
 ## Quadruped 
 
-### Locomotion Policy Learning
+### Reinforcement Learning
 
 [2017] [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453)
 
@@ -22,8 +22,6 @@
 
 [2023] [Extreme Parkour with Legged Robots](https://arxiv.org/abs/2309.14341)
 
-[2024] [DTC: Deep Tracking Control](https://www.science.org/doi/abs/10.1126/scirobotics.adh5401)
-
 [2024] [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 
 [2024] [Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response](https://arxiv.org/abs/2312.11460)
@@ -34,13 +32,25 @@
 
 
 
+### Imitation Learning
+
+[2020] [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://arxiv.org/abs/2004.00784)
+
+
+
 ### Planning
 
 [2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 
 
 
-#### Whole Body Control
+### Control Theory
+
+[2024] [DTC: Deep Tracking Control](https://www.science.org/doi/abs/10.1126/scirobotics.adh5401)
+
+
+
+#### Manipulation and Locomotion
 
 [2022] [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
 

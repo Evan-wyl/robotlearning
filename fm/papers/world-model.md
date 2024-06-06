@@ -13,3 +13,9 @@
 [2024] [World Models for General Surgical Grasping](https://arxiv.org/abs/2405.17940)
 
 [2024] [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://arxiv.org/abs/2310.16828)
+
+
+
+### MPC with World Model
+
+[2023] [Gradient-based Planning with World Models](https://jyothirsv.github.io/pdfs/Gradient_based_Planning.pdf)

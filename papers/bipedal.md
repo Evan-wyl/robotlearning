@@ -28,8 +28,6 @@
 
 [2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
 
-[2024] [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/abs/2405.18418)
-
 
 
 #### Humanoid and Football
@@ -39,21 +37,3 @@
 [2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
 
 [2024] [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)
-
-
-
-#### Simulated Humanoid Control
-
-[2021] [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control](https://arxiv.org/abs/2104.02180)
-
-[2022] [ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters](https://arxiv.org/abs/2205.01906)
-
-[2022] [Deepphase: Periodic autoencoders for learning motion phase manifolds](https://dl.acm.org/doi/abs/10.1145/3528223.3530178)
-
-[2023] [Perpetual Humanoid Control for Real-time Simulated Avatars](https://arxiv.org/abs/2305.06456)
-
-[2023] [MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion](https://arxiv.org/abs/2311.12052)
-
-[2024] [Real-Time Simulated Avatar from Head-Mounted Sensors](https://arxiv.org/abs/2403.06862)
-
-[2024] [FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning](https://arxiv.org/abs/2402.13820)

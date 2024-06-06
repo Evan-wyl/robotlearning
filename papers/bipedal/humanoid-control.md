@@ -1,6 +1,8 @@
-## Bipedal
+## Humanoid Control
 
-### Algorithms
+### Reinforcement Learning
+
+[2023] Robust and versatile bipedal jumping control through multi-task reinforcement learning
 
 [2024] [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
 
@@ -10,23 +12,29 @@
 
 [2024] [CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning](https://arxiv.org/abs/2309.17046)
 
+[2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
+
 [2024] [Learning Generic and Dynamic Locomotion of Humanoids Across Discrete Terrains](https://arxiv.org/abs/2405.17227)
 
 
 
-#### Whole Body Control
-
-[2023] Robust and versatile bipedal jumping control through multi-task reinforcement learning
-
-[2023] [Sim-to-Real Learning for Humanoid Box Loco-Manipulation](https://arxiv.org/abs/2310.03191)
+### Imitation Learning
 
 [2023] [Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://arxiv.org/abs/2309.01952)
 
-[2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)
-
 [2024] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
 
-[2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
+
+
+### Loco-Manipulation
+
+[2023] [Sim-to-Real Learning for Humanoid Box Loco-Manipulation](https://arxiv.org/abs/2310.03191)
+
+
+
+#### Humanoid Control with LLM
+
+[2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)
 
 
 

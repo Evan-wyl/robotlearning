@@ -32,7 +32,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/bipedal.md)
+- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
@@ -40,7 +40,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
-- Simulated Humanoid Control
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
@@ -72,7 +71,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) 
 
 ## 5.Related Resources
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/res.md) for some awesome resources, such as
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/resources.md) for some awesome resources, such as
 
 - Tutorials
 - Awesome URDF and MJCF

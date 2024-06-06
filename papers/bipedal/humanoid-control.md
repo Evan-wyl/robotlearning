@@ -32,13 +32,13 @@
 
 
 
-#### Humanoid Control with LLM
+### Humanoid Control with LLM
 
 [2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)
 
 
 
-#### Humanoid and Football
+### Humanoid and Football
 
 [2021] [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196)
 

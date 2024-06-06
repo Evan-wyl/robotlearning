@@ -38,19 +38,25 @@
 
 
 
-### Planning
-
-[2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
-
-
-
 ### Control Theory
 
 [2024] [DTC: Deep Tracking Control](https://www.science.org/doi/abs/10.1126/scirobotics.adh5401)
 
 
 
-#### Manipulation and Locomotion
+### Planning
+
+[2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
+
+
+
+### Traversability Estimation
+
+[2024] [Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy](https://arxiv.org/abs/2406.02989)
+
+
+
+### Manipulation and Locomotion
 
 [2022] [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
 

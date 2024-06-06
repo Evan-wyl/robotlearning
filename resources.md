@@ -1,4 +1,4 @@
-## Other Resources
+## Relevant Resources
 
 ### Tutorials
 

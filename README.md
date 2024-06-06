@@ -69,9 +69,9 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/tasks) 
 
 
 
-## 5.Related Resources
+## 5.Relevant Resources
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/resources.md) for some awesome resources, such as
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/resources.md) for some awesome relevant resources, such as
 
 - Tutorials
 - Awesome URDF and MJCF

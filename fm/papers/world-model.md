@@ -11,3 +11,5 @@
 [2023] [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)
 
 [2024] [World Models for General Surgical Grasping](https://arxiv.org/abs/2405.17940)
+
+[2024] [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://arxiv.org/abs/2310.16828)

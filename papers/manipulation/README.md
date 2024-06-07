@@ -8,4 +8,5 @@ Papers of Manipulation Policy.
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/manipulation.md)
 - [Manipulation with 3D Vision](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/manipulation-with-3d.md)
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/planning.md)
+- [Representation Learning For Manipulation](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/manipulation/representation-learning)
 

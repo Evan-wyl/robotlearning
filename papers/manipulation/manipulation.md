@@ -24,6 +24,8 @@
 
 [2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
 
+[2023] [Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor](https://arxiv.org/abs/2311.01248)
+
 [2024] [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954)
 
 [2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
@@ -32,15 +34,7 @@
 
 [2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
 
-[2024] [Learning Manipulation by Predicting Interaction](https://arxiv.org/abs/2406.00439)
-
-
-
-#### Multimodal
-
-[2023] [Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor](https://arxiv.org/abs/2311.01248)
-
-
+[2024] [Redundancy-aware Action Spaces for Robot Learning](https://arxiv.org/abs/2406.04144)
 
 #### Universal Policy
 
@@ -48,18 +42,6 @@
 
 
 
-
-
 ### Offline RL
 
 [2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
-
-
-
-### Perception Representation
-
-[2022] [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601)
-
-[2023] [Language-Driven Representation Learning for Robotics](https://arxiv.org/abs/2302.12766)
-
-[2024] [Recasting Generic Pretrained Vision Transformers As Object-Centric Scene Encoders For Manipulation Policies](https://arxiv.org/abs/2405.15916)

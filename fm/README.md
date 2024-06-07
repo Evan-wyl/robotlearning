@@ -54,22 +54,17 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 2.Code
-
-
-
-
-
-## 3.Datasets and Benchmarks
+## 2.Datasets and Benchmarks
 
 Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
 
 
-## 4.Related Resources
+## 3.Relevant Resources
 
-- [diffusion-literature-for-robotics](https://github.com/mbreuss/diffusion-literature-for-robotics)
-- [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/resources.md) for some awesome relevant resources, such as
+
+- Awesome Repository, including Large Model inference and evaluation.
 
 ------
 

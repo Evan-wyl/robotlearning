@@ -11,9 +11,3 @@
 [2022] [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
 
 [2024] [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization](https://arxiv.org/abs/2404.07771)
-
-#### 3D Gaussian Splatting
-
-[2024] [3D Gaussian as a New Vision Era: A Survey](https://arxiv.org/abs/2402.07181) 
-
-[2024] [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)

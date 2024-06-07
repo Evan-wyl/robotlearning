@@ -91,3 +91,9 @@ If you are interested in contributing, please refer to [HERE](https://github.com
 ***Copyright notice***
 
 > ***[Notes]This Github repo can be used by following the corresponding licenses. I want to emphasis that it may contain some PDFs or thesis, which were downloaded by me and can only be used for academic purposes. The copyrights of these materials are owned by corresponding publishers or organizations. All this are for better adademic research. If any of the authors or publishers have concerns, please contact me to delete or replace them.***
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Evan-wyl/Robot-Learning&type=Date)](https://star-history.com/#Evan-wyl/Robot-Learning&Date)

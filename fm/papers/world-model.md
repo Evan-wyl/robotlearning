@@ -1,5 +1,13 @@
 ## World Model
 
+### Survey
+
+[2024] [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520)
+
+
+
+### Theory
+
 [2018] [World Models](https://arxiv.org/abs/1803.10122)
 
 [2023] [Structured World Models from Human Videos](https://arxiv.org/abs/2308.10901)

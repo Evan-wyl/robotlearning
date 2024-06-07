@@ -78,7 +78,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/resourc
 - Awesome URDF and MJCF
 - Awesome Toolkit
 - Awesome RL,IL,IRL Implementation
-- Awesome Robot Learning Related Papers' Repository
+- Awesome Papers' Repository of Robot Learning Relevant Areas
 
 
 

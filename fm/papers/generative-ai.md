@@ -18,3 +18,4 @@
 
 [2024] [Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
 
+[2023] [Diffusion-based Generation, Optimization, and Planning in 3D Scenes](https://arxiv.org/abs/2301.06015)

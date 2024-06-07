@@ -56,7 +56,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 2.Datasets and Benchmarks
 
-Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/ei/data) for the popular robot learning **datasets, simulator and benchmark** results.
+Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
 
 

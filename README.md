@@ -44,7 +44,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
-- [World Model Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/world-model-application.md)
 
 
 

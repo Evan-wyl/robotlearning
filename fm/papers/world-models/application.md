@@ -14,6 +14,12 @@
 
 
 
+### Manipulation
+
+[2024] [ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation](https://arxiv.org/abs/2403.08321)
+
+
+
 ### Humanoid
 
 [2023] [Gradient-based Planning with World Models](https://jyothirsv.github.io/pdfs/Gradient_based_Planning.pdf)

@@ -13,3 +13,5 @@
 [2023] [Structured World Models from Human Videos](https://arxiv.org/abs/2308.10901)
 
 [2023] [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)
+
+[2024] [Learning to Model the World with Language](https://arxiv.org/abs/2308.01399)

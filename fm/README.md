@@ -50,7 +50,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
 - [Vision Speech Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-speech-action.md)
-- [World Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/world-model.md)
+- [World Model and its Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/world-models)
 
 
 

@@ -39,3 +39,5 @@
 ### Manipulation with 3D Gaussian Splatting
 
 [2024] [MANUS: Markerless Grasp Capture using Articulated 3D Gaussians](https://arxiv.org/abs/2312.02137)
+
+[2024] [ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation](https://arxiv.org/abs/2403.08321)

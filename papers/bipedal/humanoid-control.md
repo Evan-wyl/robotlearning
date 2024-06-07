@@ -26,12 +26,6 @@
 
 
 
-### Loco-Manipulation
-
-[2023] [Sim-to-Real Learning for Humanoid Box Loco-Manipulation](https://arxiv.org/abs/2310.03191)
-
-
-
 ### Humanoid Control with LLM
 
 [2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)

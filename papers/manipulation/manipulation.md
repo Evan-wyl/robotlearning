@@ -2,6 +2,8 @@
 
 ### Reinforcement Learning
 
+[2017] [Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://proceedings.mlr.press/v87/kalashnikov18a/kalashnikov18a.pdf)
+
 [2021] [Learning Visible Connectivity Dynamics for Cloth Smoothing](https://arxiv.org/abs/2105.10389)
 
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)

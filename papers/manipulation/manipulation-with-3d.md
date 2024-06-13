@@ -18,6 +18,10 @@
 
 [2024] [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885)
 
+Closed-end Grasping
+
+[2020] [Grasping in the Wild:Learning 6DoF Closed-Loop Grasping from Low-Cost Demonstrations](https://arxiv.org/abs/1912.04344)
+
 
 
 ### Manipulation with NeRF
@@ -27,8 +31,6 @@
 #### Open-end Grasping
 
 [2023] [Affordance-Driven Next-Best-View Planning for Robotic Grasping](https://arxiv.org/abs/2309.09556)
-
-
 
 #### Closed-end Grasping
 

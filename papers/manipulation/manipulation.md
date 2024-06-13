@@ -38,6 +38,8 @@
 
 [2024] [Redundancy-aware Action Spaces for Robot Learning](https://arxiv.org/abs/2406.04144)
 
+[2024] [Scaling Manipulation Learning with Visual Kinematic Chain Prediction](https://arxiv.org/abs/2406.07837)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

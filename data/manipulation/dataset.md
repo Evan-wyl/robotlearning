@@ -8,6 +8,7 @@
 | [BridgeData V2](https://rail-berkeley.github.io/bridgedata/) | &#x2714; | Household Kitchen |      |      |      |           |
 |       [BC-Z](https://sites.google.com/view/bc-z/home)        | &#x2714; |                   |      |      |      |           |
 |      [MIME](https://sites.google.com/view/mimedataset)       | &#x2714; |                   |      |      |      |           |
+|           [MimicGen](https://mimicgen.github.io/)            | &#x2714; |                   |      |      |      |           |
 |         [Robo Turk](https://roboturk.stanford.edu/)          | &#x2714; |                   |      |      |      |           |
 |             [RoboNet](https://www.robonet.wiki/)             | &#x2714; |                   |      |      |      |           |
 |            [RoboSet](https://robopen.github.io/)             | &#x2714; |                   |      |      |      |           |

@@ -1,12 +1,16 @@
 ## Manipulation with 3D Vision
 
-[2023] [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
+[2022] [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://arxiv.org/abs/2209.05451)
 
 [2023] [GNFactor: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields](https://arxiv.org/abs/2308.16891)
 
 [2023] [Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation](https://arxiv.org/abs/2306.17817)
 
 [2023] [NeRFuser: Diffusion Guided Multi-Task 3D Policy Learning](https://openreview.net/forum?id=8GmPLkO0oR)
+
+[2023] [RVT: Robotic View Transformer for 3D Object Manipulation](https://arxiv.org/abs/2306.14896)
+
+[2024] [RVT-2: Learning Precise Manipulation from Few Demonstrations](https://arxiv.org/abs/2406.08545)
 
 
 

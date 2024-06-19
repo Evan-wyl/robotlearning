@@ -12,8 +12,6 @@
 
 [2024] [CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning](https://arxiv.org/abs/2309.17046)
 
-[2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
-
 [2024] [Learning Generic and Dynamic Locomotion of Humanoids Across Discrete Terrains](https://arxiv.org/abs/2405.17227)
 
 
@@ -23,6 +21,18 @@
 [2023] [Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://arxiv.org/abs/2309.01952)
 
 [2024] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
+
+
+
+### Whole-Body Control
+
+[2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
+
+[2024] [HumanPlus: Humanoid Shadowing and Imitation from Humans](https://humanoid-ai.github.io/)
+
+[2024] [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)
+
+[2024] [OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning](https://arxiv.org/abs/2406.08858)
 
 
 

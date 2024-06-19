@@ -14,6 +14,8 @@
 
 [2024] [Learning Generic and Dynamic Locomotion of Humanoids Across Discrete Terrains](https://arxiv.org/abs/2405.17227)
 
+[2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
+
 
 
 ### Imitation Learning

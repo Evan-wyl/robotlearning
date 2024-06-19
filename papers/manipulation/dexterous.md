@@ -14,6 +14,8 @@
 
 [2023] [Learning a Universal Human Prior for Dexterous Manipulation from Human Preference](https://arxiv.org/abs/2304.04602)
 
+[2023] [RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning](https://arxiv.org/abs/2304.04150)
+
 [2023] [UniDexGrasp++: Improving Dexterous Grasping Policy Learning via Geometry-aware Curriculum and Iterative Generalist-Specialist Learning](https://arxiv.org/abs/2304.00464)
 
 [2024] [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788)

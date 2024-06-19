@@ -16,6 +16,8 @@
 
 [2023] [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)
 
+[2024] [Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics](https://arxiv.org/abs/2406.10788)
+
 #### Diffusion Model and World Model
 
 [2023] [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533v2)

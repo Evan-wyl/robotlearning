@@ -32,6 +32,8 @@
 
 [2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
 
+[2024] [Variational Distillation of Diffusion Policies into Mixture of Experts](https://arxiv.org/abs/2406.12538)
+
 [2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)
 
 [2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
@@ -43,6 +45,10 @@
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)
+
+#### Sample Efficiency
+
+[2024] [Leveraging Locality to Boost Sample Efficiency in Robotic Manipulation](https://arxiv.org/abs/2406.10615)
 
 
 

@@ -12,7 +12,7 @@
 
 | Project                                                      |              Env              |  X Open  |
 | ------------------------------------------------------------ | :---------------------------: | :------: |
-| [Legged gym](https://github.com/whaleRobot/Robot-Learning/blob/master/codes/locomotion/Legged-Gym.md) |           IsaacGym            | &#x2714; |
+| [Legged gym](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/quadruped/Legged-Gym.md) |           IsaacGym            | &#x2714; |
 | [RMA](https://ashish-kmr.github.io/rma-legged-robots/)       | [RaiSim](https://raisim.com/) | &#x2714; |
 | [Rapid Locomotion](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/quadruped/Rapid-Locomotion.md) |           IsaacGym            | &#x2714; |
 | [Walk These Way](https://gmargo11.github.io/walk-these-ways/) |           IsaacGym            | &#x2714; |

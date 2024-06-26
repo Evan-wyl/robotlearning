@@ -21,3 +21,5 @@
 [2024] [DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation](https://arxiv.org/abs/2403.07788)
 
 [2024] [SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation](https://arxiv.org/abs/2310.16838)
+
+[2024] [Stable Tool-Use with Flexible Musculoskeletal Hands by Learning the Predictive Model of Sensor State Transition](https://arxiv.org/abs/2406.17136)

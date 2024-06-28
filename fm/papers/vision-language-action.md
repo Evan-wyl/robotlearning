@@ -15,3 +15,5 @@
 [2024] [SUGAR: Pre-training 3D Visual Representations for Robotics](https://arxiv.org/abs/2404.01491)
 
 [2024] [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246)
+
+[2024] [Towards Open-World Grasping with Large Vision-Language Models](https://arxiv.org/abs/2406.18722)

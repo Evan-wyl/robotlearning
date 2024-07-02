@@ -2,6 +2,10 @@
 
 [2024] [Deep Generative Models through the Lens of the Manifold Hypothesis: A Survey and New Connections](https://arxiv.org/abs/2404.02954)
 
+[2024] [Diffusion Models and Representation Learning: A Survey](https://arxiv.org/abs/2407.00783)
+
+
+
 #### Diffusion Model
 
 [2024] [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)

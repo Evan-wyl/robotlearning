@@ -42,6 +42,8 @@
 
 [2024] [Scaling Manipulation Learning with Visual Kinematic Chain Prediction](https://arxiv.org/abs/2406.07837)
 
+[2024] [Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations](https://arxiv.org/abs/2407.03311)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

@@ -23,3 +23,5 @@
 [2024] [SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation](https://arxiv.org/abs/2310.16838)
 
 [2024] [Stable Tool-Use with Flexible Musculoskeletal Hands by Learning the Predictive Model of Sensor State Transition](https://arxiv.org/abs/2406.17136)
+
+[2024] [Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/abs/2407.03162)

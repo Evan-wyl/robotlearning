@@ -44,6 +44,8 @@
 
 [2024] [Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations](https://arxiv.org/abs/2407.03311)
 
+[2024] [EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

@@ -19,3 +19,5 @@
 [2024] [Bi-KVIL: Keypoints-based Visual Imitation Learning of Bimanual Manipulation Tasks](https://arxiv.org/abs/2403.03270)
 
 [2024] [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/abs/2406.10093)
+
+[2024] [Open-TeleVision: Teleoperation with Immersive Active Visual Feedback](https://arxiv.org/abs/2407.01512)

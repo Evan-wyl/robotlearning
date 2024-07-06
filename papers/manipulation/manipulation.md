@@ -46,6 +46,8 @@
 
 [2024] [EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479)
 
+[2024] [Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals](https://intuitive-robots.github.io/mdt_policy/)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

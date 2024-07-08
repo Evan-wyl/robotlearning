@@ -12,6 +12,8 @@
 
 [2024] [Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data](https://openreview.net/pdf?id=Xkf2EBj4w3)
 
+[2024] [Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations](https://arxiv.org/abs/2407.03311)
+
 
 
 ### Imitation Learning
@@ -41,8 +43,6 @@
 [2024] [Redundancy-aware Action Spaces for Robot Learning](https://arxiv.org/abs/2406.04144)
 
 [2024] [Scaling Manipulation Learning with Visual Kinematic Chain Prediction](https://arxiv.org/abs/2406.07837)
-
-[2024] [Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations](https://arxiv.org/abs/2407.03311)
 
 [2024] [EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479)
 

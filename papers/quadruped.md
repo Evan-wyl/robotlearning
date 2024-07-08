@@ -30,6 +30,8 @@
 
 [2024] [Quadruped robot traversing 3D complex environments with limited perception](https://arxiv.org/abs/2404.18225)
 
+[2024] [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
+
 
 
 ### Imitation Learning

@@ -32,6 +32,8 @@
 
 [2024] [Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers](https://arxiv.org/abs/2405.12424)
 
+[2024] [PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots](https://arxiv.org/abs/2407.04224)
+
 
 
 ### Imitation Learning

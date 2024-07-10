@@ -2,9 +2,10 @@
 
 ***ActD: the highest action dimension for the domain. #Demo: Number of expert demonstrations used for each task in the domain. Art: articulated objects. Deform: deformable objects.***
 
-| Name                                      | Robo | Object | Simulator | ActD | #Task |
-| ----------------------------------------- | ---- | ------ | --------- | ---- | ----- |
-| [RoboMimic](https://robomimic.github.io/) |      |        |           |      |       |
+| Name                                                         | Robo | Object | Simulator | ActD | #Task |
+| ------------------------------------------------------------ | ---- | ------ | --------- | ---- | ----- |
+| [RoboMimic](https://robomimic.github.io/)                    |      |        |           |      |       |
+| [RoboCAS-v0](https://github.com/notFoundThisPerson/RoboCAS-v0) |      |        |           |      |       |
 
 
 

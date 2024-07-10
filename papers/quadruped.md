@@ -75,3 +75,5 @@
 [2023] [Curiosity-Driven Learning of Joint Locomotion and Manipulation Tasks](https://openreview.net/pdf?id=QG_ERxtDAP-)
 
 [2023] [DribbleBot: Dynamic Legged Manipulation in the Wild](https://arxiv.org/abs/2304.01159)
+
+[2024] [HiLMa-Res: A General Hierarchical Framework via Residual RL for Combining Quadrupedal Locomotion and Manipulation](https://arxiv.org/abs/2407.06584)

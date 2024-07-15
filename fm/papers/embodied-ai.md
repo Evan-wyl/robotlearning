@@ -18,6 +18,8 @@
 
 [2024] [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137)
 
+[2024] [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693)
+
 
 
 ### Visual Representation

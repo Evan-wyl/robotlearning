@@ -50,6 +50,10 @@
 
 [2024] [RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2407.04689)
 
+[2024] [Generative Image as Action Models](https://arxiv.org/abs/2407.07875)
+
+[2024] [An Economic Framework for 6-DoF Grasp Detection](https://arxiv.org/abs/2407.08366)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

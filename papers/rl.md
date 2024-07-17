@@ -32,6 +32,8 @@
 
 [2018] [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 
+[2024] [Affordance-Guided Reinforcement Learning via Visual Prompting](https://arxiv.org/abs/2407.10341)
+
 
 
 ### Transformers for RL

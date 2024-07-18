@@ -18,6 +18,8 @@
 
 [2024] [A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models](https://arxiv.org/abs/2405.13019)
 
+[2024] [A Survey on LoRA of Large Language Models](https://arxiv.org/abs/2407.11046)
+
 
 
 #### RAG and LLM

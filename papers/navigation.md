@@ -13,3 +13,9 @@
 [2024] [Visual-Geometry GP-based Navigable Space for Autonomous Navigation](https://arxiv.org/abs/2407.06545)
 
 [2024] [Fast-Slow Test-Time Adaptation for Online Vision-and-Language Navigation](https://openreview.net/pdf?id=Zos5wsaB5r)
+
+
+
+### Vision and Language Navigation
+
+[2024] [NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models](https://arxiv.org/abs/2407.12366)

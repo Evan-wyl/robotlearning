@@ -16,4 +16,10 @@
 
 [2024] [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246)
 
+
+
+### Open-World Grasping
+
 [2024] [Towards Open-World Grasping with Large Vision-Language Models](https://arxiv.org/abs/2406.18722)
+
+[2024] [OVGNet: A Unified Visual-Linguistic Framework for Open-Vocabulary Robotic Grasping](https://arxiv.org/abs/2407.13175)

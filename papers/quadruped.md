@@ -34,6 +34,8 @@
 
 [2024] [PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots](https://arxiv.org/abs/2407.04224)
 
+[2024] [Lifelike Agility and Play in Quadrupedal Robots using Reinforcement Learning and Generative Pre-trained Models](https://arxiv.org/abs/2308.15143)
+
 
 
 ### Imitation Learning

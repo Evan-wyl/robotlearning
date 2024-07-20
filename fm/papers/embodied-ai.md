@@ -16,6 +16,8 @@
 
 [2023] [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021)
 
+[2023] [ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2312.16217)
+
 [2024] [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137)
 
 [2024] [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693)

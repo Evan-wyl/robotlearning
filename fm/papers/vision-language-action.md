@@ -16,6 +16,8 @@
 
 [2024] [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246)
 
+[2024] [RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2407.04689)
+
 
 
 ### Open-World Grasping

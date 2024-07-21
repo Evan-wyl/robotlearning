@@ -21,3 +21,5 @@
 [2024] [BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation](https://arxiv.org/abs/2406.10093)
 
 [2024] [Open-TeleVision: Teleoperation with Immersive Active Visual Feedback](https://arxiv.org/abs/2407.01512)
+
+[2024] [ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection](https://arxiv.org/abs/2405.03666)

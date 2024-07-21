@@ -48,9 +48,9 @@
 
 [2024] [Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals](https://intuitive-robots.github.io/mdt_policy/)
 
-[2024] [RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2407.04689)
-
 [2024] [Generative Image as Action Models](https://arxiv.org/abs/2407.07875)
+
+[2024] [Configuration Space Distance Fields for Manipulation Planning](https://arxiv.org/abs/2406.01137)
 
 #### Universal Policy
 

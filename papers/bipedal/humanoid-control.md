@@ -16,6 +16,8 @@
 
 [2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
+[2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p058.pdf)
+
 
 
 ### Imitation Learning

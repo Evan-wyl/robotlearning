@@ -74,6 +74,6 @@
 
 
 
-### Flow-Conditioned Policy
+### Flow and Imitation Learning
 
 [2024] [Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208)

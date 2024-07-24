@@ -26,6 +26,6 @@
 
 
 
-### Flow Matching Imitation Learning
+### Flow and Imitation Learning
 
 [2024] [Flow Matching Imitation Learning for Multi-Support Manipulation](https://arxiv.org/abs/2407.12381)

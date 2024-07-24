@@ -88,6 +88,12 @@
 
 
 
+### Exploration
+
+[2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
+
+
+
 ### Theory
 
 [2018] [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)

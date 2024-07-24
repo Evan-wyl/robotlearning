@@ -62,12 +62,6 @@
 
 
 
-### Offline RL
-
-[2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
-
-
-
 ### Visual RL
 
 [2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)

@@ -117,3 +117,5 @@
 [2022] [The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)
 
 [2024] [Addressing Signal Delay in Deep Reinforcement Learning](https://openreview.net/pdf?id=Z8UfDs4J46)
+
+[2024] [Automatic Environment Shaping is the Next Frontier in RL](https://arxiv.org/abs/2407.16186)

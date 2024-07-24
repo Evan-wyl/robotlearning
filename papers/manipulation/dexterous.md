@@ -24,4 +24,10 @@
 
 [2024] [Stable Tool-Use with Flexible Musculoskeletal Hands by Learning the Predictive Model of Sensor State Transition](https://arxiv.org/abs/2406.17136)
 
-[2024] [Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning](https://arxiv.org/abs/2407.03162)
+[2024] [GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization](https://arxiv.org/abs/2407.15002)
+
+
+
+### Flow-Based Policy
+
+[2024] [FFHFlow: A Flow-based Variational Approach for Multi-fingered Grasp Synthesis in Real Time](https://arxiv.org/abs/2407.15002)

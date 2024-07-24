@@ -52,6 +52,8 @@
 
 [2024] [Configuration Space Distance Fields for Manipulation Planning](https://arxiv.org/abs/2406.01137)
 
+[2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)
@@ -65,3 +67,21 @@
 ### Offline RL
 
 [2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
+
+
+
+### Visual Rl
+
+[2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)
+
+
+
+### Lifelong Learning
+
+[2024] [Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence Modeling Approach for Lifelong Learning](https://arxiv.org/abs/2407.16306)
+
+
+
+### Flow-Conditioned Policy
+
+[2024] [Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208)

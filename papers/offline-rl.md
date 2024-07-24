@@ -18,4 +18,10 @@
 
 [2022] [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193)
 
+[2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
+
 [2024] [GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2405.16907)
+
+[2024] [Diffusion Models as Optimizers for Efficient Planning in Offline RL](https://arxiv.org/abs/2407.16142)
+
+[2024] [Offline Imitation Learning Through Graph Search and Retrieval](https://arxiv.org/abs/2407.15403)

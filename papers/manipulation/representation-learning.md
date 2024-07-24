@@ -11,3 +11,5 @@
 [2024] [Recasting Generic Pretrained Vision Transformers As Object-Centric Scene Encoders For Manipulation Policies](https://arxiv.org/abs/2405.15916)
 
 [2024] [Learning Manipulation by Predicting Interaction](https://arxiv.org/abs/2406.00439)
+
+[2024] [QueST: Self-Supervised Skill Abstractions for Learning Continuous Control](https://arxiv.org/abs/2407.15840)

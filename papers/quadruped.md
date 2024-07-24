@@ -54,6 +54,8 @@
 
 [2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
 
+[2024] [Cross Anything: General Quadruped Robot Navigation through Complex Terrains](https://arxiv.org/abs/2407.16412)
+
 
 
 ### Traversability Estimation

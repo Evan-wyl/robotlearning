@@ -23,3 +23,9 @@
 [2024] [Open-TeleVision: Teleoperation with Immersive Active Visual Feedback](https://arxiv.org/abs/2407.01512)
 
 [2024] [ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection](https://arxiv.org/abs/2405.03666)
+
+
+
+### Flow Matching Imitation Learning
+
+[2024] [Flow Matching Imitation Learning for Multi-Support Manipulation](https://arxiv.org/abs/2407.12381)

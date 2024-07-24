@@ -50,8 +50,6 @@
 
 [2024] [Generative Image as Action Models](https://arxiv.org/abs/2407.07875)
 
-[2024] [Configuration Space Distance Fields for Manipulation Planning](https://arxiv.org/abs/2406.01137)
-
 [2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
 
 #### Universal Policy
@@ -70,7 +68,7 @@
 
 
 
-### Visual Rl
+### Visual RL
 
 [2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)
 

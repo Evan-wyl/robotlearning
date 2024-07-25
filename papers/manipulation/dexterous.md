@@ -26,6 +26,8 @@
 
 [2024] [GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization](https://arxiv.org/abs/2407.15002)
 
+[2024] [DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation](https://arxiv.org/abs/2407.17348)
+
 
 
 ### Flow-Based Policy

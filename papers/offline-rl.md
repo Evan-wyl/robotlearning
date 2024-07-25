@@ -25,3 +25,5 @@
 [2024] [Diffusion Models as Optimizers for Efficient Planning in Offline RL](https://arxiv.org/abs/2407.16142)
 
 [2024] [Offline Imitation Learning Through Graph Search and Retrieval](https://arxiv.org/abs/2407.15403)
+
+[2024] [Reward-Consistent Dynamics Models are Strongly Generalizable for Offline Reinforcement Learning](https://arxiv.org/abs/2310.05422#)

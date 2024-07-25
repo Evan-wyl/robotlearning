@@ -90,6 +90,14 @@
 
 ### Exploration
 
+[2016] [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
+
+[2018] [Count-Based Exploration with the Successor Representation](https://arxiv.org/abs/1807.11622)
+
+[2018] [Provably Efficient Maximum Entropy Exploration](https://arxiv.org/abs/1812.02690)
+
+[2021] [State Entropy Maximization with Random Encoders for Efficient Exploration](https://arxiv.org/abs/2102.09430)
+
 [2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
 
 

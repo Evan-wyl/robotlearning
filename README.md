@@ -16,6 +16,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2021] [Robot Learning from Randomized Simulations: A Review](https://arxiv.org/abs/2111.00956)
 
+[2022] [Guided reinforcement learning: A review and evaluation for efficient and effective real-world robotics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926159)
+
 [2023] [Transfer Learning in Robotics: An Upcoming Breakthrough? A Review of Promises and Challenges](https://arxiv.org/abs/2311.18044)
 
 [2024] [Survey of Learning Approaches for Robotic In-Hand Manipulation](https://arxiv.org/abs/2401.07915)
@@ -42,7 +44,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
-- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl.md)
+- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)

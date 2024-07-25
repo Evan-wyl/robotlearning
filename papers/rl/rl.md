@@ -32,6 +32,8 @@
 
 [2018] [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 
+[2023] [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://arxiv.org/abs/2311.03351)
+
 [2024] [Affordance-Guided Reinforcement Learning via Visual Prompting](https://arxiv.org/abs/2407.10341)
 
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
@@ -139,5 +141,3 @@
 [2022] [The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)
 
 [2024] [Addressing Signal Delay in Deep Reinforcement Learning](https://openreview.net/pdf?id=Z8UfDs4J46)
-
-[2024] [Automatic Environment Shaping is the Next Frontier in RL](https://arxiv.org/abs/2407.16186)

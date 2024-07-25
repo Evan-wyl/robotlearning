@@ -98,7 +98,21 @@
 
 [2021] [State Entropy Maximization with Random Encoders for Efficient Exploration](https://arxiv.org/abs/2102.09430)
 
+[2022] [Action Noise in Off-Policy Deep Reinforcement Learning: Impact on Exploration and Performance](https://arxiv.org/abs/2206.03787)
+
+[2023] [Colored Noise in PPO: Improved Exploration and Performance through Correlated Action Sampling](https://arxiv.org/abs/2312.11091)
+
+[2023] [Latent Exploration for Reinforcement Learning](https://arxiv.org/abs/2305.20065)
+
 [2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
+
+[2024] [Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning](https://openreview.net/pdf?id=e8dcuniLcA)
+
+
+
+### Generalization
+
+[2024] [Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf)
 
 
 

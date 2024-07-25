@@ -72,6 +72,8 @@
 
 [2024] [Domain Randomization via Entropy Maximization](https://arxiv.org/abs/2311.01885)
 
+[2024] [Continual Domain Randomization](https://continual-dr.github.io/)
+
 
 
 ### Domain Adaption

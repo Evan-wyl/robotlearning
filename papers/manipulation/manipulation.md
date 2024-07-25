@@ -8,6 +8,8 @@
 
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
 
+[2022] [Inferring Smooth Control: Monte Carlo Posterior Policy Iteration with Gaussian Processes](https://arxiv.org/abs/2210.03512)
+
 [2024] [FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills](https://arxiv.org/abs/2404.19217)
 
 [2024] [Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data](https://openreview.net/pdf?id=Xkf2EBj4w3)

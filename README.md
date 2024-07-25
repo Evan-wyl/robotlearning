@@ -12,11 +12,15 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Survey
 
+[2020] [Automatic Curriculum Learning For Deep RL: A Short Survey](https://arxiv.org/abs/2003.04664)
+
 [2020] [A Survey on Learning-Based Robotic Grasping](https://d-nb.info/122422468X/34)
 
 [2021] [Robot Learning from Randomized Simulations: A Review](https://arxiv.org/abs/2111.00956)
 
 [2022] [Guided reinforcement learning: A review and evaluation for efficient and effective real-world robotics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926159)
+
+[2022] [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/abs/2201.03916)
 
 [2023] [Transfer Learning in Robotics: An Upcoming Breakthrough? A Review of Promises and Challenges](https://arxiv.org/abs/2311.18044)
 

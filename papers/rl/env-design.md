@@ -6,6 +6,8 @@
 
 [2022] [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/abs/2201.03916)
 
+[2022] [Guided reinforcement learning: A review and evaluation for efficient and effective real-world robotics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926159)
+
 
 
 ## Great Paper
@@ -15,6 +17,8 @@
 [2020] [Ecological Reinforcement Learning](https://arxiv.org/abs/2006.12478)
 
 [2021] [The Task Specification Problem](https://openreview.net/pdf?id=cBdnThrYkV7)
+
+[2023] [Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior](https://arxiv.org/abs/2212.03238)
 
 [2024] [Automatic Environment Shaping is the Next Frontier in RL](https://arxiv.org/abs/2407.16186)
 
@@ -26,15 +30,11 @@
 
 [2019] [Using Natural Language for Reward Shaping in Reinforcement Learning](https://arxiv.org/abs/1903.02020)
 
-[2021] [Reward function design in reinforcement learning](https://link.springer.com/book/10.1007/978-3-030-41188-6#page=31)
-
 [2021] [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control](https://arxiv.org/abs/2104.02180)
 
 [2022] [Redeeming Intrinsic Rewards via Constrained Optimization](https://arxiv.org/abs/2211.07627)
 
 [2022] [Unpacking Reward Shaping: Understanding the Benefits of Reward Engineering on Sample Complexity](https://arxiv.org/abs/2210.09579)
-
-[2023] [Walk These Ways: Tuning Robot Control for Generalization with Multiplicity of Behavior](https://arxiv.org/abs/2212.03238)
 
 [2024] [Text2Reward: Reward Shaping with Language Models for Reinforcement Learning](https://arxiv.org/abs/2309.11489) 
 
@@ -42,9 +42,9 @@
 
 
 
-### Observation Space
+### State Space
 
-[2023] [Identifying important sensory feedback for learning locomotion skills](https://arxiv.org/abs/2306.17101)
+[2023] [Identifying Important Sensory Feedback for Learning Locomotion Skills](https://arxiv.org/abs/2306.17101)
 
 
 
@@ -53,12 +53,6 @@
 [2016] [Learning Locomotion Skills Using DeepRL: Does the Choice of Action Space Matter?](https://arxiv.org/abs/1611.01055)
 
 [2023] [On the Role of the Action Space in Robot Manipulation Learning and Sim-to-Real Transfer](https://arxiv.org/abs/2312.03673)
-
-
-
-### State Space
-
-[2023] [Identifying Important Sensory Feedback for Learning Locomotion Skills](https://arxiv.org/abs/2306.17101)
 
 
 

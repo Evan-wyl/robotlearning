@@ -39,3 +39,10 @@
 [2023] [Preventing Mode Collapse When Imitating Latent Policies from Observations](https://openreview.net/forum?id=Mf9fQ0OgMzo) 
 
 [2024] [Learning to Act without Actions](https://arxiv.org/abs/2312.10812)
+
+
+
+### Theory
+
+[2024] [How Generalizable Is My Behavior Cloning Policy? A Statistical Approach to Trustworthy Performance Evaluation](https://arxiv.org/abs/2405.05439)
+

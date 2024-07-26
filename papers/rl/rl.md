@@ -98,6 +98,8 @@
 
 [2018] [Count-Based Exploration with the Successor Representation](https://arxiv.org/abs/1807.11622)
 
+[2017] [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)
+
 [2018] [Provably Efficient Maximum Entropy Exploration](https://arxiv.org/abs/1812.02690)
 
 [2021] [State Entropy Maximization with Random Encoders for Efficient Exploration](https://arxiv.org/abs/2102.09430)

@@ -44,6 +44,12 @@
 
 
 
+### Meta Reinforcement Learning
+
+[2024] [Meta-Reinforcement Learning for Universal Quadrupedal Locomotion Control](https://arxiv.org/abs/2407.17502)
+
+
+
 ### Control Theory
 
 [2024] [DTC: Deep Tracking Control](https://www.science.org/doi/abs/10.1126/scirobotics.adh5401)

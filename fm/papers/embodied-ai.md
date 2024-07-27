@@ -1,5 +1,13 @@
 ## Embodied AI
 
+### Survey
+
+[2024] [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)
+
+
+
+### Great Paper
+
 [2022] [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://arxiv.org/abs/2201.07207)
 
 [2022] [Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos](https://arxiv.org/abs/2206.11795)

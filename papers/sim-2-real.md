@@ -64,6 +64,8 @@
 
 [2019] [Learning Domain Randomization Distributions for Training Robust Locomotion Policies](https://arxiv.org/abs/1906.00410)
 
+[2019] [Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization without Accessing Target Domain Data](https://arxiv.org/abs/1909.00889)
+
 [2021] [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)
 
 [2022] [Online vs. Offline Adaptive Domain Randomization Benchmark](https://arxiv.org/abs/2206.14661)

@@ -42,6 +42,12 @@
 
 
 
+### Continual RL
+
+[2019] [Continual Reinforcement Learning deployed in Real-life using Policy Distillation and Sim2Real Transfer](https://arxiv.org/abs/1906.04452)
+
+
+
 ### Transformers for RL
 
 [2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)

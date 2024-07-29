@@ -40,6 +40,8 @@
 
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
 
+[2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
+
 
 
 ### Continual RL

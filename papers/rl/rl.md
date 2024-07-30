@@ -42,6 +42,8 @@
 
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
 
+[2024] [SAPG: Split and Aggregate Policy Gradients](https://arxiv.org/abs/2407.20230)
+
 
 
 ### Continual RL

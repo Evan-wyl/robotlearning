@@ -14,6 +14,8 @@
 
 [2024] [Fast-Slow Test-Time Adaptation for Online Vision-and-Language Navigation](https://openreview.net/pdf?id=Zos5wsaB5r)
 
+[2024] [Neural Control Barrier Functions for Safe Navigation](https://arxiv.org/abs/2407.19907)
+
 
 
 ### Vision and Language Navigation

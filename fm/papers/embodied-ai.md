@@ -30,6 +30,8 @@
 
 [2024] [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693)
 
+[2024] [BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World](https://arxiv.org/abs/2407.20242)
+
 
 
 ### Fine-Tuning

@@ -54,6 +54,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
 - [Vision Audio Tactile Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-audio-tactile.md)
 - [Video Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/video-action.md)
+- [Vision Foundation Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-foundation-model.md)
 - [World Model and its Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/world-models)
 
 

@@ -36,3 +36,9 @@
 
 - [Diffusion-Literature-for-Robotics](https://github.com/mbreuss/diffusion-literature-for-robotics): This repository offers a brief summary of essential papers and blogs.
 - [Awesome Model-Based Reinforcement Learning](https://github.com/opendilab/awesome-model-based-RL): This is a collection of research papers for model-based reinforcement learning (mbrl).
+
+
+
+### Software Suite
+
+- [SERL](https://rail-berkeley.github.io/serl/)

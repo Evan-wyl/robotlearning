@@ -21,3 +21,5 @@
 ### Vision and Language Navigation
 
 [2024] [NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models](https://arxiv.org/abs/2407.12366)
+
+[2024] [Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments](https://arxiv.org/abs/2407.21452)

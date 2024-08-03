@@ -44,6 +44,10 @@
 
 [2024] [SAPG: Split and Aggregate Policy Gradients](https://arxiv.org/abs/2407.20230)
 
+#### MCTS
+
+[2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
+
 
 
 ### Continual RL
@@ -106,9 +110,11 @@
 
 [2016] [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
 
-[2018] [Count-Based Exploration with the Successor Representation](https://arxiv.org/abs/1807.11622)
+[2017] [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905#)
 
 [2017] [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)
+
+[2018] [Count-Based Exploration with the Successor Representation](https://arxiv.org/abs/1807.11622)
 
 [2018] [Provably Efficient Maximum Entropy Exploration](https://arxiv.org/abs/1812.02690)
 
@@ -120,7 +126,9 @@
 
 [2023] [Latent Exploration for Reinforcement Learning](https://arxiv.org/abs/2305.20065)
 
-[2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
+[2023] [Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning](https://openreview.net/pdf?id=hQ9V5QN27eS) 
+
+[2023] [DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems](https://arxiv.org/abs/2206.00484)
 
 [2024] [Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning](https://openreview.net/pdf?id=e8dcuniLcA)
 

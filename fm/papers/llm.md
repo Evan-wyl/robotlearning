@@ -8,6 +8,8 @@
 
 [2023] [A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future](https://arxiv.org/abs/2309.15402)
 
+[2023] [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
+
 [2024] [Efficient Prompting Methods for Large Language Models: A Survey](https://arxiv.org/abs/2404.01077)
 
 [2024] [On the Essence and Prospect: An Investigation of Alignment Approaches for Big Models](https://arxiv.org/abs/2403.04204)
@@ -19,6 +21,8 @@
 [2024] [A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models](https://arxiv.org/abs/2405.13019)
 
 [2024] [A Survey on LoRA of Large Language Models](https://arxiv.org/abs/2407.11046)
+
+[2024] [Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](https://arxiv.org/abs/2404.02062)
 
 
 

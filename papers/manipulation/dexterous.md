@@ -28,6 +28,8 @@
 
 [2024] [DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation](https://arxiv.org/abs/2407.17348)
 
+[2024] [Real-time Dexterous Telemanipulation with an End-Effect-Oriented Learning-based Approach](https://arxiv.org/abs/2408.00853)
+
 
 
 ### Flow-Based Policy

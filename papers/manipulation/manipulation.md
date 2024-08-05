@@ -79,3 +79,9 @@
 ### Flow and Imitation Learning
 
 [2024] [Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208)
+
+
+
+### Long-Horizon Task
+
+[2024] [A Backbone for Long-Horizon Robot Task Understanding](https://arxiv.org/abs/2408.01334)

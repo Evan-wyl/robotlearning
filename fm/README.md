@@ -51,6 +51,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Navigation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/navigation.md)
 - [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robotic-transformer.md)
 - [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
+- [Spatial Intelligence](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/spatial-intelligence.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)
 - [Vision Audio Tactile Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-audio-tactile.md)
 - [Video Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/video-action.md)

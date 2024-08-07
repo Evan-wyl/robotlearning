@@ -20,6 +20,8 @@
 
 [2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
 
+[2024] [KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance](https://arxiv.org/abs/2408.02912)
+
 
 
 ### Sample Efficiency

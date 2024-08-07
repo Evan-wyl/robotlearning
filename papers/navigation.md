@@ -16,6 +16,8 @@
 
 [2024] [Neural Control Barrier Functions for Safe Navigation](https://arxiv.org/abs/2407.19907)
 
+[2024] [TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation](https://arxiv.org/abs/2408.01867)
+
 
 
 ### Vision and Language Navigation

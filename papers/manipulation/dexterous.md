@@ -26,12 +26,14 @@
 
 [2024] [GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization](https://arxiv.org/abs/2407.15002)
 
-[2024] [DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation](https://arxiv.org/abs/2407.17348)
-
-[2024] [Real-time Dexterous Telemanipulation with an End-Effect-Oriented Learning-based Approach](https://arxiv.org/abs/2408.00853)
-
 
 
 ### Flow-Based Policy
 
 [2024] [FFHFlow: A Flow-based Variational Approach for Multi-fingered Grasp Synthesis in Real Time](https://arxiv.org/abs/2407.15002)
+
+
+
+### Representation
+
+[2024] [A Surprisingly Efficient Representation for Multi-Finger Grasping](https://arxiv.org/abs/2408.02455)

@@ -44,9 +44,17 @@
 
 [2024] [SAPG: Split and Aggregate Policy Gradients](https://arxiv.org/abs/2407.20230)
 
+[2024] [Continuous Control with Coarse-to-fine Reinforcement Learning](https://arxiv.org/abs/2407.07787)
+
 #### MCTS
 
 [2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
+
+
+
+### Planning and RL
+
+[2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)
 
 
 

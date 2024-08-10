@@ -17,7 +17,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-:speaker: ***Embodied AI*** and ***Foundation Models*** can be found in folder of [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).
+***Embodied AI*** and ***Foundation Models*** can be found in folder of [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).
 
 
 

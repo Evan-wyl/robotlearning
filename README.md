@@ -60,9 +60,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
-- [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
-- [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
 
 ---
 

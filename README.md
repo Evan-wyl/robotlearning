@@ -55,19 +55,25 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
-- [Navigation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/navigation.md)
-- [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
-- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
-- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
-- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
-- [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
+- [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)
+- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
+- [Safe Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Safe-RL.md)
+- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/Vision-RL.md)
+
+---
+
+- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
+- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
+
+---
+
+- [Navigation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/navigation.md)
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
 
 ---
 

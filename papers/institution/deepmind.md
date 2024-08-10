@@ -12,6 +12,8 @@
 
 ### Table Tennis
 
+[2020] [Robotic Table Tennis with Model-Free Reinforcement Learning](https://arxiv.org/abs/2003.14398)
+
 [2023] [i-Sim2Real: Reinforcement Learning of Robotic Policies in Tight Human-Robot Interaction Loops](https://arxiv.org/abs/2207.06572)
 
 [2023] [Robotic Table Tennis: A Case Study into a High Speed Learning System](https://arxiv.org/abs/2309.03315)

@@ -17,7 +17,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-***Embodied AI*** and ***Foundation Models*** can be found in folder of [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).
+*The research result of  **Embodied AI** and **Foundation Models** can be found in [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).*
 
 
 
@@ -89,7 +89,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) f
 
 ## 4.Relevant Resources
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/resources.md) for some awesome relevant resources, such as
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/resources.md) for some awesome relevant resources, such as
 
 - Tutorials
 - Awesome URDF and MJCF

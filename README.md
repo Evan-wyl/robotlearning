@@ -55,6 +55,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
+- [Evolutionary Search](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/es.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Offline Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/offline-rl.md)

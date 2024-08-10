@@ -43,13 +43,3 @@
 ### Humanoid Control with LLM
 
 [2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)
-
-
-
-### Humanoid and Football
-
-[2021] [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196)
-
-[2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
-
-[2024] [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)

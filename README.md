@@ -12,8 +12,12 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 **Better Result of Research Institute:**
 
-- [DeepMind](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/deepmind.pdf)
-- [Tencent-RoboticsX](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/tencent.pdf)
+- [DeepMind](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/deepmind.md)
+- [Tencent-RoboticsX](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/tencent.md)
+
+---
+
+:speaker: ***Embodied AI*** and ***Foundation Models*** can be found in folder of [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).
 
 
 
@@ -52,7 +56,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
-- [Foundation Model](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Navigation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/navigation.md)

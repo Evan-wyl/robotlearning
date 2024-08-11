@@ -1,4 +1,4 @@
-## Evolutionary Search
+## Evolutionary Learning
 
 [2011] [Natural Evolution Strategies](https://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf)
 

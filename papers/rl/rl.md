@@ -76,8 +76,6 @@
 
 [2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
 
-[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
-
 [2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
 
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
@@ -159,6 +157,14 @@
 ---
 
 ### Generalization
+
+[2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
+
+[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
+
+[2022] [Uncertainty-Driven Exploration for Generalization in Reinforcement Learning](https://openreview.net/pdf/f9c29a329faa3971ff4fd4b8b50fd51f2c999334.pdf)
+
+[2023] [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization](https://arxiv.org/abs/2207.02016)
 
 [2024] [Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf)
 

@@ -8,4 +8,6 @@
 
 [2023] [Cal-QL: Calibrated Offline RL Pre-Training for Efficient Online Fine-Tuning](https://arxiv.org/abs/2303.05479)
 
+[2023] [Hybrid RL: Using Both Offline and Online Data Can Make RL Efficient](https://arxiv.org/abs/2210.06718)
+
 [2024] [Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning](https://arxiv.org/abs/2309.16984)

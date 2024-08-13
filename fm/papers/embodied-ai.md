@@ -26,8 +26,6 @@
 
 [2023] [ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2312.16217)
 
-[2024] [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137)
-
 [2024] [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693)
 
 [2024] [BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World](https://arxiv.org/abs/2407.20242)
@@ -43,3 +41,5 @@
 ### Visual Representation
 
 [2023] [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/abs/2303.18240)
+
+[2024] [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137)

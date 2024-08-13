@@ -72,57 +72,25 @@
 
 ---
 
-### Various Paradigms of RL
+### Generalization
 
-[2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
+[2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
 
-[2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
+[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
 
-[2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
+[2022] [Uncertainty-Driven Exploration for Generalization in Reinforcement Learning](https://openreview.net/pdf/f9c29a329faa3971ff4fd4b8b50fd51f2c999334.pdf)
 
-[2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
+[2023] [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization](https://arxiv.org/abs/2207.02016)
 
-#### Guided RL
+[2023] [Bad Habits: Policy Confounding and Out-of-Trajectory Generalization in RL](https://arxiv.org/abs/2306.02419)
 
-[2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
-
-[2024] [Affordance-Guided Reinforcement Learning via Visual Prompting](https://arxiv.org/abs/2407.10341)
-
-#### Planning and RL
-
-[2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)
-
-#### Continual RL
-
-[2019] [Continual Reinforcement Learning deployed in Real-life using Policy Distillation and Sim2Real Transfer](https://arxiv.org/abs/1906.04452)
-
-#### Transformers for RL
-
-[2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
+[2024] [Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf)
 
 ---
 
-### Temporal Processing
+### Experience Replay
 
-[2017] [Time Limits in Reinforcement Learning](https://arxiv.org/abs/1712.00378)
-
-[2018] [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016)
-
-[2019] [Making Deep Q-learning methods robust to time discretization](https://arxiv.org/abs/1901.09732)
-
-[2020] [Thinking While Moving: Deep Reinforcement Learning with Concurrent Control](https://arxiv.org/abs/2004.06089)
-
----
-
-### Sample Efficiency
-
-[2016] [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951)
-
-[2016] [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647)
-
-[2016] [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224)
-
-[2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
+[2023] [Synthetic Experience Replay](https://arxiv.org/abs/2303.06614)
 
 ---
 
@@ -156,23 +124,59 @@
 
 ---
 
-### Generalization
+### Various Paradigms of RL
 
-[2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
+[2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
 
-[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
+[2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
 
-[2022] [Uncertainty-Driven Exploration for Generalization in Reinforcement Learning](https://openreview.net/pdf/f9c29a329faa3971ff4fd4b8b50fd51f2c999334.pdf)
+[2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
 
-[2023] [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization](https://arxiv.org/abs/2207.02016)
+[2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
 
-[2024] [Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf)
+#### Guided RL
+
+[2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
+
+[2024] [Affordance-Guided Reinforcement Learning via Visual Prompting](https://arxiv.org/abs/2407.10341)
+
+#### Planning and RL
+
+[2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)
+
+#### Continual RL
+
+[2019] [Continual Reinforcement Learning deployed in Real-life using Policy Distillation and Sim2Real Transfer](https://arxiv.org/abs/1906.04452)
+
+[2022] [Posterior Sampling for Continuing Environments](https://arxiv.org/abs/2211.15931)
+
+#### Transformers for RL
+
+[2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
 
 ---
 
-### Experience Replay
+### Temporal Processing
 
-[2023] [Synthetic Experience Replay](https://arxiv.org/abs/2303.06614)
+[2017] [Time Limits in Reinforcement Learning](https://arxiv.org/abs/1712.00378)
+
+[2018] [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016)
+
+[2019] [Making Deep Q-learning methods robust to time discretization](https://arxiv.org/abs/1901.09732)
+
+[2020] [Thinking While Moving: Deep Reinforcement Learning with Concurrent Control](https://arxiv.org/abs/2004.06089)
+
+---
+
+### Sample Efficiency
+
+[2016] [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951)
+
+[2016] [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647)
+
+[2016] [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224)
+
+[2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
 
 ---
 
@@ -193,5 +197,7 @@
 [2021] [How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned](https://arxiv.org/abs/2102.02915)
 
 [2022] [The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)
+
+[2023] [An Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](https://arxiv.org/abs/2310.05808)
 
 [2024] [Addressing Signal Delay in Deep Reinforcement Learning](https://openreview.net/pdf?id=Z8UfDs4J46)

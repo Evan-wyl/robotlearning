@@ -1,4 +1,6 @@
-## Offline  RL to Online RL
+## Offline to Online RL
+
+[2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
 
 [2022] [Leveraging Offline Data in Online Reinforcement Learning](https://arxiv.org/abs/2211.04974)
 

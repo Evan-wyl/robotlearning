@@ -106,8 +106,6 @@
 
 [2016] [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224)
 
-[2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
-
 ---
 
 ### Exploration

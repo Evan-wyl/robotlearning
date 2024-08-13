@@ -20,7 +20,7 @@
 
 
 
-### Awesome RL Implementation
+### Awesome Implementation of RL
 
 - [RL-Games](https://github.com/Denys88/rl_games): High performance Reinforcement Learning library.
 - [Let's do Inverse RL](https://github.com/reinforcement-learning-kr/lets-do-irl): This repository contains PyTorch (v0.4.1) implementations of Inverse Reinforcement Learning (IRL) algorithms.
@@ -29,6 +29,12 @@
 - [Popular-RL-Algorithms](https://github.com/quantumiracle/Popular-RL-Algorithms): PyTorch and Tensorflow 2.0 implementation of state-of-the-art model-free reinforcement learning algorithms.
 - [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr-gail): This implementation is inspired by the OpenAI baselines for [A2C](https://github.com/openai/baselines/tree/master/baselines/a2c), [ACKTR](https://github.com/openai/baselines/tree/master/baselines/acktr) and [PPO](https://github.com/openai/baselines/tree/master/baselines/ppo1). 
 - [Baby A3C:](https://github.com/greydanus/baby-a3c) A high-performance Atari A3C agent in 180 lines of PyTorch.
+
+
+
+### Awesome Implementation of Offline RL
+
+- [CORL](https://github.com/tinkoff-ai/CORL): an Offline Reinforcement Learning library that provides high-quality and easy-to-follow single-file implementations of SOTA ORL algorithms.
 
 
 

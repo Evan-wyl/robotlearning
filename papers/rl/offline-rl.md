@@ -16,6 +16,8 @@
 
 [2020] [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779)
 
+[2021] [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
+
 [2022] [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193)
 
 [2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)

@@ -94,6 +94,18 @@
 
 ---
 
+### Sample Efficiency
+
+[2016] [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951)
+
+[2016] [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647)
+
+[2016] [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224)
+
+[2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
+
+---
+
 ### Exploration
 
 [2016] [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
@@ -121,6 +133,18 @@
 [2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
 
 [2024] [Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning](https://openreview.net/pdf?id=e8dcuniLcA)
+
+---
+
+### Temporal Processing
+
+[2017] [Time Limits in Reinforcement Learning](https://arxiv.org/abs/1712.00378)
+
+[2018] [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016)
+
+[2019] [Making Deep Q-learning methods robust to time discretization](https://arxiv.org/abs/1901.09732)
+
+[2020] [Thinking While Moving: Deep Reinforcement Learning with Concurrent Control](https://arxiv.org/abs/2004.06089)
 
 ---
 
@@ -153,30 +177,6 @@
 #### Transformers for RL
 
 [2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
-
----
-
-### Temporal Processing
-
-[2017] [Time Limits in Reinforcement Learning](https://arxiv.org/abs/1712.00378)
-
-[2018] [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016)
-
-[2019] [Making Deep Q-learning methods robust to time discretization](https://arxiv.org/abs/1901.09732)
-
-[2020] [Thinking While Moving: Deep Reinforcement Learning with Concurrent Control](https://arxiv.org/abs/2004.06089)
-
----
-
-### Sample Efficiency
-
-[2016] [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951)
-
-[2016] [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647)
-
-[2016] [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224)
-
-[2020] [AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://arxiv.org/abs/2006.09359)
 
 ---
 

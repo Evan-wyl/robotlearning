@@ -170,6 +170,12 @@
 
 ---
 
+### Experience Replay
+
+[2023] [Synthetic Experience Replay](https://arxiv.org/abs/2303.06614)
+
+---
+
 ### Theory
 
 [2018] [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)

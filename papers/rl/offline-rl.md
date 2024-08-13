@@ -6,7 +6,7 @@
 
 [2022] [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/abs/2203.01387)
 
-
+---
 
 ### Algorithm
 
@@ -27,3 +27,11 @@
 [2024] [Offline Imitation Learning Through Graph Search and Retrieval](https://arxiv.org/abs/2407.15403)
 
 [2024] [Reward-Consistent Dynamics Models are Strongly Generalizable for Offline Reinforcement Learning](https://arxiv.org/abs/2310.05422#)
+
+[2024] [Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning](https://arxiv.org/abs/2309.16984)
+
+---
+
+### Thory
+
+[2023] [Revisiting the Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2305.09836)

@@ -18,6 +18,8 @@
 
 [2016] [Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning](https://arxiv.org/abs/1611.01929)
 
+[2020] [Value-driven Hindsight Modelling](https://arxiv.org/abs/2002.08329)
+
 ---
 
 ### Policy-Gradient  Based Method
@@ -60,6 +62,8 @@
 
 [2020] [Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO](https://arxiv.org/abs/2005.12729)
 
+[2020] [A Self-Tuning Actor-Critic Algorithm](https://arxiv.org/abs/2002.12928)
+
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
 
 [2024] [Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning](https://arxiv.org/abs/2309.16984)
@@ -91,6 +95,10 @@
 ---
 
 ### Experience Replay
+
+[2015] [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+
+[2018] [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
 
 [2023] [Synthetic Experience Replay](https://arxiv.org/abs/2303.06614)
 
@@ -130,8 +138,6 @@
 
 [2023] [DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems](https://arxiv.org/abs/2206.00484)
 
-[2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
-
 [2024] [Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning](https://openreview.net/pdf?id=e8dcuniLcA)
 
 ---
@@ -157,6 +163,18 @@
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
 
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
+
+#### Meta Gradient RL
+
+[2018] [Meta-Gradient Reinforcement Learning](https://arxiv.org/abs/1805.09801)
+
+[2020] [Meta-Gradient Reinforcement Learning with an Objective Discovered Online](https://arxiv.org/abs/2007.08433)
+
+####  MCTS
+
+[2012] [Efficient Bayes-Adaptive Reinforcement Learning using Sample-Based Search](https://arxiv.org/abs/1205.3109)
+
+[2024] [Provably Efficient Long-Horizon Exploration in Monte Carlo Tree Search through State Occupancy Regularization](https://arxiv.org/abs/2407.05511)
 
 #### Guided RL
 
@@ -191,6 +209,10 @@
 [2018] [The Mirage of Action-Dependent Baselines in Reinforcement Learning](https://arxiv.org/abs/1802.10031)
 
 [2018] [Deep reinforcement learning doesn’t work yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+
+[2019] [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/abs/1912.05500)
+
+[2019] [On Inductive Biases in Deep Reinforcement Learning](https://arxiv.org/abs/1907.02908)
 
 [2020] [Leverage the Average: an Analysis of KL Regularization in RL](https://arxiv.org/abs/2003.14089)
 

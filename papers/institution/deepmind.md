@@ -20,3 +20,9 @@
 
 [2024] [Achieving Human Level Competitive Robot Table Tennis](https://www.arxiv.org/abs/2408.03906)
 
+
+
+### Go
+
+[2019] [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+

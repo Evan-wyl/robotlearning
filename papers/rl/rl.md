@@ -80,7 +80,17 @@
 
 ### Generalization
 
+[2014] [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
+
+[2017] [Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations](https://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf)
+
+[2018] [Assessing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1810.12282)
+
+[2019] [Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck](https://arxiv.org/abs/1910.12911)
+
 [2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
+
+[2020] [Dynamics Generalization via Information Bottleneck in Deep Reinforcement Learning](https://arxiv.org/abs/2008.00614)
 
 [2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
 

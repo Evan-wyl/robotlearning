@@ -86,6 +86,8 @@
 
 [2018] [Assessing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1810.12282)
 
+[2018] [Quantifying Generalization in Reinforcement Learning](https://arxiv.org/abs/1812.02341)
+
 [2019] [Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck](https://arxiv.org/abs/1910.12911)
 
 [2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
@@ -173,6 +175,10 @@
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
 
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
+
+#### Meta RL
+
+[2019] [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](https://arxiv.org/abs/1903.08254)
 
 #### Meta Gradient RL
 

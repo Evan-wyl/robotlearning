@@ -38,6 +38,8 @@
 
 [2024] [OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning](https://arxiv.org/abs/2406.08858)
 
+[2024] [Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots](https://masked-humanoid.github.io/mhc/)
+
 
 
 ### Humanoid Control with LLM

@@ -18,6 +18,8 @@
 
 [2024] [RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2407.04689)
 
+[2024] [Polaris: Open-ended Interactive Robotic Manipulation via Syn2Real Visual Grounding and Large Language Models](https://arxiv.org/abs/2408.07975)
+
 
 
 ### Open-World Grasping

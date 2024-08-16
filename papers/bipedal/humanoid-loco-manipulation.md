@@ -5,3 +5,5 @@
 [2023] [Sim-to-Real Learning for Humanoid Box Loco-Manipulation](https://arxiv.org/abs/2310.03191)
 
 [2024] [Learning Decentralized Multi-Biped Control for Payload Transport](https://arxiv.org/abs/2406.17279)
+
+[2024] [Autonomous Behavior Planning For Humanoid Loco-manipulation Through Grounded Language Model](https://arxiv.org/abs/2408.08282)

@@ -22,6 +22,8 @@
 
 [2021] [Skeleton Merger: an Unsupervised Aligned Keypoint Detector](https://arxiv.org/abs/2103.10814)
 
+[2024] [HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning](https://arxiv.org/abs/2408.08312)
+
 
 
 ### Dense Correspondence Learning

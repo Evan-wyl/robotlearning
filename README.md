@@ -71,7 +71,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Navigation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/navigation.md)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech.md)
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
 ---
 

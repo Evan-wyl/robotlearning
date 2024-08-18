@@ -41,11 +41,12 @@ Papers, codes, datasets, tasks, applications, tutorials.
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
-- [Generative AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai.md)
+- [Generative AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai)
 - [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/high-level-task-planning.md)
+- [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)
+- [Large Model Fine-Tuning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/lm-fine-tuning.md)
 - [Language Image Goal Conditioned Value Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/language-image-goal-conditioned-value-learning.md)
 - [LLM-Based Code Generation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm-based-code-generation.md)
-- [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)
 - [Multi-Modal Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multi-modal-lagre-model.md)
 - [Multimodal Machine Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multimodal-machine-learning.md)
 - [Navigation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/navigation.md)

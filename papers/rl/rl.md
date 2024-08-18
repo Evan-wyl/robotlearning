@@ -80,7 +80,13 @@
 
 ### Generalization
 
-[2014] [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
+[2013] [(More) Efficient Reinforcement Learning via Posterior Sampling](https://arxiv.org/abs/1306.0940)
+
+2014] [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
+
+[2016] [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
+
+[2017] [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
 
 [2017] [Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations](https://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf)
 

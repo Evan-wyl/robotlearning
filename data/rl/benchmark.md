@@ -13,3 +13,11 @@
 | ---------------------------------------------------- | ---------------------------------------- |
 | [RL-ViGen](https://gemcollector.github.io/RL-ViGen/) | https://github.com/gemcollector/RL-ViGen |
 
+
+
+## Offline Reinforcement Learning
+
+| Name                                        | Description                                                  |
+| ------------------------------------------- | ------------------------------------------------------------ |
+| [D5RL](https://sites.google.com/view/d5rl/) | Diverse Datasets for Data-Driven Deep Reinforcement Learning |
+

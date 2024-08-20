@@ -41,3 +41,5 @@
 [2023] [Where2Explore: Few-shot Affordance Learning for Unseen Novel Categories of Articulated Objects](https://arxiv.org/abs/2309.07473)
 
 [2023] [Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation](https://arxiv.org/abs/2303.11057)
+
+[2024] [Learning Precise Affordances from Egocentric Videos for Robotic Manipulation](https://arxiv.org/abs/2408.10123)

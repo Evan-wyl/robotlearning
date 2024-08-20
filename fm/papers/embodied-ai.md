@@ -43,3 +43,9 @@
 [2023] [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/abs/2303.18240)
 
 [2024] [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137)
+
+
+
+### Platform
+
+[2024] [LEGENT: Open Platform for Embodied Agents](https://arxiv.org/abs/2404.18243)

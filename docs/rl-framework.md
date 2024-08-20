@@ -1,0 +1,7 @@
+## Reinforcement Learning Framework
+
+- [Dopamine](https://github.com/google/dopamine): a research framework for fast prototyping of reinforcement learning algorithms. It aims to fill the need for a small, easily grokked codebase in which users can freely experiment with wild ideas (speculative research).
+- [RLlib](https://docs.ray.io/en/master/rllib/) is an open-source library for reinforcement learning (RL), offering support for production-level, highly distributed RL workloads while maintaining unified and simple APIs for a large variety of industry applications. 
+- [OpenAI Baselines](https://github.com/openai/baselines) is a set of high-quality implementations of reinforcement learning algorithms.
+- [rlpyt](https://github.com/astooke/rlpyt): Modular, optimized implementations of common deep RL algorithms in PyTorch, with unified infrastructure supporting all three major families of model-free algorithms: policy gradient, deep-q learning, and q-function policy gradient. Intended to be a high-throughput code-base for small- to medium-scale research (large-scale meaning like OpenAI Dota with 100's GPUs). 
+- [Stable Baselines3](https://github.com/DLR-RM/stable-baselines3) (SB3) is a set of reliable implementations of reinforcement learning algorithms in PyTorch. 

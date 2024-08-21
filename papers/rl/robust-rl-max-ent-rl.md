@@ -4,8 +4,6 @@
 
 [2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
 
-[2020] [Learning Robust Representations via Multi-View Information Bottleneck](https://openreview.net/pdf?id=B1xwcyHFDr)
-
 [2021] [Dynamic Bottleneck for Robust Self-Supervised Exploration](https://openreview.net/pdf?id=-t6TeG3A6Do) 
 
 [2022] [DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck](https://arxiv.org/abs/2102.13268)

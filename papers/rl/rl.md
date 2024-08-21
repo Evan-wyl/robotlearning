@@ -88,8 +88,6 @@
 
 [2017] [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
 
-[2017] [Adversarially Robust Policy Learning: Active Construction of Physically-Plausible Perturbations](https://stanfordvl.github.io/ARPL/arpl_mzg_iros17.pdf)
-
 [2018] [Assessing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1810.12282)
 
 [2018] [Quantifying Generalization in Reinforcement Learning](https://arxiv.org/abs/1812.02341)
@@ -98,17 +96,11 @@
 
 [2019] [Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck](https://arxiv.org/abs/1910.12911)
 
-[2019] [Action Robust Reinforcement Learning and Applications in Continuous Control](https://arxiv.org/abs/1901.09184)
-
 [2020] [Dynamics Generalization via Information Bottleneck in Deep Reinforcement Learning](https://arxiv.org/abs/2008.00614)
-
-[2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
 
 [2022] [Uncertainty-Driven Exploration for Generalization in Reinforcement Learning](https://openreview.net/pdf/f9c29a329faa3971ff4fd4b8b50fd51f2c999334.pdf)
 
 [2022] [Consistent Dropout for Policy Gradient Reinforcement Learning](https://arxiv.org/abs/2202.11818)
-
-[2023] [Robust Reinforcement Learning in Continuous Control Tasks with Uncertainty Set Regularization](https://arxiv.org/abs/2207.02016)
 
 [2023] [Bad Habits: Policy Confounding and Out-of-Trajectory Generalization in RL](https://arxiv.org/abs/2306.02419)
 

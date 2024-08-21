@@ -12,10 +12,8 @@
 
 
 
-## Maximum Entropy RL
+### Theory
 
-2021] [Maximum Entropy RL (Provably) Solves Some Robust RL Problems](https://arxiv.org/abs/2103.06257)
+[2013] [Robust Markov Decision Processes](https://web.archive.org/web/20170829211242id_/http://www.optimization-online.org/DB_FILE/2010/05/2610.pdf)
 
-[2018] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
-
-[2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
+[2023] [Robust Markov Decision Processes without Model Estimation](https://arxiv.org/abs/2302.01248)

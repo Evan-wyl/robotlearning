@@ -16,4 +16,8 @@
 
 [2013] [Robust Markov Decision Processes](https://web.archive.org/web/20170829211242id_/http://www.optimization-online.org/DB_FILE/2010/05/2610.pdf)
 
+[2018] [Fast Bellman Updates for Robust MDPs](https://proceedings.mlr.press/v80/ho18a/ho18a.pdf)
+
+[2021] [Twice regularized MDPs and the equivalence between robustness and regularization](https://arxiv.org/abs/2110.06267)
+
 [2023] [Robust Markov Decision Processes without Model Estimation](https://arxiv.org/abs/2302.01248)

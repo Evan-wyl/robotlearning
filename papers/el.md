@@ -11,3 +11,5 @@
 [2018] [Simple random search provides a competitive approach to reinforcement learning](https://arxiv.org/abs/1803.07055)
 
 [2019] [Provably robust blackbox optimization for reinforcement learning](https://arxiv.org/abs/1903.02993)
+
+[2021] [ES-ENAS: Efficient Evolutionary Optimization for Large Hybrid Search Spaces](https://arxiv.org/abs/2101.07415)

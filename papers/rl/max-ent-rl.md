@@ -1,5 +1,7 @@
 ## Maximum Entropy RL
 
+[2017] [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/abs/1702.08165)
+
 [2018] [Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/abs/1801.01290)
 
 [2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)

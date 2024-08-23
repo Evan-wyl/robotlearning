@@ -174,6 +174,18 @@
 
 ---
 
+### Transformers for RL
+
+[2023] [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)
+
+[2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
+
+[2023] [When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment](https://arxiv.org/abs/2307.03864)
+
+[2024] [Do Transformer World Models Give Better Policy Gradients?](https://arxiv.org/abs/2402.05290)
+
+---
+
 ### Various Paradigms of RL
 
 [2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
@@ -183,16 +195,6 @@
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
 
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
-
-#### Meta RL
-
-[2019] [Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables](https://arxiv.org/abs/1903.08254)
-
-#### Meta Gradient RL
-
-[2018] [Meta-Gradient Reinforcement Learning](https://arxiv.org/abs/1805.09801)
-
-[2020] [Meta-Gradient Reinforcement Learning with an Objective Discovered Online](https://arxiv.org/abs/2007.08433)
 
 ####  MCTS
 
@@ -209,16 +211,6 @@
 #### Planning and RL
 
 [2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)
-
-#### Continual RL
-
-[2019] [Continual Reinforcement Learning deployed in Real-life using Policy Distillation and Sim2Real Transfer](https://arxiv.org/abs/1906.04452)
-
-[2022] [Posterior Sampling for Continuing Environments](https://arxiv.org/abs/2211.15931)
-
-#### Transformers for RL
-
-[2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
 
 ---
 

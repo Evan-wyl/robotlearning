@@ -72,48 +72,6 @@
 
 ---
 
-### Distribution RL
-
-[2018] [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
-
-[2018] [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
-
-[2018] [Distributed Distributional Deterministic Policy Gradients](https://arxiv.org/abs/1804.08617)
-
-[2020] [Acme: A Research Framework for Distributed Reinforcement Learning](https://arxiv.org/abs/2006.00979)
-
----
-
-### Generalization
-
-[2013] [(More) Efficient Reinforcement Learning via Posterior Sampling](https://arxiv.org/abs/1306.0940)
-
-2014] [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
-
-[2016] [Generalization and Exploration via Randomized Value Functions](https://arxiv.org/abs/1402.0635)
-
-[2017] [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
-
-[2018] [Assessing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1810.12282)
-
-[2018] [Quantifying Generalization in Reinforcement Learning](https://arxiv.org/abs/1812.02341)
-
-[2018] [Generalization and Regularization in DQN](https://arxiv.org/abs/1810.00123)
-
-[2019] [Generalization in Reinforcement Learning with Selective Noise Injection and Information Bottleneck](https://arxiv.org/abs/1910.12911)
-
-[2020] [Dynamics Generalization via Information Bottleneck in Deep Reinforcement Learning](https://arxiv.org/abs/2008.00614)
-
-[2022] [Uncertainty-Driven Exploration for Generalization in Reinforcement Learning](https://openreview.net/pdf/f9c29a329faa3971ff4fd4b8b50fd51f2c999334.pdf)
-
-[2022] [Consistent Dropout for Policy Gradient Reinforcement Learning](https://arxiv.org/abs/2202.11818)
-
-[2023] [Bad Habits: Policy Confounding and Out-of-Trajectory Generalization in RL](https://arxiv.org/abs/2306.02419)
-
-[2024] [Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf)
-
----
-
 ### Experience Replay
 
 [2015] [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
@@ -134,98 +92,14 @@
 
 ---
 
-### Exploration
-
-[2016] [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717)
-
-[2017] [Parameter Space Noise for Exploration](https://arxiv.org/abs/1706.01905#)
-
-[2017] [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363)
-
-[2018] [Count-Based Exploration with the Successor Representation](https://arxiv.org/abs/1807.11622)
-
-[2018] [Provably Efficient Maximum Entropy Exploration](https://arxiv.org/abs/1812.02690)
-
-[2021] [State Entropy Maximization with Random Encoders for Efficient Exploration](https://arxiv.org/abs/2102.09430)
-
-[2022] [Action Noise in Off-Policy Deep Reinforcement Learning: Impact on Exploration and Performance](https://arxiv.org/abs/2206.03787)
-
-[2023] [Colored Noise in PPO: Improved Exploration and Performance through Correlated Action Sampling](https://arxiv.org/abs/2312.11091)
-
-[2023] [Latent Exploration for Reinforcement Learning](https://arxiv.org/abs/2305.20065)
-
-[2023] [Pink Noise Is All You Need: Colored Noise Exploration in Deep Reinforcement Learning](https://openreview.net/pdf?id=hQ9V5QN27eS) 
-
-[2023] [DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems](https://arxiv.org/abs/2206.00484)
-
-[2024] [Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning](https://openreview.net/pdf?id=e8dcuniLcA)
-
----
-
-### Temporal Processing
-
-[2017] [Time Limits in Reinforcement Learning](https://arxiv.org/abs/1712.00378)
-
-[2018] [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016)
-
-[2019] [Making Deep Q-learning methods robust to time discretization](https://arxiv.org/abs/1901.09732)
-
-[2020] [Thinking While Moving: Deep Reinforcement Learning with Concurrent Control](https://arxiv.org/abs/2004.06089)
-
----
-
-### Transformers for RL
-
-[2023] [Transformers in Reinforcement Learning: A Survey](https://arxiv.org/abs/2307.05979)
-
-[2019] [Stabilizing Transformers for Reinforcement Learning](https://arxiv.org/abs/1910.06764)
-
-[2023] [When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment](https://arxiv.org/abs/2307.03864)
-
-[2024] [Do Transformer World Models Give Better Policy Gradients?](https://arxiv.org/abs/2402.05290)
-
----
-
 ### Various Paradigms of RL
 
 [2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)
 
 [2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
 
-[2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
-
-[2024] [Affordance-Guided Reinforcement Learning via Visual Prompting](https://arxiv.org/abs/2407.10341)
-
 [2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
 
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
 
 [2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)
-
----
-
-### Theory
-
-[2018] [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/abs/1812.02648)
-
-[2022] [A Theory of Abstraction in Reinforcement Learning](https://arxiv.org/abs/2203.00397)
-
-[2017] [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560)
-
-[2018] [The Mirage of Action-Dependent Baselines in Reinforcement Learning](https://arxiv.org/abs/1802.10031)
-
-[2018] [Deep reinforcement learning doesn’t work yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
-
-[2019] [What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/abs/1912.05500)
-
-[2019] [On Inductive Biases in Deep Reinforcement Learning](https://arxiv.org/abs/1907.02908)
-
-[2020] [Leverage the Average: an Analysis of KL Regularization in RL](https://arxiv.org/abs/2003.14089)
-
-[2021] [How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned](https://arxiv.org/abs/2102.02915)
-
-[2022] [The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)
-
-[2023] [An Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](https://arxiv.org/abs/2310.05808)
-
-[2024] [Addressing Signal Delay in Deep Reinforcement Learning](https://openreview.net/pdf?id=Z8UfDs4J46)

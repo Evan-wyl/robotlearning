@@ -72,26 +72,6 @@
 
 ---
 
-### Experience Replay
-
-[2015] [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
-
-[2018] [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)
-
-[2023] [Synthetic Experience Replay](https://arxiv.org/abs/2303.06614)
-
----
-
-### Sample Efficiency
-
-[2016] [Q(λ) with Off-Policy Corrections](https://arxiv.org/abs/1602.04951)
-
-[2016] [Safe and Efficient Off-Policy Reinforcement Learning](https://arxiv.org/abs/1606.02647)
-
-[2016] [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/abs/1611.01224)
-
----
-
 ### Various Paradigms of RL
 
 [2019] [Real-Time Reinforcement Learning](https://arxiv.org/abs/1911.04448)

@@ -26,6 +26,8 @@
 
 [2024] [GET-Zero: Graph Embodiment Transformer for Zero-shot Embodiment Generalization](https://arxiv.org/abs/2407.15002)
 
+[2024] [ACE: A Cross-Platform Visual-Exoskeletons System for Low-Cost Dexterous Teleoperation](https://arxiv.org/abs/2408.11805)
+
 
 
 ### Flow-Based Policy

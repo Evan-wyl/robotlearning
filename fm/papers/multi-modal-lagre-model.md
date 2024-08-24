@@ -15,3 +15,5 @@
 [2024] [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739v1)
 
 [2024] [An Introduction to Vision-Language Modeling](https://arxiv.org/abs/2405.17247)
+
+[2024] [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://www.arxiv.org/abs/2408.11039)

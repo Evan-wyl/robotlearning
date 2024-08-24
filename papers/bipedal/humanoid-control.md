@@ -18,9 +18,7 @@
 
 [2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://enriquecoronadozu.github.io/rssproceedings2024/rss20/p058.pdf)
 
-[2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
-
-
+---
 
 ### Imitation Learning
 
@@ -28,7 +26,13 @@
 
 [2024] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
 
+---
 
+### Imitation-driven Reinforcement Learning
+
+[2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
+
+---
 
 ### Whole-Body Control
 
@@ -42,7 +46,7 @@
 
 [2024] [Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots](https://masked-humanoid.github.io/mhc/)
 
-
+---
 
 ### Humanoid Control with LLM
 

@@ -24,6 +24,22 @@
 
 
 
+### Imitation-driven Reinforcement Learning
+
+[2022]  [ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters](https://arxiv.org/abs/2205.01906)
+
+[2022] [ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters](https://arxiv.org/abs/2210.06063)
+
+[2023] [C⋅ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters](https://arxiv.org/abs/2309.11351)
+
+[2023] [CALM: Conditional Adversarial Latent Models for Directable Virtual Characters](https://arxiv.org/abs/2305.02195)
+
+[2023] [Perpetual Humanoid Control for Real-time Simulated Avatars](https://arxiv.org/abs/2305.06456)
+
+[2023] [MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters](https://arxiv.org/abs/2312.07340)
+
+
+
 ### MPC
 
 [2024] [H-GAP: Humanoid Control with a Generalist Planner](https://arxiv.org/abs/2312.02682)

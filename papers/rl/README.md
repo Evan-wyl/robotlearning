@@ -27,5 +27,6 @@
 
 ---
 
+- [Multi-Task RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/multi-task-rl.md)
 - [Monte-Carlo Tree Search](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/mcts.md)
 

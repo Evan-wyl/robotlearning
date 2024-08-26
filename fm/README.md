@@ -50,7 +50,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Multi-Modal Large Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multi-modal-lagre-model.md)
 - [Multimodal Machine Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/multimodal-machine-learning.md)
 - [Navigation](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/navigation.md)
-- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robotic-transformer.md)
+- [Robotic Transformer](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/rts)
 - [Robot Policy Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/robot-policy-learning.md)
 - [Spatial Intelligence](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/spatial-intelligence.md)
 - [Vision Language Action](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-language-action.md)

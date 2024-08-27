@@ -22,6 +22,8 @@
 
 [2024] [KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance](https://arxiv.org/abs/2408.02912)
 
+[2024] [MaIL: Improving Imitation Learning with Mamba](https://arxiv.org/abs/2406.08234)
+
 
 
 ### Sample Efficiency

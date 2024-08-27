@@ -34,6 +34,8 @@
 
 [2024] [Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning](https://arxiv.org/abs/2309.16984)
 
+[2024] [Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/abs/2406.02013)
+
 ---
 
 ### Thory

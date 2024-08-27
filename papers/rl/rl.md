@@ -78,8 +78,6 @@
 
 [2023] [Maximum diffusion reinforcement learning](https://arxiv.org/abs/2309.15293)
 
-[2024] [Subequivariant Reinforcement Learning in 3D Multi-Entity Physical Environments](https://arxiv.org/abs/2407.12505)
-
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
 
 [2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)

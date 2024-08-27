@@ -24,6 +24,7 @@
 - [Meta Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/meta-rl.md)
 - [Safe Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/safe-rl.md)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/vision-rl.md)
+- [Equivariant Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/equvariant-rl.md)
 
 ---
 

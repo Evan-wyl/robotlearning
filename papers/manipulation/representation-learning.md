@@ -32,6 +32,12 @@
 
 [2021] [Efficient deformable shape correspondence via multiscale spectral manifold wavelets preservation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Efficient_Deformable_Shape_Correspondence_via_Multiscale_Spectral_Manifold_Wavelets_Preservation_CVPR_2021_paper.pdf)
 
+[2023] [Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation](https://arxiv.org/abs/2303.11057)
+
+[2024] [EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning](https://arxiv.org/abs/2408.01953)
+
+[2024] [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903)
+
 
 
 ### Affordance

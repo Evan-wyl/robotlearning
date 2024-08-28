@@ -3,6 +3,7 @@
 - [Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/rl.md)
 - [Distributed Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/distributed-rl.md)
 - [Monte-Carlo Tree Search](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/mcts.md)
+- [Transformer for RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/transformer-for-rl.md)
 - [Environment Design](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/env-design.md)
 - [Exploration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/exploration-for-rl.md)
 - [Generalization](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/generalization-for-rl.md)
@@ -13,8 +14,8 @@
 
 ---
 
-- [Offline Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/offline-rl.md)
-- [Offline RL to Online RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/offline-to-online.md)
+- [Offline Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/offline-rl/offline-rl.md)
+- [Offline RL to Online RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/offline-rl/offline-to-online.md)
 
 ---
 

@@ -6,6 +6,8 @@
 
 [2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
 
+[2024] [Boosting Soft Q-Learning by Bounding](https://arxiv.org/abs/2406.18033)
+
 
 
 ### Theory

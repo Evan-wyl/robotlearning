@@ -8,15 +8,21 @@
 
 ---
 
+### Value-Based
+
+[2020] [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779)
+
+[2021] [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
+
+[2024] [Stabilizing Extreme Q-learning by Maclaurin Expansion](https://arxiv.org/abs/2406.04896)
+
+
+
 ### Algorithm
 
 [2018] [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/abs/1812.02900)
 
 [2019] [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543)
-
-[2020] [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779)
-
-[2021] [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169)
 
 [2022] [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193)
 

@@ -1,6 +1,8 @@
 ## Reinforcement Learning Series
 
 - [Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/rl.md)
+- [Distributed Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/distributed-rl.md)
+- [Monte-Carlo Tree Search](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/mcts.md)
 - [Environment Design](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/env-design.md)
 - [Exploration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/exploration-for-rl.md)
 - [Generalization](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/generalization-for-rl.md)
@@ -16,18 +18,20 @@
 
 ---
 
-- [Distributed Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/distributed-rl.md)
-- [Maximum Entropy Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/max-ent-rl.md)
-- [Robust Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/robust-rl.md)
-- [Recurrent Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/recurrent-rl.md)
-- [Continual Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/continual-rl.md)
-- [Meta Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/meta-rl.md)
-- [Safe Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/safe-rl.md)
-- [Vision Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/vision-rl.md)
-- [Equivariant Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/equvariant-rl.md)
+- [Maximum Entropy RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/max-ent-rl.md)
+- [Robust RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/robust-rl.md)
+- [Recurrent RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/recurrent-rl.md)
+- [Continual RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/continual-rl.md)
+- [Meta RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/meta-rl.md)
+- [Safe RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/safe-rl.md)
+- [Vision RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/vision-rl.md)
+- [Equivariant RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/equvariant-rl.md)
+- [Compositional RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rlvarious-paradigms-rl/compositional-rl.md)
+- [Multi-Task RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/multi-task-rl.md)
+- [Unsupervised RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/unsupervised-rl.md)
+- [Hierarchical RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/hierarchical-rl.md)
 
 ---
 
-- [Multi-Task RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/multi-task-rl.md)
-- [Monte-Carlo Tree Search](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/mcts.md)
+- [Combine RL and Controller](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/combine-rl-controller.md)
 

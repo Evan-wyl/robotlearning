@@ -40,6 +40,8 @@
 
 [2024] [Eureka: Human-Level Reward Design via Coding Large Language Models](https://arxiv.org/abs/2310.12931)
 
+[2024] [Combining Automated Optimisation of Hyperparameters and Reward Shape](https://arxiv.org/abs/2406.18293)
+
 
 
 ### State Space

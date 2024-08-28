@@ -10,4 +10,4 @@
 
 [2020] [Meta-Gradient Reinforcement Learning with an Objective Discovered Online](https://arxiv.org/abs/2007.08433)
 
-####  
+[2024] [SplAgger: Split Aggregation for Meta-Reinforcement Learning](https://arxiv.org/abs/2403.03020)

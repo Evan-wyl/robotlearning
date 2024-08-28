@@ -6,4 +6,6 @@
 
 [2023] [When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment](https://arxiv.org/abs/2307.03864)
 
+[2023] [PASTA: Pretrained Action-State Transformer Agents](https://arxiv.org/abs/2307.10936)
+
 [2024] [Do Transformer World Models Give Better Policy Gradients?](https://arxiv.org/abs/2402.05290)

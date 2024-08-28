@@ -38,6 +38,8 @@
 
 [2020] [Phasic Policy Gradient](https://arxiv.org/abs/2009.04416)
 
+[2022] [Policy Gradient Algorithms with Monte Carlo Tree Learning for Non-Markov Decision Processes](https://arxiv.org/abs/2206.01011)
+
 [2023] [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://arxiv.org/abs/2311.03351)
 
 [2024] [SAPG: Split and Aggregate Policy Gradients](https://arxiv.org/abs/2407.20230)
@@ -70,6 +72,10 @@
 
 [2024] [Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning](https://arxiv.org/abs/2309.16984)
 
+[2024] [Mixture of Experts in a Mixture of RL settings](https://arxiv.org/abs/2406.18420)
+
+[2024] [Off-Policy Actor-Critic with Emphatic Weightings](https://arxiv.org/abs/2111.08172)
+
 ---
 
 ### Various Paradigms of RL
@@ -81,3 +87,5 @@
 [2024] [Reverse Forward Curriculum Learning for Extreme Sample and Demonstration Efficiency in Reinforcement Learning](https://arxiv.org/abs/2405.03379)
 
 [2024] [Integrating Model-Based Footstep Planning with Model-Free Reinforcement Learning for Dynamic Legged Locomotion](https://arxiv.org/abs/2408.02662v1)
+
+[2024] [SwiftTD: A Fast and Robust Algorithm for Temporal Difference Learning](http://incompleteideas.net/papers/SwiftTD-RLC.pdf)

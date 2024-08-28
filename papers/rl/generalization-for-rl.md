@@ -25,3 +25,5 @@
 [2023] [Bad Habits: Policy Confounding and Out-of-Trajectory Generalization in RL](https://arxiv.org/abs/2306.02419)
 
 [2024] [Regularized Parameter Uncertainty for Improving Generalization in Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2024/papers/Moure_Regularized_Parameter_Uncertainty_for_Improving_Generalization_in_Reinforcement_Learning_CVPR_2024_paper.pdf)
+
+[2024] [Investigating the Interplay of Prioritized Replay and Generalization](https://arxiv.org/abs/2407.09702)

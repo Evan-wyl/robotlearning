@@ -20,7 +20,7 @@
 
 - [Continual RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/continual-rl.md)
 - [Compositional RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rlvarious-paradigms-rl/compositional-rl.md)
-- [Distributed Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/distributed-rl.md)
+- [Distributed RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/distributed-rl.md)
 - [Equivariant RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/equvariant-rl.md)
 - [Hierarchical RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/hierarchical-rl.md)
 - [Maximum Entropy RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/max-ent-rl.md)

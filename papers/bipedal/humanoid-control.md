@@ -1,5 +1,15 @@
 ## Humanoid Control
 
+### Survey
+
+[2023] [Teleoperation of Humanoid Robots: A Survey](https://arxiv.org/abs/2301.04317)
+
+[2024] [Humanoid Robots at work: where are we ?](https://arxiv.org/abs/2404.04249)
+
+[2024] [Deep Reinforcement Learning for Bipedal Locomotion: A Brief Survey](https://arxiv.org/abs/2404.17070)
+
+
+
 ### Reinforcement Learning
 
 [2023] Robust and versatile bipedal jumping control through multi-task reinforcement learning

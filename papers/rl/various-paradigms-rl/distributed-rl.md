@@ -1,5 +1,7 @@
 ## Distributed RL
 
+[2017] [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887)
+
 [2018] [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 
 [2018] [Distributed Prioritized Experience Replay](https://arxiv.org/abs/1803.00933)

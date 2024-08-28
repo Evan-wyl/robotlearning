@@ -19,18 +19,18 @@
 
 ---
 
+- [Continual RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/continual-rl.md)
+- [Compositional RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rlvarious-paradigms-rl/compositional-rl.md)
+- [Equivariant RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/equvariant-rl.md)
+- [Hierarchical RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/hierarchical-rl.md)
 - [Maximum Entropy RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/max-ent-rl.md)
+- [Multi-Task RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/multi-task-rl.md)
+- [Meta RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/meta-rl.md)
 - [Robust RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/robust-rl.md)
 - [Recurrent RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/recurrent-rl.md)
-- [Continual RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/continual-rl.md)
-- [Meta RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/meta-rl.md)
 - [Safe RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/safe-rl.md)
-- [Vision RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/vision-rl.md)
-- [Equivariant RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/equvariant-rl.md)
-- [Compositional RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rlvarious-paradigms-rl/compositional-rl.md)
-- [Multi-Task RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/multi-task-rl.md)
 - [Unsupervised RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/unsupervised-rl.md)
-- [Hierarchical RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/hierarchical-rl.md)
+- [Vision RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/vision-rl.md)
 
 ---
 

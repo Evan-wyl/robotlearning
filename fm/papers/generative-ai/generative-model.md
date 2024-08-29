@@ -18,7 +18,17 @@
 
 [2024] [Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)
 
+#### Algorithms
+
+[2023] [FreeU: Free Lunch in Diffusion U-Net](https://arxiv.org/abs/2309.11497)
+
 [2024] [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
+
+
+
+### Controllable Generation
+
+[2024] [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/abs/2408.06070)
 
 
 

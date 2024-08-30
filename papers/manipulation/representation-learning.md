@@ -36,8 +36,6 @@
 
 [2024] [EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning](https://arxiv.org/abs/2408.01953)
 
-[2024] [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903)
-
 
 
 ### Affordance

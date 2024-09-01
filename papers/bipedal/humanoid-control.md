@@ -36,6 +36,8 @@
 
 [2024] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
 
+[2024] [SkillMimic: Learning Reusable Basketball Skills from Demonstrations](https://arxiv.org/abs/2408.15270v1)
+
 ---
 
 ### Imitation-driven Reinforcement Learning

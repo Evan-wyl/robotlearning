@@ -54,6 +54,8 @@
 
 [2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
 
+[2024] [Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling](https://arxiv.org/abs/2408.17355)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

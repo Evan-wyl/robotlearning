@@ -16,6 +16,12 @@
 
 
 
+### Relational Keypoint Constraints Representation
+
+[2024] [ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation](https://rekep-robot.github.io/)
+
+
+
 ### Dense Object Descriptor
 
 [2018] [Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation](https://arxiv.org/abs/1806.08756)

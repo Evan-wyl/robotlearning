@@ -19,3 +19,7 @@
 [2020] [Improved Techniques for Training Score-Based Generative Models](https://arxiv.org/abs/2006.09011)
 
 [2020] [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+
+[2022] [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
+
+[2023] [FreeU: Free Lunch in Diffusion U-Net](https://arxiv.org/abs/2309.11497)

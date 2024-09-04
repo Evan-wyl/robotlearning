@@ -50,7 +50,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***If you would like some specific areas' survey, such as reinforcement learning,imitation learning, and etc, please click related links in part one.***
 
----
+
 
 ## 1.Research Areas and Papers
 
@@ -66,6 +66,11 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
+- [Transformers](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/transformers)
+- [Diffusion Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/dms)
+
+---
+
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
@@ -76,7 +81,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
----
+
 
 ## 2.Code
 
@@ -86,13 +91,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/quadruped)
 
----
+
 
 ## 3.Datasets and Benchmarks
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results. The links of datasets only are acquired by summarizing survey papers. If you would need more, you can acquire it by linking [codes.](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes)  
 
----
+
 
 ## 4.Relevant Resources
 
@@ -106,7 +111,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/re
 
 and [Reinforcement Learning Framework](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/rl-framework.md).
 
----
+
 
 ## 5.Contributing
 

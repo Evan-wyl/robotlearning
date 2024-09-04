@@ -24,21 +24,13 @@
 
 [2019] [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543)
 
-[2022] [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://arxiv.org/abs/2208.06193)
-
 [2023] [Efficient Diffusion Policies for Offline Reinforcement Learning](https://arxiv.org/abs/2305.20081)
 
 [2024] [GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2405.16907)
 
-[2024] [Diffusion Models as Optimizers for Efficient Planning in Offline RL](https://arxiv.org/abs/2407.16142)
-
 [2024] [Offline Imitation Learning Through Graph Search and Retrieval](https://arxiv.org/abs/2407.15403)
 
 [2024] [Reward-Consistent Dynamics Models are Strongly Generalizable for Offline Reinforcement Learning](https://arxiv.org/abs/2310.05422#)
-
-[2023] [IDQL: Implicit Q-Learning as an Actor-Critic Method with Diffusion Policies](https://arxiv.org/abs/2304.10573)
-
-[2024] [Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning](https://arxiv.org/abs/2309.16984)
 
 [2024] [Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/abs/2406.02013)
 

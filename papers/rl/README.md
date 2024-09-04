@@ -2,7 +2,6 @@
 
 - [Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/rl.md)
 - [Monte-Carlo Tree Search](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/mcts.md)
-- [Transformer for RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/transformer-for-rl.md)
 - [Environment Design](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/env-design.md)
 - [Exploration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/exploration-for-rl.md)
 - [Generalization](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/generalization-for-rl.md)
@@ -19,7 +18,7 @@
 ---
 
 - [Continual RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/continual-rl.md)
-- [Compositional RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rlvarious-paradigms-rl/compositional-rl.md)
+- [Compositional RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/compositional-rl.md)
 - [Distributed RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/distributed-rl.md)
 - [Equivariant RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/equvariant-rl.md)
 - [Hierarchical RL](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/various-paradigms-rl/hierarchical-rl.md)

@@ -8,9 +8,9 @@
 
 [2024] [An Overview of Diffusion Models: Applications, Guided Generation, Statistical Rates and Optimization](https://arxiv.org/abs/2404.07771)
 
-[2024] [Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)
-
 [2024] [Diffusion Models and Representation Learning: A Survey](https://arxiv.org/abs/2407.00783)
+
+[2024] [Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)
 
 
 
@@ -25,3 +25,5 @@
 [2022] [Elucidating the Design Space of Diffusion-Based Generative Models](https://arxiv.org/abs/2206.00364)
 
 [2023] [FreeU: Free Lunch in Diffusion U-Net](https://arxiv.org/abs/2309.11497)
+
+[2024] [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)

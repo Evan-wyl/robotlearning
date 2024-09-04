@@ -10,6 +10,8 @@
 
 [2024] [Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review](https://arxiv.org/abs/2407.13734)
 
+[2024] [Diffusion Models and Representation Learning: A Survey](https://arxiv.org/abs/2407.00783)
+
 
 
 ### Algorithms

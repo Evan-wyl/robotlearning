@@ -67,8 +67,12 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ---
 
 - [Transformers](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/transformers)
-- [Diffusion Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/dms)
 - [State Space Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/ssms)
+
+---
+
+- [Diffusion Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/dms)
+- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/gms)
 
 ---
 

@@ -32,8 +32,6 @@
 
 [2024] [Reward-Consistent Dynamics Models are Strongly Generalizable for Offline Reinforcement Learning](https://arxiv.org/abs/2310.05422#)
 
-[2024] [Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning](https://arxiv.org/abs/2406.02013)
-
 ---
 
 ### Thory

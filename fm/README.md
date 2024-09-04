@@ -8,7 +8,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - Top Conferences: [[ICML MFM-EAI Workshop](https://icml-mfm-eai.github.io/)]
 
----
+
 
 ## 0.Survey
 
@@ -34,7 +34,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***If you would like some specific areas' survey, such as  multimodal large model, large language model, and etc, please click related links in part one.***
 
----
+
 
 ## 1.Research Areas and Papers
 
@@ -59,13 +59,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Foundation Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/vision-foundation-model.md)
 - [World Model and its Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/world-models)
 
----
+
 
 ## 2.Datasets and Benchmarks
 
 Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm/data) for the popular robot learning **datasets, simulator and benchmark** results.
 
----
+
 
 ## 3.Relevant Resources
 

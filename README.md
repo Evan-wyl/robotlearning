@@ -56,6 +56,14 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
+- [Transformers](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/transformers)
+- [State Space Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/ssms)
+
+- [Diffusion Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/dms)
+- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/gms)
+
+---
+
 - [Continual Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/cl.md)
 - [Evolutionary Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/el.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
@@ -66,25 +74,15 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-- [Transformers](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/transformers)
-- [State Space Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/ssms)
-
----
-
-- [Diffusion Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/dms)
-- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/gms)
+- [Navigation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/navigation.md)
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
 ---
 
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
-
----
-
-- [Navigation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/navigation.md)
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
 
 

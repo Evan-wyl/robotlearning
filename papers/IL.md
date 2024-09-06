@@ -24,6 +24,8 @@
 
 [2024] [MaIL: Improving Imitation Learning with Mamba](https://arxiv.org/abs/2406.08234)
 
+[2024] [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980)
+
 
 
 ### Sample Efficiency

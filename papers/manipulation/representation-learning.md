@@ -36,7 +36,7 @@
 
 [2019] [Unsupervised Learning of Dense Shape Correspondence](https://openaccess.thecvf.com/content_CVPR_2019/papers/Halimi_Unsupervised_Learning_of_Dense_Shape_Correspondence_CVPR_2019_paper.pdf)
 
-[2023] [Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation](https://arxiv.org/abs/2303.11057)
+[2021] [Efficient deformable shape correspondence via multiscale spectral manifold wavelets preservation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Efficient_Deformable_Shape_Correspondence_via_Multiscale_Spectral_Manifold_Wavelets_Preservation_CVPR_2021_paper.pdf)
 
 [2024] [EqvAfford: SE(3) Equivariance for Point-Level Affordance Learning](https://arxiv.org/abs/2408.01953)
 

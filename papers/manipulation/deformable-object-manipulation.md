@@ -8,7 +8,7 @@
 
 ### Representation Learning
 
-[2021] [Efficient deformable shape correspondence via multiscale spectral manifold wavelets preservation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Efficient_Deformable_Shape_Correspondence_via_Multiscale_Spectral_Manifold_Wavelets_Preservation_CVPR_2021_paper.pdf)
+[2023] [Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation](https://arxiv.org/abs/2303.11057)
 
 [2024] [DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation](https://deformgs.github.io/)
 

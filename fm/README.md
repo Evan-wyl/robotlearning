@@ -42,8 +42,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/eai)
 - [Generative AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai)
-- [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/llm-application)
-- [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/mmlm-application)
+- [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/llm-and-application)
+- [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/mmlm-and-application)
 - [Navigation](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/navigation.md)
 - [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/robotic-transformer)
 - [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/vision-foundation-model.md)

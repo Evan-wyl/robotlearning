@@ -1,4 +1,4 @@
-## Video Action
+## Learning from Video
 
 [2023] [Learning to Act without Actions](https://arxiv.org/abs/2312.10812)
 

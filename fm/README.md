@@ -53,7 +53,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/robotic-transformer)
 - [Vision Language Action Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/vision-language-action)
-- [Learning Action from Video](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/learning-action-from-video.md)
+- [Learning from Video](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/learning-action-from-video.md)
 
 ---
 

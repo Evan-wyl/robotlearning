@@ -40,7 +40,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/embodied-ai.md)
+- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/eai)
 - [Generative AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai)
 - [High-Level Task Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/high-level-task-planning.md)
 - [Large Language Model](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/llm.md)

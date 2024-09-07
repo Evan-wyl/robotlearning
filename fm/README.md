@@ -41,13 +41,24 @@ Papers, codes, datasets, tasks, applications, tutorials.
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/eai)
-- [Generative AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai)
+
+---
+
+- [Generative AI and its Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai)
 - [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/llm-and-application)
 - [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/mmlm-and-application)
-- [Navigation](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/navigation.md)
-- [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/robotic-transformer)
-- [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/vision-foundation-model.md)
 - [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/world-models)
+
+---
+
+- [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/robotic-transformer)
+- [Vision Language Action Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/vision-language-action)
+- Learning Action from Video
+
+---
+
+- [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/vision-foundation-model.md)
+- [Navigation](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/navigation.md)
 
 
 

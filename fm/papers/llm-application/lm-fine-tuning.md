@@ -6,8 +6,6 @@
 
 [2024] [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/abs/2403.14608)
 
-[2024] [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey](https://arxiv.org/abs/2402.02242)
-
 
 
 ### Large Language Model
@@ -37,19 +35,3 @@
 [2024] [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 
 [2024] [LoRA+: Efficient Low Rank Adaptation of Large Models](https://arxiv.org/abs/2402.12354)
-
-
-
-### Multi-Modal Large Model
-
-[2023] [Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning](https://arxiv.org/abs/2312.11420)
-
-
-
-### Vision Language Model
-
-[2022] [Visual Prompt Tuning](https://arxiv.org/abs/2203.12119)
-
-[2023] [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
-
-[2023] [Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.08566)

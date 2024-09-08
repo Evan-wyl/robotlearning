@@ -20,8 +20,6 @@
 
 [2023] [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
 
-[2023] [Guiding Pretraining in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2302.06692)
-
 [2023] [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021)
 
 [2023] [ManipLLM: Embodied Multimodal Large Language Model for Object-Centric Robotic Manipulation](https://arxiv.org/abs/2312.16217)
@@ -35,17 +33,3 @@
 ### Fine-Tuning
 
 [2024] [Embodied Instruction Following in Unknown Environments](https://arxiv.org/abs/2406.11818)
-
-
-
-### Visual Representation
-
-[2023] [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://arxiv.org/abs/2303.18240)
-
-[2024] [DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning](https://arxiv.org/abs/2402.18137)
-
-
-
-### Platform
-
-[2024] [LEGENT: Open Platform for Embodied Agents](https://arxiv.org/abs/2404.18243)

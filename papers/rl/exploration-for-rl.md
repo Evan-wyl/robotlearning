@@ -33,3 +33,9 @@
 [2024] [Latent Space Exploration and Trajectory Space Update in Temporally-Correlated Episodic Reinforcement Learning](https://openreview.net/pdf?id=e8dcuniLcA)
 
 [2024] [More Efficient Randomized Exploration for Reinforcement Learning via Approximate Sampling](https://arxiv.org/abs/2406.12241)
+
+
+
+### Exploration with LLM
+
+[2023] [Guiding Pretraining in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2302.06692)

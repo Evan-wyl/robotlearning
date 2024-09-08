@@ -14,15 +14,7 @@
 
 [2021] [Language Conditioned Imitation Learning over Unstructured Data](https://arxiv.org/abs/2005.07648)
 
-[2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
-
-[2024] [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954)
-
-[2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
-
 [2024] [KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance](https://arxiv.org/abs/2408.02912)
-
-[2024] [MaIL: Improving Imitation Learning with Mamba](https://arxiv.org/abs/2406.08234)
 
 [2024] [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980)
 

@@ -44,7 +44,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-- [Generative AI and its Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/generative-ai)
+- [Generative AI and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/generative-ai-and-application)
 - [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/llm-and-application)
 - [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/mmlm-and-application)
 - [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/world-models)
@@ -53,7 +53,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/robotic-transformer)
 - [Vision Language Action Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/vision-language-action)
-- [Learning from Video](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/learning-action-from-video.md)
+- [Learning from Video](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/learning-from-video.md)
 
 ---
 

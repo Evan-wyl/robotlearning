@@ -1,5 +1,15 @@
 ## Deepmind
 
+### Go
+
+[2016] [Mastering the game of Go with deep neural networks and tree search](https://eecs.csuohio.edu/~sschung/CIS601/Paper_AlhpaGo_deep_neural_networks_and_tree_search.pdf)
+
+[2017]  [Mastering chess and shogi by self-play with a general reinforcement learning algorithm](https://arxiv.org/abs/1712.01815)
+
+[2019] [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+
+
+
 ### AlphaGeometry
 
 [2024] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
@@ -25,9 +35,3 @@
 [2023] [Robotic Table Tennis: A Case Study into a High Speed Learning System](https://arxiv.org/abs/2309.03315)
 
 [2024] [Achieving Human Level Competitive Robot Table Tennis](https://www.arxiv.org/abs/2408.03906)
-
-
-
-### Go
-
-[2019] [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)

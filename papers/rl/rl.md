@@ -14,7 +14,7 @@
 
 [2023] [A Tutorial Introduction to Reinforcement Learning](https://arxiv.org/abs/2304.00803)
 
----
+
 
 ### Value Based Method
 
@@ -22,7 +22,7 @@
 
 [2020] [Value-driven Hindsight Modelling](https://arxiv.org/abs/2002.08329)
 
----
+
 
 ### Policy-Gradient  Based Method
 
@@ -46,7 +46,7 @@
 
 [2024] [Continuous Control with Coarse-to-fine Reinforcement Learning](https://arxiv.org/abs/2407.07787)
 
----
+
 
 ### Actor-Critic Method
 
@@ -76,7 +76,7 @@
 
 [2024] [Off-Policy Actor-Critic with Emphatic Weightings](https://arxiv.org/abs/2111.08172)
 
----
+
 
 ### Various Paradigms of RL
 

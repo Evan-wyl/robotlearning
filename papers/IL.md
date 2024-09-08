@@ -18,6 +18,8 @@
 
 [2024] [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980)
 
+[2024] [Offline Imitation Learning Through Graph Search and Retrieval](https://arxiv.org/abs/2407.15403)
+
 
 
 ### Sample Efficiency

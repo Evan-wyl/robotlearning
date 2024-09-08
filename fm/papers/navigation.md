@@ -29,3 +29,9 @@
 [2024] [Navigating Beyond Instructions: Vision-and-Language Navigation in Obstructed Environments](https://arxiv.org/abs/2407.21452)
 
 [2024] [ET tu, CLIP? Addressing Common Object Errors for Unseen Environments](https://arxiv.org/abs/2406.17876)
+
+
+
+### Offline RL and RL
+
+[2023] [GNM: A General Navigation Model to Drive Any Robot](https://sites.google.com/view/drive-any-robot)

@@ -1,5 +1,11 @@
 ## Deepmind
 
+### AlphaGeometry
+
+[2024] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
+
+
+
 ### Humanoid
 
 [2021] [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196)
@@ -25,4 +31,3 @@
 ### Go
 
 [2019] [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
-

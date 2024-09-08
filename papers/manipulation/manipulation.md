@@ -26,29 +26,11 @@
 
 [2023] [What Matters in Learning from Offline Human Demonstrations for Robot Manipulation](https://arxiv.org/abs/2108.03298)
 
-[2023] [Behavior Transformers: Cloning k modes with one stone](https://arxiv.org/abs/2206.11251)
-
-[2023] [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137)
-
 [2023] [Multimodal and Force-Matched Imitation Learning with a See-Through Visuotactile Sensor](https://arxiv.org/abs/2311.01248)
-
-[2024] [3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations](https://arxiv.org/abs/2403.03954)
-
-[2024] [Hierarchical Diffusion Policy for Kinematics-Aware Multi-Task Robotic Manipulation](https://arxiv.org/abs/2403.03890)
-
-[2024] [Variational Distillation of Diffusion Policies into Mixture of Experts](https://arxiv.org/abs/2406.12538)
-
-[2024] [Consistency Policy: Accelerated Visuomotor Policies via Consistency Distillation](https://arxiv.org/abs/2405.07503)
-
-[2024] [Render and Diffuse: Aligning Image and Action Spaces for Diffusion-based Behaviour Cloning](https://arxiv.org/abs/2405.18196)
 
 [2024] [Redundancy-aware Action Spaces for Robot Learning](https://arxiv.org/abs/2406.04144)
 
 [2024] [Scaling Manipulation Learning with Visual Kinematic Chain Prediction](https://arxiv.org/abs/2406.07837)
-
-[2024] [EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479)
-
-[2024] [Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals](https://intuitive-robots.github.io/mdt_policy/)
 
 [2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
 

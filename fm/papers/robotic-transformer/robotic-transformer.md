@@ -17,5 +17,3 @@
 [2024] [RT-Sketch: Goal-Conditioned Imitation Learning from Hand-Drawn Sketches](https://arxiv.org/abs/2403.02709)
 
 [2024] [RT-H: Action Hierarchies Using Language](https://arxiv.org/abs/2403.01823)
-
-[2024] [Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/abs/2405.12213)

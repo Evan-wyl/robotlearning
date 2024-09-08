@@ -50,8 +50,6 @@
 
 [2024] [Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals](https://intuitive-robots.github.io/mdt_policy/)
 
-[2024] [Generative Image as Action Models](https://arxiv.org/abs/2407.07875)
-
 [2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
 
 [2024] [Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling](https://arxiv.org/abs/2408.17355)

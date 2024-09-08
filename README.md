@@ -56,13 +56,9 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
-- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
-
----
-
-- [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
-- [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
-- [Diffusion Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
+- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
+- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
+- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
 
 ---
 
@@ -76,14 +72,17 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
+- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
+
+- [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
+
+- [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
+- [Diffusion Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
 
 ---
 
-- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
-- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
 
 

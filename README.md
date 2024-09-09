@@ -64,7 +64,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Continual Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/cl.md)
 - [Evolutionary Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/el.md)
-- [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/IL.md)
+- [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
 - [Robot Learning Theory](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/robot-learning-theory.md)

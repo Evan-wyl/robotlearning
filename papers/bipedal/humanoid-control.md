@@ -40,12 +40,6 @@
 
 ---
 
-### Imitation-driven Reinforcement Learning
-
-[2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
-
----
-
 ### Whole-Body Control
 
 [2024] [Expressive Whole-Body Control for Humanoid Robots](https://arxiv.org/abs/2402.16796)
@@ -63,3 +57,9 @@
 ### Humanoid Control with LLM
 
 [2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)
+
+
+
+### MPC
+
+[2024] [Interactive Design of Stylized Walking Gaits for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/Interactive_Design_of_Stylized_Walking_Gaits_for_Robotic_Characters-5.pdf)

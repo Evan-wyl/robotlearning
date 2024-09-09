@@ -18,17 +18,11 @@
 
 [2024] [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/abs/2405.18418)
 
+[2024] [Interactive Character Control with Auto-Regressive Motion Diffusion Models](https://arxiv.org/abs/2306.00416)
+
 
 
 ### Imitation-driven Reinforcement Learning
-
-[2021] [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control](https://arxiv.org/abs/2104.02180)
-
-[2022]  [ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters](https://arxiv.org/abs/2205.01906)
-
-[2022] [ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters](https://arxiv.org/abs/2210.06063)
-
-[2023] [C⋅ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters](https://arxiv.org/abs/2309.11351)
 
 [2023] [CALM: Conditional Adversarial Latent Models for Directable Virtual Characters](https://arxiv.org/abs/2305.02195)
 

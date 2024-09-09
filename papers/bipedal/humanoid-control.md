@@ -28,7 +28,7 @@
 
 [2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://arxiv.org/abs/2408.14472)
 
----
+
 
 ### Imitation Learning
 
@@ -36,9 +36,7 @@
 
 [2024] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
 
-[2024] [SkillMimic: Learning Reusable Basketball Skills from Demonstrations](https://arxiv.org/abs/2408.15270v1)
 
----
 
 ### Whole-Body Control
 
@@ -52,7 +50,7 @@
 
 [2024] [Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots](https://masked-humanoid.github.io/mhc/)
 
----
+
 
 ### Humanoid Control with LLM
 

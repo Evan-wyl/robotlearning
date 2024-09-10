@@ -8,7 +8,7 @@
 
 [2023] [C⋅ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters](https://arxiv.org/abs/2309.11351)
 
-
+[2024] [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
 
 
 

@@ -13,3 +13,9 @@
 [2024] [Harnessing Discrete Representations for Continual Reinforcement Learning](https://openreview.net/forum?id=o4AydSd3Lp)
 
 [2024] [Weight Clipping for Deep Continual and Reinforcement Learning](https://arxiv.org/abs/2407.01704)
+
+
+
+### Theory
+
+[2023] [Loss of Plasticity in Continual Deep Reinforcement Learning](https://arxiv.org/abs/2303.07507)

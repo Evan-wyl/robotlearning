@@ -13,3 +13,9 @@
 [2024] [DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation](https://deformgs.github.io/)
 
 [2024] [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903)
+
+
+
+### Unfolding
+
+[2024] [SIS: Seam-Informed Strategy for T-shirt Unfolding](https://arxiv.org/abs/2409.06990)

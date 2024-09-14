@@ -19,5 +19,3 @@
 [2024] [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7.pdf)
 
 [2024] [Maintaining plasticity in continual learning via regenerative regularization](https://openreview.net/pdf?id=lyoOWX0e0O)
-
-[2024]  [Maintaining plasticity in continual learning via regenerative regularization](https://openreview.net/pdf?id=lyoOWX0e0O)

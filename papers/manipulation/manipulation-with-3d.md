@@ -24,6 +24,8 @@
 
 [2024] [3D Diffuser Actor: Policy Diffusion with 3D Scene Representations](https://arxiv.org/abs/2402.10885)
 
+[2024] [Learning Robotic Manipulation Policies from Point Clouds with Conditional Flow Matching](https://arxiv.org/abs/2409.07343)
+
 ### Closed-end Grasping
 
 [2020] [Grasping in the Wild:Learning 6DoF Closed-Loop Grasping from Low-Cost Demonstrations](https://arxiv.org/abs/1912.04344)

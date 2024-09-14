@@ -19,3 +19,5 @@
 ### Theory
 
 [2023] [Loss of Plasticity in Continual Deep Reinforcement Learning](https://arxiv.org/abs/2303.07507)
+
+[2023] [The Dormant Neuron Phenomenon in Deep Reinforcement Learning](https://openreview.net/pdf?id=skb34O7hFp)

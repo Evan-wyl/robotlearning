@@ -10,6 +10,18 @@
 
 
 
+### StarCraft
+
+[2019] [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.seas.upenn.edu/~cis520/papers/RL_for_starcraft.pdf)
+
+
+
+### AlphaFold
+
+[2020] A[lphaFold: Improved protein structure prediction using 2 potentials from deep learning](https://discovery.ucl.ac.uk/id/eprint/10089234/1/343019_3_art_0_py4t4l_convrt.pdf)
+
+
+
 ### AlphaGeometry
 
 [2024] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
@@ -35,3 +47,6 @@
 [2023] [Robotic Table Tennis: A Case Study into a High Speed Learning System](https://arxiv.org/abs/2309.03315)
 
 [2024] [Achieving Human Level Competitive Robot Table Tennis](https://www.arxiv.org/abs/2408.03906)
+
+
+

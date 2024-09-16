@@ -18,7 +18,7 @@
 
 ### AlphaFold
 
-[2020] A[lphaFold: Improved protein structure prediction using 2 potentials from deep learning](https://discovery.ucl.ac.uk/id/eprint/10089234/1/343019_3_art_0_py4t4l_convrt.pdf)
+[2020] [AlphaFold: Improved protein structure prediction using 2 potentials from deep learning](https://discovery.ucl.ac.uk/id/eprint/10089234/1/343019_3_art_0_py4t4l_convrt.pdf)
 
 
 

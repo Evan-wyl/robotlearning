@@ -15,3 +15,5 @@
 [2024] [Grounding Language Plans in Demonstrations Through Counterfactual Perturbations](https://arxiv.org/abs/2403.17124)
 
 [2024] [Interpreting and learning voice commands with a Large Language Model for a robot system](https://arxiv.org/abs/2407.21512)
+
+[2024] [LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning](https://arxiv.org/abs/2409.10444)

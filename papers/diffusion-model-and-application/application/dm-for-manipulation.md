@@ -15,3 +15,5 @@
 [2024] [Variational Distillation of Diffusion Policies into Mixture of Experts](https://arxiv.org/abs/2406.12538)
 
 [2024] [EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning](https://arxiv.org/abs/2407.01479)
+
+[2024] [Precise Pick-and-Place using Score-Based Diffusion Networks](https://arxiv.org/abs/2409.09725)

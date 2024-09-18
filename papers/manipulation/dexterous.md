@@ -36,6 +36,12 @@
 
 
 
+### Gaussian Process Residual Learning
+
+[2024] [ResPilot: Teleoperated Finger Gaiting via Gaussian Process Residual Learning](https://arxiv.org/abs/2409.09140)
+
+
+
 ### Representation
 
 [2024] [A Surprisingly Efficient Representation for Multi-Finger Grasping](https://arxiv.org/abs/2408.02455)

@@ -34,6 +34,8 @@
 
 [2024] [PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots](https://arxiv.org/abs/2407.04224)
 
+[2024] [Agile Continuous Jumping in Discontinuous Terrains](https://arxiv.org/abs/2409.10923)
+
 
 
 ### Imitation Learning

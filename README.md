@@ -73,7 +73,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-- White-Box Networks
+- [White-Box Networks](https://github.com/Evan-wyl/robotlearning/tree/master/papers/white-box-networks)
 
 - [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
 

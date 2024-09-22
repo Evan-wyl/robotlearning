@@ -8,8 +8,6 @@
 
 [2022] [Pursuit of a Discriminative Representation for Multiple Subspaces via Sequential Games](https://arxiv.org/abs/2206.09120)
 
-[2023] [White-Box Transformers via Sparse Rate Reduction: Compression Is All There Is?](https://arxiv.org/abs/2311.13110)
-
 [2024] [Diffusion Models Learn Low-Dimensional Distributions via Subspace Clustering](https://arxiv.org/abs/2409.02426)
 
 

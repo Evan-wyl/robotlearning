@@ -2,6 +2,8 @@
 
 [2020] [Learning Diverse and Discriminative Representations via the Principle of Maximal Coding Rate Reduction](https://arxiv.org/abs/2006.08558)
 
+[2020] [Deep Networks from the Principle of Rate Reduction](https://arxiv.org/abs/2010.14765)
+
 [2022] [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
 
 [2022] [Unsupervised Learning of Structured Representations via Closed-Loop Transcription](https://arxiv.org/abs/2210.16782)

@@ -15,7 +15,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [DeepMind](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/deepmind.md)
 - [Tencent-RoboticsX](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/tencent.md)
 - [Intel EAI Lab](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/intel.md)
-- [University of Zurich](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/university-of-zurich.md)
 
 ---
 

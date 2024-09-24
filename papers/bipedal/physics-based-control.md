@@ -22,9 +22,21 @@
 
 
 
+### RL and Diffusion Model
+
+[2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/RobotMDM_2.pdf)
+
+
+
 ### RL and BC
 
 [2024] [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://arxiv.org/abs/2407.10481)
+
+
+
+### Generative Model
+
+[2024] [MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)
 
 
 

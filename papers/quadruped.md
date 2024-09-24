@@ -36,6 +36,8 @@
 
 [2024] [Agile Continuous Jumping in Discontinuous Terrains](https://arxiv.org/abs/2409.10923)
 
+[2024] [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience](https://arxiv.org/abs/2409.13678)
+
 
 
 ### Imitation Learning

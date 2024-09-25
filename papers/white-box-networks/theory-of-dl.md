@@ -42,6 +42,8 @@
 
 [2020] [Prevalence of Neural Collapse during the terminal phase of deep learning training](https://arxiv.org/abs/2008.08186)
 
+[2022] [Neural Collapse: A Review on Modelling Principles and Generalization](https://arxiv.org/abs/2206.04041)
+
 
 
 ### Mode Collapse

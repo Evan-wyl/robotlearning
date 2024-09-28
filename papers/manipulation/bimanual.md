@@ -18,6 +18,8 @@
 
 [2024] [ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection](https://arxiv.org/abs/2405.03666)
 
+[2024] [Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction](https://arxiv.org/abs/2409.18121)
+
 
 
 ### ALOHAs

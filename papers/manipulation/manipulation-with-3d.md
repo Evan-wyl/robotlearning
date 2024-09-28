@@ -63,3 +63,5 @@
 [2024] [ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation](https://arxiv.org/abs/2403.08321)
 
 [2024] [GraspSplats: Efficient Manipulation with 3D Feature Splatting](https://arxiv.org/abs/2409.02084)
+
+[2024] [D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation](https://arxiv.org/abs/2309.16118)

@@ -1,5 +1,11 @@
 ## Vision Reinforcement Learning
 
+### Survey
+
+[2022] [A Comprehensive Survey of Data Augmentation in Visual Reinforcement Learning](https://arxiv.org/abs/2210.04561)
+
+
+
 ### Algorithm
 
 [2023] [Generalizable Visual Reinforcement Learning with Segment Anything Model](https://arxiv.org/abs/2312.17116)

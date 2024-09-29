@@ -10,9 +10,13 @@
 
 [2022] [Task-Agnostic Continual Reinforcement Learning: Gaining Insights and Overcoming Challenges](https://arxiv.org/abs/2205.14495)
 
+[2023] [Maintaining Plasticity in Continual Learning via Regenerative Regularization](https://arxiv.org/abs/2308.11958)
+
 [2024] [Harnessing Discrete Representations for Continual Reinforcement Learning](https://openreview.net/forum?id=o4AydSd3Lp)
 
 [2024] [Weight Clipping for Deep Continual and Reinforcement Learning](https://arxiv.org/abs/2407.01704)
+
+[2024] [Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages](https://arxiv.org/abs/2310.07418)
 
 
 

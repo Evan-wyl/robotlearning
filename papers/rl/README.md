@@ -8,7 +8,7 @@
 - [Sample Efficient](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/sample-efficient.md)
 - [Experience Replay](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/experience-replay.md)
 - [Temporal Processing](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/temporal-processing-for-rl.md)
-- [Theory](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/theory-of-rl.md)
+- [Theory](https://github.com/Evan-wyl/robotlearning/blob/master/papers/rl/theory)
 
 ---
 

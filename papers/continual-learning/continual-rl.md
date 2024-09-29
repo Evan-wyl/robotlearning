@@ -6,22 +6,17 @@
 
 
 
-### Algorithms
+### Method
 
 [2022] [Task-Agnostic Continual Reinforcement Learning: Gaining Insights and Overcoming Challenges](https://arxiv.org/abs/2205.14495)
-
-[2023] [Maintaining Plasticity in Continual Learning via Regenerative Regularization](https://arxiv.org/abs/2308.11958)
 
 [2024] [Harnessing Discrete Representations for Continual Reinforcement Learning](https://openreview.net/forum?id=o4AydSd3Lp)
 
 [2024] [Weight Clipping for Deep Continual and Reinforcement Learning](https://arxiv.org/abs/2407.01704)
 
-[2024] [Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages](https://arxiv.org/abs/2310.07418)
 
 
-
-### Theory
+### Theory 
 
 [2023] [Loss of Plasticity in Continual Deep Reinforcement Learning](https://arxiv.org/abs/2303.07507)
 
-[2023] [The Dormant Neuron Phenomenon in Deep Reinforcement Learning](https://openreview.net/pdf?id=skb34O7hFp)

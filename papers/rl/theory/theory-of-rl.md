@@ -18,16 +18,6 @@
 
 [2021] [How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned](https://arxiv.org/abs/2102.02915)
 
-[2022] [The Primacy Bias in Deep Reinforcement Learning](https://arxiv.org/abs/2205.07802)
-
 [2023] [An Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](https://arxiv.org/abs/2310.05808)
 
 [2024] [Addressing Signal Delay in Deep Reinforcement Learning](https://openreview.net/pdf?id=Z8UfDs4J46)
-
-[2024] [Dissecting Deep RL with High Update Ratios: Combatting Value Divergence](https://tisl.cs.toronto.edu/publication/202407-rlc-primacy_bias/rlc2024-primacy_bias.pdf)
-
-
-
-### Plasticity
-
-[2023] [The Dormant Neuron Phenomenon in Deep Reinforcement Learning](https://arxiv.org/abs/2302.12902)

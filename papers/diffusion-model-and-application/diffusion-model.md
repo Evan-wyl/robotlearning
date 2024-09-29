@@ -26,4 +26,6 @@
 
 [2023] [FreeU: Free Lunch in Diffusion U-Net](https://arxiv.org/abs/2309.11497)
 
+[2023] [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543)
+
 [2024] [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)

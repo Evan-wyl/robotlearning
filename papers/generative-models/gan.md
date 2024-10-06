@@ -4,6 +4,10 @@
 
 [2014] [Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
 
+[2015] [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+
+[2016] [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)
+
 [2017] [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
 
 [2017] [VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning](https://arxiv.org/abs/1705.07761)

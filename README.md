@@ -59,6 +59,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped.md)
+- [Multi-embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
 
 ---
 

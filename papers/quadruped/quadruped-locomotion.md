@@ -1,4 +1,4 @@
-## Quadruped 
+## Quadruped Locomotion
 
 ### Reinforcement Learning
 

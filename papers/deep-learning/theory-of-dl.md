@@ -8,6 +8,8 @@
 
 [2022] [Width is Less Important than Depth in ReLU Neural Networks](https://arxiv.org/abs/2202.03841)
 
+[2024] [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://www.nature.com/articles/s44260-024-00015-x)
+
 
 
 ### Plastic

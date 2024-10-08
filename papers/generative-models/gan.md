@@ -26,6 +26,8 @@
 
 [2017] [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 
+[2016] [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/abs/1606.00709)
+
 [2017] [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
 
 [2017] [VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning](https://arxiv.org/abs/1705.07761)

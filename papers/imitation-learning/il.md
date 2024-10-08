@@ -14,6 +14,8 @@
 
 [2021] [Language Conditioned Imitation Learning over Unstructured Data](https://arxiv.org/abs/2005.07648)
 
+[2019] [Imitation Learning as f-Divergence Minimization](https://arxiv.org/abs/1905.12888)
+
 [2024] [KOI: Accelerating Online Imitation Learning via Hybrid Key-state Guidance](https://arxiv.org/abs/2408.02912)
 
 [2024] [In-Context Imitation Learning via Next-Token Prediction](https://arxiv.org/abs/2408.15980)

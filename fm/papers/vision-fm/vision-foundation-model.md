@@ -8,6 +8,8 @@
 
 [2024] [Theia: Distilling Diverse Vision Foundation Models for Robot Learning](https://arxiv.org/abs/2407.20179)
 
+[2024] [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
+
 
 
 ### Survey

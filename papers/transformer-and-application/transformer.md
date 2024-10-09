@@ -7,3 +7,5 @@
 [2023] [A mathematical perspective on Transformers](https://arxiv.org/abs/2312.10794)
 
 [2023] [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
+
+[2024] [Differential Transformer](https://arxiv.org/abs/2410.05258)

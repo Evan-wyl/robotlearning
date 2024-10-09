@@ -30,6 +30,12 @@
 
 
 
+### Multi-Objective Reinforcement Learning
+
+[2024] [Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach](https://arxiv.org/abs/2409.15755)
+
+
+
 ### Imitation Learning
 
 [2023] [Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://arxiv.org/abs/2309.01952)

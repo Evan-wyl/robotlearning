@@ -1,6 +1,6 @@
 ## Physical-Based Control
 
-### GAN and RL
+### GAN-based Generative Controllers
 
 [2021] [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control](https://arxiv.org/abs/2104.02180)
 
@@ -12,7 +12,7 @@
 
 
 
-### VAE and RL
+### VAE-based Generative Controllers
 
 [2022] [ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters](https://arxiv.org/abs/2210.06063)
 
@@ -22,25 +22,27 @@
 
 
 
-### RL and Diffusion Model
+### VQ-VAE-based Generative Controllers
+
+[2024] [MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations](https://arxiv.org/abs/2310.10198)
+
+
+
+### Diffusion-based Generative Controllers
 
 [2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/RobotMDM_2.pdf)
 
 
 
-### RL and BC
+### Language-directed Controllers
 
 [2024] [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://arxiv.org/abs/2407.10481)
 
 
 
-### Generative Model
+### Multi-Modal-directed Controllers
 
 [2024] [MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)
 
 
-
-### LLM, VQ-VAE and RL
-
-[2024] [MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations](https://arxiv.org/abs/2310.10198)
 

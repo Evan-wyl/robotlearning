@@ -88,6 +88,10 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
+---
+
+- [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)
+
 
 
 ## 2.Code

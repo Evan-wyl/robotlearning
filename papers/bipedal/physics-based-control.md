@@ -32,6 +32,8 @@
 
 [2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/RobotMDM_2.pdf)
 
+[2024] [CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control](https://arxiv.org/abs/2410.03441)
+
 
 
 ### Language-directed Controllers

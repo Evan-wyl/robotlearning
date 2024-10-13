@@ -60,6 +60,10 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/vision-foundation-model.md)
 - [Navigation](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/navigation.md)
 
+---
+
+- [Theory](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/theory)
+
 
 
 ## 2.Datasets and Benchmarks

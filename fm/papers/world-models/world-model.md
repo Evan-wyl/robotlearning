@@ -18,6 +18,8 @@
 
 [2024] [Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics](https://arxiv.org/abs/2406.10788)
 
+[2024] [PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation](https://arxiv.org/abs/2410.10394)
+
 #### Diffusion Model and World Model
 
 [2023] [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533v2)

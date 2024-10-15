@@ -40,6 +40,8 @@
 
 [2024] [Obstacle-Aware Quadrupedal Locomotion With Resilient Multi-Modal Reinforcement Learning](https://arxiv.org/abs/2409.19709)
 
+[2024] [Reinforcement Learning For Quadrupedal Locomotion: Current Advancements And Future Perspectives](https://arxiv.org/abs/2410.10438)
+
 
 
 ### Multi-Objective Reinforcement Learning

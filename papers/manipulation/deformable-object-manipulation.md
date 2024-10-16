@@ -6,6 +6,12 @@
 
 
 
+### Method
+
+[2024] [DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment](https://arxiv.org/abs/2410.11584)
+
+
+
 ### Representation Learning
 
 [2023] [Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation](https://arxiv.org/abs/2303.11057)

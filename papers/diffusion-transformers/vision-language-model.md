@@ -1,4 +1,4 @@
-## Diffusion and Transformer Unification
+## Vision Language Model
 
 [2024] [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
 

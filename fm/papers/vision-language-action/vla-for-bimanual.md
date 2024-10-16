@@ -1,4 +1,4 @@
-## Bimanual
+## VLA for Bimanual
 
 [2024] [RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation](https://arxiv.org/abs/2410.07864)
 

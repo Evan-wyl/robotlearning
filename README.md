@@ -81,7 +81,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
 - [Diffusion Transformers](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformers)
-- [Diffusion and Transformer Unification](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformer-unification.md)
+- [Diffusion Transformers](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformers)
 
 ---
 

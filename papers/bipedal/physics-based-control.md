@@ -14,8 +14,6 @@
 
 ### VAE-based Generative Controllers
 
-[2022] [ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters](https://arxiv.org/abs/2210.06063)
-
 [2022] [Physics-based Character Controllers Using Conditional VAEs](https://dl.acm.org/doi/pdf/10.1145/3528223.3530067)
 
 [2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
@@ -29,8 +27,6 @@
 
 
 ### Diffusion-based Generative Controllers
-
-[2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/RobotMDM_2.pdf)
 
 [2024] [CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control](https://arxiv.org/abs/2410.03441)
 

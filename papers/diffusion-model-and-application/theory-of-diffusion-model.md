@@ -1,4 +1,4 @@
-## Theory
+## Theory of Diffusion Model
 
 [2022] [Statistical Efficiency of Score Matching: The View from Isoperimetry](https://arxiv.org/abs/2210.00726)
 

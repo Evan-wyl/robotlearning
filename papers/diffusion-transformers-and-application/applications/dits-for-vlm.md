@@ -1,4 +1,4 @@
-## Vision Language Model
+## DiTs for VLM
 
 [2024] [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039)
 

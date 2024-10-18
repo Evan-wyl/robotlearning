@@ -77,7 +77,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
 - [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
 - [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
-- [Diffusion Transformers](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformers)
+- [Diffusion Transformers and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformers-and-application)
 
 ---
 

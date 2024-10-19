@@ -1,6 +1,6 @@
 ## Physical-Based Control
 
-### GAN-based Generative Controllers
+### GAN-based Controllers
 
 [2021] [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control](https://arxiv.org/abs/2104.02180)
 
@@ -12,7 +12,7 @@
 
 
 
-### VAE-based Generative Controllers
+### VAE-based Controllers
 
 [2022] [Physics-based Character Controllers Using Conditional VAEs](https://dl.acm.org/doi/pdf/10.1145/3528223.3530067)
 
@@ -20,13 +20,13 @@
 
 
 
-### VQ-VAE-based Generative Controllers
+### VQ-VAE-based Controllers
 
 [2024] [MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations](https://arxiv.org/abs/2310.10198)
 
 
 
-### Diffusion-based Generative Controllers
+### Diffusion-based Controllers
 
 [2024] [CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control](https://arxiv.org/abs/2410.03441)
 

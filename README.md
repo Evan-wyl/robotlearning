@@ -78,6 +78,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
 - [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
 - [Diffusion Transformers and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformers-and-application)
+- [Flow Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
 
 ---
 

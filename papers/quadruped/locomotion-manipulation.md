@@ -19,3 +19,5 @@
 [2024] [Helpful DoggyBot: Open-World Object Fetching using Legged Robots and Vision-Language Models](https://arxiv.org/abs/2410.00231)
 
 [2024] [Continuously Improving Mobile Manipulation with Autonomous Real-World RL](https://arxiv.org/abs/2409.20568)
+
+[2024] [Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation](https://arxiv.org/abs/2410.13817)

@@ -36,4 +36,8 @@
 
 [2023] [Improved Techniques for Training Consistency Models](https://arxiv.org/abs/2310.14189)
 
+[2024] [Consistency Models Made Easy](https://arxiv.org/abs/2406.14548)
+
+[2024] [Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models](https://arxiv.org/abs/2410.11081)
+
 [2024] [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)

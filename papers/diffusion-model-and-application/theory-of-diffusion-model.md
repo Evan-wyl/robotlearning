@@ -15,8 +15,20 @@
 ### Diffusion Model as Representation Learner
 
 [2023] [Your Diffusion Model is Secretly a Zero-Shot Classifier](https://arxiv.org/abs/2303.16203)
+
 [2023] [Diffusion Model as Representation Learner](https://arxiv.org/abs/2308.10916)
 
 [2023] [Denoising Diffusion Autoencoders are Unified Self-supervised Learners](https://arxiv.org/abs/2303.09769)
 
 [2024] [Deconstructing Denoising Diffusion Models for Self-Supervised Learning](https://arxiv.org/abs/2401.14404)
+
+
+
+### Diffusion Model Training Method
+
+[2023] [Analyzing and Improving the Training Dynamics of Diffusion Models](https://arxiv.org/abs/2312.02696)
+
+[2023] [Improved Techniques for Training Consistency Models](https://arxiv.org/abs/2310.14189)
+
+[2024] [Training Diffusion Models with Reinforcement Learning](https://arxiv.org/abs/2305.13301)
+

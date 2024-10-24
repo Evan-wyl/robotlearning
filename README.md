@@ -74,12 +74,15 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ---
 
 - [White-Box Networks](https://github.com/Evan-wyl/robotlearning/tree/master/papers/white-box-networks)
-- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
 - [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
 - [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
+
+---
+
+- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
 - [Diffusion Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
-- [Diffusion Transformers and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-transformers-and-application)
 - [Flow Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
+- [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)
 
 ---
 

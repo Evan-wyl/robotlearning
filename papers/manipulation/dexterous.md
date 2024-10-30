@@ -2,6 +2,8 @@
 
 [2019] [DexPilot: Vision Based Teleoperation of Dexterous Robotic Hand-Arm System](https://arxiv.org/abs/1910.03135)
 
+[2022] [In-Hand Object Rotation via Rapid Motor Adaptation](https://arxiv.org/abs/2210.04887)
+
 [2022] [Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations](https://arxiv.org/abs/2207.05053)
 
 [2024] [GenDexGrasp: Generalizable Dexterous Grasping](https://arxiv.org/abs/2210.00722)

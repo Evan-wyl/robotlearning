@@ -10,3 +10,5 @@
 
 [2023] [White-Box Transformers via Sparse Rate Reduction](https://arxiv.org/abs/2306.01129)
 
+[2024] [Scaling White-Box Transformers for Vision](https://arxiv.org/abs/2405.20299)
+

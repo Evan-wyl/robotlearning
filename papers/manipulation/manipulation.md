@@ -52,6 +52,8 @@
 
 [2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)
 
+[2024] [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
+
 
 
 ### Flow and Imitation Learning

@@ -48,6 +48,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 [2024] [Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](https://arxiv.org/abs/2408.04380)
 
+[2024] [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)
+
 :speaker: ***If you would like some specific areas' survey, such as reinforcement learning,imitation learning, and etc, please click related links in part one.***
 
 

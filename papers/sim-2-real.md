@@ -38,11 +38,15 @@
 
 [2017] [Fast Model Identification via Physics Engines for Data-Efficient Policy Search](https://arxiv.org/abs/1710.08893)
 
+[2024] [Dynamics as Prompts: In-Context Learning for Sim-to-Real System Identifications](https://arxiv.org/abs/2410.20357)
+
 
 
 ### Randomization
 
 [2022] [Analysis of Randomization Effects on Sim2Real Transfer in Reinforcement Learning for Robotic Manipulation Tasks](https://arxiv.org/abs/2206.06282)
+
+[2024] [Overcoming the Sim-to-Real Gap: Leveraging Simulation to Learn to Explore for Real-World RL](https://arxiv.org/abs/2410.20254)
 
 
 

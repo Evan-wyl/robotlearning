@@ -8,6 +8,12 @@
 
 [2024] [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/abs/2406.09246)
 
+[2024] [TinyVLA: Towards Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation](https://arxiv.org/abs/2409.12514)
+
+[2024] [Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation](https://arxiv.org/abs/2409.14411)
+
+[2024] [π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)
+
 
 
 ### Latent Action

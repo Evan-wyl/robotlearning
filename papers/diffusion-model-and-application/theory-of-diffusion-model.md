@@ -10,6 +10,8 @@
 
 [2024] [Diffusion Models are Evolutionary Algorithms](https://arxiv.org/abs/2410.02543)
 
+[2024] [Where to Diffuse, How to Diffuse, and How to Get Back: Automated Learning for Multivariate Diffusions](https://arxiv.org/abs/2303.08797)
+
 
 
 ### Diffusion Model as Representation Learner

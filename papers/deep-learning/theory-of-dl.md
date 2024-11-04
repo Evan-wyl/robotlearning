@@ -10,6 +10,8 @@
 
 [2024] [Correlating measures of hierarchical structures in artificial neural networks with their performance](https://www.nature.com/articles/s44260-024-00015-x)
 
+[2024] [Estimating Neural Network Robustness via Lipschitz Constant and Architecture Sensitivity](https://arxiv.org/abs/2410.23382)
+
 
 
 ### Plastic

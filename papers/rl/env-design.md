@@ -42,6 +42,8 @@
 
 [2024] [Combining Automated Optimisation of Hyperparameters and Reward Shape](https://arxiv.org/abs/2406.18293)
 
+[2024] [Robot Policy Learning with Temporal Optimal Transport Reward](https://arxiv.org/abs/2410.21795)
+
 
 
 ### State Space

@@ -14,6 +14,8 @@
 
 [2024] [π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)
 
+[2024] [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359)
+
 
 
 ### Latent Action

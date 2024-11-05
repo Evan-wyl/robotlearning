@@ -25,3 +25,9 @@
 ### Unfolding
 
 [2024] [SIS: Seam-Informed Strategy for T-shirt Unfolding](https://arxiv.org/abs/2409.06990)
+
+
+
+### Benchmark
+
+[2024] [GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation](https://arxiv.org/abs/2411.01200)

@@ -19,3 +19,5 @@
 [2024] [Precise Pick-and-Place using Score-Based Diffusion Networks](https://arxiv.org/abs/2409.09725)
 
 [2024] [Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning](https://diff-control.github.io/)
+
+[2024] [ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy](https://arxiv.org/abs/2411.03990)

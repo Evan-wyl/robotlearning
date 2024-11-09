@@ -15,6 +15,12 @@
 
 
 
+### Tactile Simulation
+
+- [TacEx](https://arxiv.org/abs/2411.04776): GelSight Tactile Simulation in Isaac Sim -- Combining Soft-Body and Visuotactile Simulators
+
+
+
 
 ### Relevant Resources
 

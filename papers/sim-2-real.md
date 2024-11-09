@@ -88,6 +88,12 @@
 
 
 
+### Evolutionary Method
+
+[2024] [Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity](https://arxiv.org/abs/2411.04466)
+
+
+
 ### NeRF2Real
 
 [2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)

@@ -16,6 +16,8 @@
 
 [2024] [DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution](https://arxiv.org/abs/2411.02359)
 
+[2024] [Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance](https://arxiv.org/abs/2410.13816)
+
 
 
 ### Latent Action

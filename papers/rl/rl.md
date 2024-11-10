@@ -76,6 +76,8 @@
 
 [2024] [Off-Policy Actor-Critic with Emphatic Weightings](https://arxiv.org/abs/2111.08172)
 
+[2024] [Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own](https://arxiv.org/abs/2310.02635)
+
 
 
 ### Various Paradigms of RL

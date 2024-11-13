@@ -20,6 +20,8 @@
 
 [2024] [PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation](https://arxiv.org/abs/2410.10394)
 
+[2024] [WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making](https://arxiv.org/abs/2411.05619)
+
 #### Diffusion Model and World Model
 
 [2023] [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533v2)

@@ -6,6 +6,7 @@
 | ------------------------------------------------------------ | ---- | ------ | --------- | ---- | ----- |
 | [RoboMimic](https://robomimic.github.io/)                    |      |        |           |      |       |
 | [RoboCAS-v0](https://github.com/notFoundThisPerson/RoboCAS-v0) |      |        |           |      |       |
+| [FurnitureBench](https://clvrai.github.io/furniture-bench/)  |      |        |           |      |       |
 
 
 

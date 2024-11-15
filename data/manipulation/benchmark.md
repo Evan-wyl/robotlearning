@@ -1,5 +1,9 @@
 # Benchmark
 
+- [ClevrSkills](https://arxiv.org/abs/2411.09052): a benchmark suite for compositional reasoning  in robotics
+
+---
+
 ***ActD: the highest action dimension for the domain. #Demo: Number of expert demonstrations used for each task in the domain. Art: articulated objects. Deform: deformable objects.***
 
 | Name                                                         | Robo | Object | Simulator | ActD | #Task |

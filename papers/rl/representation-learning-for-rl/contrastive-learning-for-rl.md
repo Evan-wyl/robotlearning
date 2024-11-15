@@ -1,4 +1,4 @@
-## Representation Learning and RL
+## Contrastive Learning for RL
 
 [2022] [Contrastive Learning as Goal-Conditioned Reinforcement Learning](https://arxiv.org/abs/2206.07568)
 

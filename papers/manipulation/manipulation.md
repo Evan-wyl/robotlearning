@@ -58,6 +58,12 @@
 
 
 
+### One-Short Learning
+
+[2024] [One-Shot Manipulation Strategy Learning by Making Contact Analogies](https://arxiv.org/abs/2411.09627)
+
+
+
 ### Flow and Imitation Learning
 
 [2024] [Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208)

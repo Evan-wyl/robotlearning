@@ -20,3 +20,10 @@
 
 [2023] [Loss of Plasticity in Continual Deep Reinforcement Learning](https://arxiv.org/abs/2303.07507)
 
+
+
+### Generalization
+
+[2018] [A Dissection of Overfitting and Generalization in Continuous Reinforcement Learning](https://arxiv.org/abs/1806.07937)
+
+[2019] [Investigating Generalisation in Continuous Deep Reinforcement Learning](https://arxiv.org/abs/1902.07015)

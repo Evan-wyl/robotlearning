@@ -70,6 +70,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
+- Vision Reinforcement Learning
 - [Robot Learning Theory](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/robot-learning-theory.md)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 

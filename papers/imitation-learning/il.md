@@ -44,6 +44,12 @@
 
 
 
+### Inference
+
+[2024] [Inference-Time Policy Steering through Human Interactions](https://arxiv.org/abs/2411.16627)
+
+
+
 ### Theory
 
 [2024] [How Generalizable Is My Behavior Cloning Policy? A Statistical Approach to Trustworthy Performance Evaluation](https://arxiv.org/abs/2405.05439)

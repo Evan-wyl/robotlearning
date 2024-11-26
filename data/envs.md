@@ -13,6 +13,8 @@
 
 - [RFUniverse](https://sites.google.com/view/rfuniverse): A Multiphysics Simulation Platform for Embodied AI.
 
+- [UBSoft](https://arxiv.org/abs/2411.12711): A Simulation Platform for Robotic Skill Learning in Unbounded Soft Environments
+
 
 
 ### Tactile Simulation

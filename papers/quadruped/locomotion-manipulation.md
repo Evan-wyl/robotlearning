@@ -21,3 +21,5 @@
 [2024] [Continuously Improving Mobile Manipulation with Autonomous Real-World RL](https://arxiv.org/abs/2409.20568)
 
 [2024] [Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation](https://arxiv.org/abs/2410.13817)
+
+[2024] [WildLMa: Long Horizon Loco-Manipulation in the Wild](https://arxiv.org/abs/2411.15131)

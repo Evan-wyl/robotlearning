@@ -50,6 +50,12 @@
 
 
 
+### In-Context Learning
+
+[2024] [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://arxiv.org/abs/2411.12633)
+
+
+
 ### Visual RL
 
 [2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)

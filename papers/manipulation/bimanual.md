@@ -2,6 +2,8 @@
 
 [2017] [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312)
 
+[2020] [Deep Imitation Learning for Bimanual Robotic Manipulation](https://arxiv.org/abs/2010.05134)
+
 [2022] [Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects](https://openreview.net/pdf?id=Bxr45keYrf) 
 
 [2024] [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://arxiv.org/abs/2402.10329)

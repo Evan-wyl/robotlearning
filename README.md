@@ -70,7 +70,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
-- Vision Reinforcement Learning
+- [Vision Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/vision-rl)
 - [Robot Learning Theory](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/robot-learning-theory.md)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 
@@ -82,7 +82,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
-- [Generative Models](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models)
+- [Generative Models and Applications](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models-and-applications)
 - [Diffusion Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
 - [Flow Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
 - [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)

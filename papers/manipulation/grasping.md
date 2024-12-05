@@ -11,3 +11,5 @@
 [2024] [Target-Oriented Object Grasping via Multimodal Human Guidance](https://arxiv.org/abs/2408.11138)
 
 [2024] [FunGrasp: Functional Grasping for Diverse Dexterous Hands](https://arxiv.org/abs/2411.16755)
+
+[2024] [UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping](https://arxiv.org/abs/2412.02699)

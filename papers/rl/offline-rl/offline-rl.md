@@ -26,22 +26,30 @@
 
 
 
-### Regularization
-
-[2019] [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543)
-
-[2022] [Supported Policy Optimization for Offline Reinforcement Learning](https://arxiv.org/abs/2202.06239)
-
-
-
 ### Algorithm
 
 [2024] [GTA: Generative Trajectory Augmentation with Guidance for Offline Reinforcement Learning](https://arxiv.org/abs/2405.16907)
 
 [2024] [Reward-Consistent Dynamics Models are Strongly Generalizable for Offline Reinforcement Learning](https://arxiv.org/abs/2310.05422#)
 
+[2024] [Uncertainty-based Offline Variational Bayesian Reinforcement Learning for Robustness under Diverse Data Corruptions](https://arxiv.org/abs/2411.00465)
 
 
-### Thory
+
+### Regularization
+
+[2022] [Supported Policy Optimization for Offline Reinforcement Learning](https://arxiv.org/abs/2202.06239)
+
+
+
+### Generalization
+
+[2019] [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/1907.04543)
+
+[2024] [Doubly Mild Generalization for Offline Reinforcement Learning](https://arxiv.org/abs/2411.07934)
+
+
+
+### Theory
 
 [2023] [Revisiting the Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2305.09836)

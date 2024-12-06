@@ -47,7 +47,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Generative AI and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/generative-ai-and-application)
 - [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/llm-and-application)
 - [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/mmlm-and-application)
-- [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/world-models)
+- [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/world-models-and-application)
 
 ---
 

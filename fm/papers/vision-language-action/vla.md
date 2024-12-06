@@ -24,6 +24,8 @@
 
 [2024] [GRAPE: Generalizing Robot Policy via Preference Alignment](https://arxiv.org/abs/2411.19309)
 
+[2024] [Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression](https://arxiv.org/abs/2412.03293)
+
 
 
 ### Latent Action

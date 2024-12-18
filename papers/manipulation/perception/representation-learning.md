@@ -10,6 +10,8 @@
 
 [2023] [Language-Driven Representation Learning for Robotics](https://arxiv.org/abs/2302.12766)
 
+[2023] [Inverse Dynamics Pretraining Learns Good Representations for Multitask Imitation](https://arxiv.org/abs/2305.16985)
+
 [2024] [Recasting Generic Pretrained Vision Transformers As Object-Centric Scene Encoders For Manipulation Policies](https://arxiv.org/abs/2405.15916)
 
 [2024] [Learning Manipulation by Predicting Interaction](https://arxiv.org/abs/2406.00439)

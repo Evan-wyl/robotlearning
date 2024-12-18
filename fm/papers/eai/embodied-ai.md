@@ -28,6 +28,8 @@
 
 [2024] [BadRobot: Jailbreaking LLM-based Embodied AI in the Physical World](https://arxiv.org/abs/2407.20242)
 
+[2024] [Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning](https://arxiv.org/abs/2412.11974)
+
 
 
 ### Fine-Tuning

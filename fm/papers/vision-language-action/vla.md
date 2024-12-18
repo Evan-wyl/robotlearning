@@ -31,3 +31,5 @@
 ### Latent Action
 
 [2024] [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758)
+
+[2024] [Moto: Latent Motion Token as the Bridging Language for Robot Manipulation](https://arxiv.org/abs/2412.04445)

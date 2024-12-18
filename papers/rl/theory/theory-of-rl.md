@@ -25,3 +25,5 @@
 [2024] [RL, but don't do anything I wouldn't do](https://arxiv.org/abs/2410.06213)
 
 [2024] [Reward Centering](https://arxiv.org/abs/2405.09999)
+
+[2024] [Q-learning with Uniformly Bounded Variance: Large Discounting is Not a Barrier to Fast Learning](https://arxiv.org/abs/2002.10301)

@@ -55,3 +55,9 @@
 [2024] [Vision Language Models are In-Context Value Learners](https://arxiv.org/abs/2411.04549)
 
 [2024] [STEER: Flexible Robotic Manipulation via Dense Language Grounding](https://arxiv.org/abs/2411.03409)
+
+
+
+### Video Generation
+
+[2024] [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700)

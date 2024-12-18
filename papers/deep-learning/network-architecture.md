@@ -1,5 +1,9 @@
 ## Network Architecture
 
+[2024] [Improving Lipschitz-Constrained Neural Networks by Learning Activation Functions](https://arxiv.org/abs/2210.16222)
+
+
+
 ### RNNs
 
 [2024] [Attention as an RNN](https://arxiv.org/abs/2405.13956)

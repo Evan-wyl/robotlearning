@@ -20,3 +20,5 @@
 
 [2024] [Loss of plasticity in deep continual learning](https://www.nature.com/articles/s41586-024-07711-7.pdf)
 
+[2024] [Step-size Optimization for Continual Learning](https://arxiv.org/abs/2401.17401)
+

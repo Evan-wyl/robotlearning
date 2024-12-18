@@ -44,6 +44,8 @@
 
 [2024] [Robot Policy Learning with Temporal Optimal Transport Reward](https://arxiv.org/abs/2410.21795)
 
+[2024] [Adaptive Reward Design for Reinforcement Learning in Complex Robotic Tasks](https://arxiv.org/abs/2412.10917)
+
 
 
 ### State Space

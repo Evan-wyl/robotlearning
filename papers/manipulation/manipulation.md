@@ -42,6 +42,8 @@
 
 [2024] [Prediction with Action: Visual Policy Learning via Joint Denoising Process](https://arxiv.org/abs/2411.18179)
 
+[2024] [Fast and Robust Visuomotor Riemannian Flow Matching Policy](https://arxiv.org/abs/2412.10855)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)
@@ -58,7 +60,7 @@
 
 
 
-### Visual RL
+### Visual-Based RL
 
 [2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)
 

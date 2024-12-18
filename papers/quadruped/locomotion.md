@@ -42,6 +42,8 @@
 
 [2024] [Reinforcement Learning For Quadrupedal Locomotion: Current Advancements And Future Perspectives](https://arxiv.org/abs/2410.10438)
 
+[2024] [Reinforcement Learning from Wild Animal Videos](https://arxiv.org/abs/2412.04273)
+
 
 
 ### Multi-Objective Reinforcement Learning

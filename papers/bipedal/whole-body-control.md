@@ -11,3 +11,5 @@
 [2024] [Learning Multi-Modal Whole-Body Control for Real-World Humanoid Robots](https://masked-humanoid.github.io/mhc/)
 
 [2024] [HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots](https://arxiv.org/abs/2410.21229)
+
+[2024] [ExBody2: Advanced Expressive Humanoid Whole-Body Control](https://arxiv.org/abs/2412.13196)

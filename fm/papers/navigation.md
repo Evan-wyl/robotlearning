@@ -30,6 +30,8 @@
 
 [2024] [ET tu, CLIP? Addressing Common Object Errors for Unseen Environments](https://arxiv.org/abs/2406.17876)
 
+[2024] [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453)
+
 
 
 ### Offline RL and RL

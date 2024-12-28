@@ -5,3 +5,4 @@
 |                           Name                           |  X Open  | #.X  | #.A  | Type | Language | Multi Camera | Fluid | Physics | Continuous | Scenes | Robot | Rendering | Flexible Material | Generalization |
 | :------------------------------------------------------: | :------: | :--: | :--: | ---- | :------: | :----------: | :---: | :-----: | :--------: | ------ | ----- | --------- | ----------------- | -------------- |
 | [ReALFRED](https://twoongg.github.io/projects/realfred/) | &#x2714; |      |      |      |          |              |       |         |            |        |       |           |                   |                |
+|          [OpenEQA](https://open-eqa.github.io/)          |          |      |      |      |          |              |       |         |            |        |       |           |                   |                |

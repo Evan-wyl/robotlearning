@@ -17,3 +17,11 @@
 [2024] [Interpreting and learning voice commands with a Large Language Model for a robot system](https://arxiv.org/abs/2407.21512)
 
 [2024] [LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning](https://arxiv.org/abs/2409.10444)
+
+[2024] [Human-Object Interaction from Human-Level Instructions](https://arxiv.org/abs/2406.17840)
+
+
+
+### Theory
+
+[2022] [Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents](https://arxiv.org/abs/2201.07207)

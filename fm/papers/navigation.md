@@ -18,6 +18,8 @@
 
 [2024] [TrustNavGPT: Modeling Uncertainty to Improve Trustworthiness of Audio-Guided LLM-Based Robot Navigation](https://arxiv.org/abs/2408.01867)
 
+[2024] [FloNa: Floor Plan Guided Embodied Visual Navigation](https://arxiv.org/abs/2412.18335)
+
 
 
 ### Vision and Language Navigation
@@ -31,6 +33,8 @@
 [2024] [ET tu, CLIP? Addressing Common Object Errors for Unseen Environments](https://arxiv.org/abs/2406.17876)
 
 [2024] [NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/abs/2412.04453)
+
+[2024] [Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration](https://arxiv.org/abs/2412.18292)
 
 
 

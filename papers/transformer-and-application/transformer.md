@@ -9,3 +9,5 @@
 [2023] [Transformers as Support Vector Machines](https://arxiv.org/abs/2308.16898)
 
 [2024] [Differential Transformer](https://arxiv.org/abs/2410.05258)
+
+[2024] [Spatially-Aware Transformer for Embodied Agents](https://arxiv.org/abs/2402.15160)

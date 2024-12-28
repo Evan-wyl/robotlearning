@@ -32,8 +32,6 @@
 
 [2024] [Scaling Manipulation Learning with Visual Kinematic Chain Prediction](https://arxiv.org/abs/2406.07837)
 
-[2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
-
 [2024] [Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling](https://arxiv.org/abs/2408.17355)
 
 [2024] [Data Scaling Laws in Imitation Learning for Robotic Manipulation](https://arxiv.org/abs/2410.18647)
@@ -54,17 +52,27 @@
 
 
 
+### Imitation Learning and Reinforcement Learning
+
+[2024] [Policy Decorator: Model-Agnostic Online Refinement for Large Policy Model](https://arxiv.org/abs/2412.13630)
+
+[2024] [From Imitation to Refinement -- Residual RL for Precise Visual Assembly](https://arxiv.org/abs/2407.16677)
+
+
+
 ### In-Context Learning
 
 [2024] [Instant Policy: In-Context Imitation Learning via Graph Diffusion](https://arxiv.org/abs/2411.12633)
 
 
 
-### Visual-Based RL
+### Visual RL
 
 [2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)
 
 [2024] [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
+
+[2024] [When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?](https://arxiv.org/abs/2412.13662)
 
 
 

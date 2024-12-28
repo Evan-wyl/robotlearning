@@ -1,6 +1,9 @@
 # Benchmark
 
 - [ClevrSkills](https://arxiv.org/abs/2411.09052): a benchmark suite for compositional reasoning  in robotics
+- [ManiSkill-HAB](https://arxiv.org/abs/2412.13211): A Benchmark for Low-Level Manipulation in Home Rearrangement Tasks
+
+
 
 ---
 

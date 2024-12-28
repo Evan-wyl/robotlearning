@@ -29,3 +29,9 @@
 ### Generalization
 
 [2023] [Generalizable Visual Reinforcement Learning with Segment Anything Model](https://arxiv.org/abs/2312.17116)
+
+
+
+### Theory
+
+[2024] [When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?](https://arxiv.org/abs/2412.13662)

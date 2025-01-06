@@ -67,18 +67,3 @@
 ### Control Theory
 
 [2024] [DTC: Deep Tracking Control](https://www.science.org/doi/abs/10.1126/scirobotics.adh5401)
-
-
-
-### Planning
-
-[2024] [iPlanner: Imperative Path Planning](https://arxiv.org/abs/2302.11434)
-
-[2024] [Cross Anything: General Quadruped Robot Navigation through Complex Terrains](https://arxiv.org/abs/2407.16412)
-
-
-
-### Traversability Estimation
-
-[2024] [Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy](https://arxiv.org/abs/2406.02989)
-

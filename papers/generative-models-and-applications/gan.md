@@ -18,6 +18,8 @@
 
 [2024] [A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks](https://arxiv.org/abs/2407.13863)
 
+[2025] [The GAN is dead; long live the GAN! A Modern GAN Baseline](https://arxiv.org/abs/2501.05441)
+
 
 
 ### Training Method

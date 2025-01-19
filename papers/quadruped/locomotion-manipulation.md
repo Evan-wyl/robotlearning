@@ -23,3 +23,5 @@
 [2024] [Guided Reinforcement Learning for Robust Multi-Contact Loco-Manipulation](https://arxiv.org/abs/2410.13817)
 
 [2024] [WildLMa: Long Horizon Loco-Manipulation in the Wild](https://arxiv.org/abs/2411.15131)
+
+[2024] [Combining Planning and Diffusion for Mobility with Unknown Dynamics](https://arxiv.org/abs/2410.06911)

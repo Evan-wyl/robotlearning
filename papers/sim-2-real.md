@@ -84,6 +84,12 @@
 
 ### Domain Adaption
 
+[2017] [Few-Shot Adversarial Domain Adaptation](https://arxiv.org/abs/1711.02536)
+
+[2017] [Adversarial Discriminative Domain Adaptation](https://arxiv.org/abs/1702.05464)
+
+[2019] [Active Domain Randomization](https://arxiv.org/abs/1904.04762)
+
 [2024] [Domain Adaptation of Visual Policies with a Single Demonstration](https://arxiv.org/abs/2407.16820)
 
 

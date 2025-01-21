@@ -13,6 +13,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 **Better Result of Research Institute:**
 
 - [DeepMind](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/deepmind.md)
+- [Robotics at Google](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/google.md)
 - [Tencent-RoboticsX](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/tencent.md)
 - [Intel EAI Lab](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/institution/intel.md)
 

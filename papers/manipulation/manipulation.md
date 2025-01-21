@@ -4,6 +4,8 @@
 
 [2017] [Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://proceedings.mlr.press/v87/kalashnikov18a/kalashnikov18a.pdf)
 
+[2018] [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
+
 [2021] [Learning Visible Connectivity Dynamics for Cloth Smoothing](https://arxiv.org/abs/2105.10389)
 
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
@@ -15,6 +17,8 @@
 [2024] [Stabilizing Contrastive RL: Techniques for Robotic Goal Reaching from Offline Data](https://openreview.net/pdf?id=Xkf2EBj4w3)
 
 [2024] [Value-Penalized Auxiliary Control from Examples for Learning without Rewards or Demonstrations](https://arxiv.org/abs/2407.03311)
+
+[2024] [Continuous Control with Coarse-to-fine Reinforcement Learning](https://arxiv.org/abs/2407.07787)
 
 
 

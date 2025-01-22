@@ -34,8 +34,6 @@
 
 [2018] [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)
 
-[2024] [Reinforcement Learning with Action Sequence for Data-Efficient Robot Learning](https://arxiv.org/abs/2411.12155)
-
 
 
 ### Discretizing Action Space

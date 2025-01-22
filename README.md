@@ -63,10 +63,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped)
 - [Multi-embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
+- [Human Robot Collaboration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-collaboration.md)
+- [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/blob/master/papers/robot-learning-theory.md)
 
 ---
 
 - [Continual Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/continual-learning)
+- [Deep Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/continual-learning)
 - [Evolutionary Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/el.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
@@ -91,6 +94,8 @@ Papers, codes, datasets, tasks, applications, tutorials.
 ---
 
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
+- [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/navigation)
+- [Planning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/planning.md)
 - [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
 ---

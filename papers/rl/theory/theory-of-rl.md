@@ -20,6 +20,8 @@
 
 [2023] [An Open-Loop Baseline for Reinforcement Learning Locomotion Tasks](https://arxiv.org/abs/2310.05808)
 
+[2023] [Beyond Temporal Credit Assignment in Reinforcement Learning](https://openreview.net/forum?id=wEb6VYsaYx) 
+
 [2024] [Addressing Signal Delay in Deep Reinforcement Learning](https://openreview.net/pdf?id=Z8UfDs4J46)
 
 [2024] [RL, but don't do anything I wouldn't do](https://arxiv.org/abs/2410.06213)

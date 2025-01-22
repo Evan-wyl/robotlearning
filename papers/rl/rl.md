@@ -24,7 +24,7 @@
 
 
 
-### Policy-Gradient  Based Method
+### Policy-Gradient Based Method
 
 [2015] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
 
@@ -36,6 +36,8 @@
 
 [2018] [Maximum a Posteriori Policy Optimisation](https://arxiv.org/abs/1806.06920)
 
+[2018] [Boosting Trust Region Policy Optimization by Normalizing Flows Policy](https://arxiv.org/abs/1809.10326)
+
 [2020] [Phasic Policy Gradient](https://arxiv.org/abs/2009.04416)
 
 [2022] [Policy Gradient Algorithms with Monte Carlo Tree Learning for Non-Markov Decision Processes](https://arxiv.org/abs/2206.01011)
@@ -43,8 +45,6 @@
 [2023] [Uni-O4: Unifying Online and Offline Deep Reinforcement Learning with Multi-Step On-Policy Optimization](https://arxiv.org/abs/2311.03351)
 
 [2024] [SAPG: Split and Aggregate Policy Gradients](https://arxiv.org/abs/2407.20230)
-
-[2024] [Continuous Control with Coarse-to-fine Reinforcement Learning](https://arxiv.org/abs/2407.07787)
 
 
 
@@ -60,12 +60,6 @@
 
 [2018] [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/abs/1812.05905)
 
-[2018] [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)
-
-[2021] [What Matters for On-Policy Deep Actor-Critic Methods? A Large-Scale Study](https://openreview.net/pdf?id=nIAxjsniDzg)
-
-[2020] [Implementation Matters in Deep Policy Gradients: A Case Study on PPO and TRPO](https://arxiv.org/abs/2005.12729)
-
 [2020] [A Self-Tuning Actor-Critic Algorithm](https://arxiv.org/abs/2002.12928)
 
 [2022] [Monte Carlo Augmented Actor-Critic for Sparse Reward Deep Reinforcement Learning from Suboptimal Demonstrations](https://arxiv.org/abs/2210.07432)
@@ -75,10 +69,6 @@
 [2024] [Mixture of Experts in a Mixture of RL settings](https://arxiv.org/abs/2406.18420)
 
 [2024] [Off-Policy Actor-Critic with Emphatic Weightings](https://arxiv.org/abs/2111.08172)
-
-[2024] [Reinforcement Learning with Foundation Priors: Let the Embodied Agent Efficiently Learn on Its Own](https://arxiv.org/abs/2310.02635)
-
-[2024] [Reinforcement Learning with Action Sequence for Data-Efficient Robot Learning](https://arxiv.org/abs/2411.12155)
 
 
 

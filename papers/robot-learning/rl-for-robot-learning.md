@@ -1,4 +1,4 @@
-## RL for Robot Learning
+## Reinforcement Learning for Robot Learning
 
 [2017] [Asymmetric Actor Critic for Image-Based Robot Learning](https://arxiv.org/abs/1710.06542)
 

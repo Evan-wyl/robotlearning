@@ -1,4 +1,4 @@
-## RL for Continuous Control
+## Reinforcement Learning for Continuous Control
 
 ### Policy-Gradient  Based Method
 

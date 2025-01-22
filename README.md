@@ -59,21 +59,21 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
+- [Robot Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/robot-learning)
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped)
 - [Multi-embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
 - [Human Robot Collaboration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-collaboration.md)
-- [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/blob/master/papers/robot-learning-theory.md)
 
 ---
 
 - [Continual Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/continual-learning)
-- [Deep Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/continual-learning)
+- [Deep Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/deep-learning)
 - [Evolutionary Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/el.md)
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
-- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/rl)
+- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/reinforcement-learning)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/vision-rl)
 - [Robot Learning Theory](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/robot-learning-theory.md)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)

@@ -1,5 +1,13 @@
 ## Reinforcement Learning for Continuous Control
 
+### Q Learning
+
+[2021] [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](https://arxiv.org/abs/2111.02552)
+
+[2022] [Solving Continuous Control via Q-learning](https://arxiv.org/abs/2210.12566)
+
+
+
 ### Policy-Gradient  Based Method
 
 [2015] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
@@ -27,14 +35,6 @@
 [2018] [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)
 
 [2024] [Reinforcement Learning with Action Sequence for Data-Efficient Robot Learning](https://arxiv.org/abs/2411.12155)
-
-
-
-### Q Learning
-
-[2021] [Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies](https://arxiv.org/abs/2111.02552)
-
-[2022] [Solving Continuous Control via Q-learning](https://arxiv.org/abs/2210.12566)
 
 
 

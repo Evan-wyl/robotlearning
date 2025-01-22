@@ -2,8 +2,6 @@
 
 ### Reinforcement Learning
 
-[2017] [Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://proceedings.mlr.press/v87/kalashnikov18a/kalashnikov18a.pdf)
-
 [2018] [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
 
 [2021] [Learning Visible Connectivity Dynamics for Cloth Smoothing](https://arxiv.org/abs/2105.10389)

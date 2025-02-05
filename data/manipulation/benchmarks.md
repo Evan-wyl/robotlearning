@@ -8,3 +8,6 @@
 - [RoboCAS-v0](https://github.com/notFoundThisPerson/RoboCAS-v0):  Benchmark for Robotic Manipulation in Complex Object Arrangement Scenarios.
 - [RLBech](https://sites.google.com/view/rlbench): An ambitious large-scale benchmark and learning environment featuring 100 unique, hand-design tasks, tailored to facilitate research in a number of vision-guided manipulation research areas.
 
+---
+
+:speaker: ***If you would like to acquire benchmarks of vision-language-action model, please click here.***

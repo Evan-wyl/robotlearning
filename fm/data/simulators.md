@@ -1,4 +1,4 @@
-### Simulators
+## Simulators
 
 - [iGibson](https://svl.stanford.edu/igibson/): Interactive Simulation of Large Scale Virtualized Realistic Scenes for Robot Learning.
 - [Habitat](https://aihabitat.org/): An Embodied AI simulator for studying human-robot interaction at scale.

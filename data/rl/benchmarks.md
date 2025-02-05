@@ -7,13 +7,13 @@
 
 
 
-## Vision Reinforcement Learning
+### Vision Reinforcement Learning
 
 - [RL-ViGen](https://gemcollector.github.io/RL-ViGen/):  A Reinforcement Learning Benchmark for Visual Generalization.
 
 
 
-## Offline Reinforcement Learning
+### Offline Reinforcement Learning
 
 - [D4RL](https://sites.google.com/view/d4rl-anonymous/): A collection of benchmarks and datasets for offline reinforcement learning.
 - [D5RL](https://sites.google.com/view/d5rl/): Diverse Datasets for Data-Driven Deep Reinforcement Learning.

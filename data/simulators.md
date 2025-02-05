@@ -1,4 +1,4 @@
-# Simulators
+## Simulators
 
 - [DM-Control](https://github.com/google-deepmind/dm_control): Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo physics.
 - [Gym-Gazebo2](https://github.com/AcutronicRobotics/gym-gazebo2): a toolkit for developing and comparing reinforcement learning algorithms using ROS 2 and Gazebo.

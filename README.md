@@ -70,6 +70,20 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ---
 
+- [Generative Models and Applications](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models-and-applications)
+- [Diffusion Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
+- [Flow Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
+- [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)
+
+---
+
+- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
+- [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/navigation)
+- [Planning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/planning.md)
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
+
+---
+
 - [Continual Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/continual-learning)
 - [Deep Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/deep-learning)
 - [Evolutionary Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/el.md)
@@ -85,20 +99,6 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [White-Box Networks](https://github.com/Evan-wyl/robotlearning/tree/master/papers/white-box-networks)
 - [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
 - [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
-
----
-
-- [Generative Models and Applications](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models-and-applications)
-- [Diffusion Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
-- [Flow Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
-- [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)
-
----
-
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
-- [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/navigation)
-- [Planning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/planning.md)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 
 ---
 
@@ -132,7 +132,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/re
 - Awesome RL,IL,IRL Implementation
 - Awesome Papers' Repository of Robot Learning Relevant Areas
 
-, and [Reinforcement Learning Framework](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/rl-framework.md).
+, and [Reinforcement Learning Framework](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/reinforcement-learning-framework.md).
 
 
 

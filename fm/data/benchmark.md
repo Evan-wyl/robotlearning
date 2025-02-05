@@ -1,22 +1,13 @@
 ## Benchmark
 
-***X  Open represents whether the dataset is open source,#.X represents the quantity of X, and#.A represents the quantity of Action***
+- [ALFRED](https://askforalfred.com/): A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.
 
-|                             Name                             |  X Open  | #.X  | #.A  | Type          | Language | Multi Camera | Fluid | Physics | Continuous | Scenes | Robot | Rendering | Flexible Material | Generalization |
-| :----------------------------------------------------------: | :------: | :--: | :--: | ------------- | :------: | :----------: | :---: | :-----: | :--------: | ------ | ----- | --------- | ----------------- | -------------- |
-|             [Alfred](https://askforalfred.com/)              |          |      |      |               | &#x2714; |              |       |         |            |        |       |           |                   |                |
-|        [ARNOLD](https://arnold-benchmark.github.io/)         | &#x2714; |      |      |               | &#x2714; |   &#x2714;   |       |         |            |        |       |           |                   |                |
-|          [Behavior](https://behavior.stanford.edu/)          |          |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-|         [CALVIN](http://calvin.cs.uni-freiburg.de/)          | &#x2714; |      |      |               | &#x2714; |   &#x2714;   |       |         |            |        |       |           |                   |                |
-|            [Habitat HAB](https://aihabitat.org/)             |          |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-|  [KitchenShift](https://openreview.net/pdf?id=DdglKo8hBq0)   |          |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-|     [LoTa](https://github.com/lbaa2022/LLMTaskPlanning)      |          |      |      | Task Planning |          |              |       |         |            |        |       |           |                   |                |
-|          [Maniskill](https://maniskill2.github.io/)          |          |      |      |               |          |   &#x2714;   |       |         |            |        |       |           |                   |                |
-|           [Orbit](https://isaac-orbit.github.io/)            |          |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-|       [RLBench](https://sites.google.com/view/rlbench)       |          |      |      |               | &#x2714; |   &#x2714;   |       |         |            |        |       |           |                   |                |
-|             [Ravens](https://cliport.github.io/)             |          |      |      |               | &#x2714; |   &#x2714;   |       |         |            |        |       |           |                   |                |
-|       [Softgym](https://sites.google.com/view/softgym)       |          |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-|        [TDW Transport](https://www.threedworld.org/)         |          |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-|     [VIMA-Bench](https://github.com/vimalabs/VimaBench)      | &#x2714; |      |      |               |          |              |       |         |            |        |       |           |                   |                |
-| [Vlmbench](https://sites.google.com/ucsc.edu/vlmbench/home)  |          |      |      |               | &#x2714; |   &#x2714;   |       |         |            |        |       |           |                   |                |
-| [VSI-Bench](https://vision-x-nyu.github.io/thinking-in-space.github.io/) | &#x2714; |      |      |               |          |              |       |         |            |        |       |           |                   |                |
+- [ARNOLD](https://arnold-benchmark.github.io/): A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes.
+- [BEHAVIOR](https://behavior.stanford.edu/): Benchmark for Everyday Household Activities in Virtual, Interactive, and Ecological Environments
+- [Calvin](http://calvin.cs.uni-freiburg.de/): A Benchmark for Language-conditioned Policy Learning for Long-horizon Robot Manipulation Tasks.
+- [KitchenShift](https://openreview.net/pdf?id=DdglKo8hBq0): Evaluating Zero-Shot Generalization of Imitation-Based Policy Learning Under Domain Shifts.
+- [LoTa-Bench](https://github.com/lbaa2022/LLMTaskPlanning): Benchmarking Language-oriented Task Planners for Embodied Agents.
+- [ManiSkill2](https://maniskill2.github.io/): A Unified Benchmark for Generalizable Manipulation Skills.
+- [VIMA-Bench](https://github.com/vimalabs/VIMABench): Benchmark for Multimodal Robot Learning.
+- [VLMbench](https://sites.google.com/ucsc.edu/vlmbench/home):  A Compositional Benchmark for Vision-and-Language Manipulation.
+

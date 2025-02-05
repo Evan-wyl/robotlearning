@@ -22,12 +22,3 @@
 
 [2024] [Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning](https://arxiv.org/abs/2410.16162)
 
-
-
-
-
-### Benchmark
-
-[2023] [Evaluating Spatial Understanding of Large Language Models](https://arxiv.org/abs/2310.14540)
-
-[2024] [Does Spatial Cognition Emerge in Frontier Models?](https://arxiv.org/abs/2410.06468)

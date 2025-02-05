@@ -1,4 +1,4 @@
-## Benchmark
+## Benchmarks
 
 - [ReALFRED](https://twoongg.github.io/projects/realfred/): An Embodied Instruction Following Benchmark in Photo-Realistic Environments
 

@@ -1,4 +1,4 @@
-## Benchmark
+## Benchmarks
 
 - [ALFRED](https://askforalfred.com/): A Benchmark for Interpreting Grounded Instructions for Everyday Tasks.
 

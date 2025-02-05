@@ -1,4 +1,4 @@
-## Benchmark
+## Benchmarks
 
 ### Spatial Understanding and Reasoning
 

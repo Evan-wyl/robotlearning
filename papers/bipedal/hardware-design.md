@@ -4,6 +4,8 @@
 
 [2024] [The NING Humanoid: The Concurrent Design and Development of a Dynamic and Agile Platform](https://arxiv.org/abs/2408.01056)
 
+[2025] [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://arxiv.org/abs/2502.00893)
+
 
 
 ### Sensors

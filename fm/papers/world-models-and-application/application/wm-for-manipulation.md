@@ -5,3 +5,5 @@
 [2024] [Multi-Task Interactive Robot Fleet Learning with Visual World Models](https://arxiv.org/abs/2410.22689)
 
 [2024] [PIVOT-R: Primitive-Driven Waypoint-Aware World Model for Robotic Manipulation](https://arxiv.org/abs/2410.10394)
+
+[2025] [Strengthening Generative Robot Policies through Predictive World Modeling](https://arxiv.org/abs/2502.00622)

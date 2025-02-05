@@ -18,6 +18,8 @@
 
 [2024] [Adapting Pretrained ViTs with Convolution Injector for Visuo-Motor Control](https://arxiv.org/abs/2406.06072)
 
+[2025] [Bridging the Sim2Real Gap: Vision Encoder Pre-Training for Visuomotor Policy Transfer](https://arxiv.org/abs/2501.16389)
+
 
 
 ### Dense Correspondence Learning

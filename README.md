@@ -115,10 +115,14 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/re
 - Tutorials
 - Awesome URDF and MJCF
 - Awesome Toolkit
-- Awesome RL,IL,IRL Implementation
 - Awesome Papers' Repository of Robot Learning Relevant Areas
 
-, and [Reinforcement Learning Framework](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/reinforcement-learning-framework.md).
+Absolutely, you could also acquire:
+
+- [Framework of Imitation Learning](https://github.com/Evan-wyl/robotlearning/blob/master/docs/imitation-learning-framework.md)
+- [Framework of Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/docs/reinforcement-learning-framework.md)
+- [Resources of Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/blob/master/docs/reinforcement-learning-resources.md)
+- [Resources of Perception](https://github.com/Evan-wyl/robotlearning/blob/master/docs/perception-resources.md)
 
 
 

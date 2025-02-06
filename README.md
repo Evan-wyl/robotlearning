@@ -25,7 +25,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 0.Survey
+## 0. Survey
 
 [2020] [Automatic Curriculum Learning For Deep RL: A Short Survey](https://arxiv.org/abs/2003.04664)
 
@@ -57,7 +57,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 
 
-## 1.Research Areas and Papers
+## 1. Research Areas and Papers
 
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
@@ -65,22 +65,25 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
 - [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped)
-- [Multi-embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
-- [Human Robot Collaboration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-collaboration.md)
+- [Cross-Embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
+- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
+- [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)
 
 ---
 
-- [Generative Models and Applications](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models-and-applications)
-- [Diffusion Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
-- [Flow Model and Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
-- [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)
+- [Generative Models and its Application](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models-and-application)
+- [Diffusion Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
+- [Flow Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
+- [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
+- [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
 
 ---
 
+- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
 - [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/navigation)
 - [Planning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/planning.md)
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
+- [Human Robot Collaboration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-collaboration.md)
 
 ---
 
@@ -91,38 +94,21 @@ Papers, codes, datasets, tasks, applications, tutorials.
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/reinforcement-learning)
 - [Vision Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/vision-rl)
-- [Robot Learning Theory](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/robot-learning-theory.md)
-- [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 
 ---
 
+- [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)
 - [White-Box Networks](https://github.com/Evan-wyl/robotlearning/tree/master/papers/white-box-networks)
-- [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
-- [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
-
----
-
-- [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)
 
 
 
-## 2.Code
-
-- [Bepidal](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bepidal.md)
-- [Bimanual](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/bimanual.md)
-- [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/manipulation)
-- [Planning](https://github.com/Evan-wyl/Robot-Learning/blob/master/codes/planning.md)
-- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes/quadruped)
-
-
-
-## 3.Datasets and Benchmarks
+## 2. Datasets, Benchmarks, and Simulators
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, simulator and benchmark** results. The links of datasets only are acquired by summarizing survey papers. If you would need more, you can acquire it by linking [codes.](https://github.com/Evan-wyl/Robot-Learning/tree/master/codes)  
 
 
 
-## 4.Relevant Resources
+## 3. Relevant Resources
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/resources.md) for some awesome relevant resources, such as
 
@@ -136,7 +122,7 @@ Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/docs/re
 
 
 
-## 5.Contributing
+## 4. Contributing
 
 If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/CONTRIBUTING.md) for instructions in contribution.
 

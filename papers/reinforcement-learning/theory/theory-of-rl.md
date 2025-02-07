@@ -14,6 +14,8 @@
 
 [2019] [On Inductive Biases in Deep Reinforcement Learning](https://arxiv.org/abs/1907.02908)
 
+[2019] [Hyperbolic Discounting and Learning over Multiple Horizons](https://arxiv.org/abs/1902.06865)
+
 [2020] [Leverage the Average: an Analysis of KL Regularization in RL](https://arxiv.org/abs/2003.14089)
 
 [2021] [How to Train Your Robot with Deep Reinforcement Learning; Lessons We've Learned](https://arxiv.org/abs/2102.02915)

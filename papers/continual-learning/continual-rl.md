@@ -18,6 +18,8 @@
 
 ### Theory 
 
+[2019] [Discounted Reinforcement Learning Is Not an Optimization Problem](https://arxiv.org/abs/1910.02140)
+
 [2023] [Loss of Plasticity in Continual Deep Reinforcement Learning](https://arxiv.org/abs/2303.07507)
 
 

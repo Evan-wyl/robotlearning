@@ -12,7 +12,7 @@ Papers, datasets, applications, tutorials.
 
 **Better Publications on Top Journals:**
 
-- Nature
+- [Nature Machine Intelligence](https://github.com/Evan-wyl/robotlearning/blob/master/papers/top-journals/nature.md)
 
 ---
 

@@ -28,6 +28,8 @@
 
 [2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://arxiv.org/abs/2408.14472)
 
+[2025] [Learning](https://arxiv.org/abs/2502.08378) Humanoid Standing-up Control across Diverse Postures
+
 
 
 ### Multi-Objective Reinforcement Learning

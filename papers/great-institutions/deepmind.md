@@ -61,3 +61,9 @@
 ### Video Generation
 
 [2024] [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700)
+
+
+
+### Data Processing
+
+[2025] [Robot Data Curation with Mutual Information Estimators](https://arxiv.org/abs/2502.08623)

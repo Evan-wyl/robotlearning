@@ -11,3 +11,9 @@
 ### Sensors
 
 [2024] [ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning](https://arxiv.org/abs/2412.00396)
+
+
+
+### Humanoid Teleoperation
+
+[2025] [HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://arxiv.org/abs/2502.13013)

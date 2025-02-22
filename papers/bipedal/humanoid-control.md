@@ -28,7 +28,11 @@
 
 [2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://arxiv.org/abs/2408.14472)
 
-[2025] [Learning](https://arxiv.org/abs/2502.08378) Humanoid Standing-up Control across Diverse Postures
+[2024] [Leveraging Symmetry in RL-based Legged Locomotion Control](https://arxiv.org/abs/2403.17320)
+
+[2025] [Learning Humanoid Standing-up Control across Diverse Postures](https://arxiv.org/abs/2502.08378)
+
+[2025] [BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds](https://arxiv.org/abs/2502.10363)
 
 
 

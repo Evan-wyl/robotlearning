@@ -44,6 +44,10 @@
 
 [2024] [Fast and Robust Visuomotor Riemannian Flow Matching Policy](https://arxiv.org/abs/2412.10855)
 
+[2025] [IMLE Policy: Fast and Sample Efficient Visuomotor Policy Learning via Implicit Maximum Likelihood Estimation](https://arxiv.org/abs/2502.12371)
+
+[2025] [AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning](https://arxiv.org/abs/2502.11124)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

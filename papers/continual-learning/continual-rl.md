@@ -16,6 +16,12 @@
 
 
 
+### Survey
+
+[2022] [Towards Continual Reinforcement Learning: A Review and Perspectives](https://arxiv.org/abs/2012.13490)
+
+
+
 ### Theory 
 
 [2019] [Discounted Reinforcement Learning Is Not an Optimization Problem](https://arxiv.org/abs/1910.02140)

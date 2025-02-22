@@ -9,3 +9,9 @@
 ### Methods
 
 [2024] [Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration](https://arxiv.org/abs/2411.02599)
+
+
+
+### Benchmark
+
+[2025] [PARTNR: A Benchmark for Planning and Reasoning in Embodied Multi-agent Tasks](https://ai.meta.com/research/publications/partnr-a-benchmark-for-planning-and-reasoning-in-embodied-multi-agent-tasks/)

@@ -28,6 +28,8 @@
 
 [2024] [Towards Generalist Robot Policies: What Matters in Building Vision-Language-Action Models](https://arxiv.org/abs/2412.14058)
 
+[2025] [VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](https://arxiv.org/abs/2502.13508)
+
 
 
 ### Latent Action

@@ -12,6 +12,8 @@
 
 ### Reinforcement Learning
 
+[2021] [Reward-Adaptive Reinforcement Learning: Dynamic Policy Gradient Optimization for Bipedal Locomotion](https://arxiv.org/abs/2107.01908)
+
 [2023] Robust and versatile bipedal jumping control through multi-task reinforcement learning
 
 [2024] [Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation](https://arxiv.org/abs/2403.04436)

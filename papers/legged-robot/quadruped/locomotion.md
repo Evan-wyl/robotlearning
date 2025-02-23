@@ -4,8 +4,6 @@
 
 [2017] [Preparing for the Unknown: Learning a Universal Policy with Online System Identification](https://arxiv.org/abs/1702.02453)
 
-[2019] [Robust Recovery Controller for a Quadrupedal Robot using Deep Reinforcement Learning](https://arxiv.org/abs/1901.07517)
-
 [2020] [Dynamics Randomization Revisited:A Case Study for Quadrupedal Locomotion](https://arxiv.org/abs/2011.02404)
 
 [2021] [RMA: Rapid Motor Adaptation for Legged Robots](https://arxiv.org/abs/2107.04034)
@@ -18,7 +16,7 @@
 
 [2022] [Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion](https://arxiv.org/abs/2202.05481)
 
-[2022] [Legged Locomotion in Challenging Terrains using Egocentric Vision](https://arxiv.org/abs/2211.07638)
+[2023] [Learning Robust, Agile, Natural Legged Locomotion Skills in the Wild](https://arxiv.org/abs/2304.10888)
 
 [2023] [Extreme Parkour with Legged Robots](https://arxiv.org/abs/2309.14341)
 
@@ -34,8 +32,6 @@
 
 [2024] [PA-LOCO: Learning Perturbation-Adaptive Locomotion for Quadruped Robots](https://arxiv.org/abs/2407.04224)
 
-[2024] [Agile Continuous Jumping in Discontinuous Terrains](https://arxiv.org/abs/2409.10923)
-
 [2024] [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience](https://arxiv.org/abs/2409.13678)
 
 [2024] [Obstacle-Aware Quadrupedal Locomotion With Resilient Multi-Modal Reinforcement Learning](https://arxiv.org/abs/2409.19709)
@@ -43,6 +39,8 @@
 [2024] [Reinforcement Learning For Quadrupedal Locomotion: Current Advancements And Future Perspectives](https://arxiv.org/abs/2410.10438)
 
 [2024] [Reinforcement Learning from Wild Animal Videos](https://arxiv.org/abs/2412.04273)
+
+[2024] [RobotKeyframing: Learning Locomotion with High-Level Objectives via Mixture of Dense and Sparse Rewards](https://arxiv.org/abs/2407.11562)
 
 [2025] [SATA: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning](https://arxiv.org/abs/2502.12674)
 

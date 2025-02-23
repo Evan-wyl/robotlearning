@@ -68,9 +68,8 @@ Papers, datasets, applications, tutorials.
 :speaker: ***There are just some pretty papers for beginners and interested figures.***
 
 - [Robot Learning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/robot-learning)
-- [Bipedal](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/bipedal)
+- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/legged-robot)
 - [Manipulation](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulation)
-- [Quadruped](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/quadruped)
 - [Cross-Embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)

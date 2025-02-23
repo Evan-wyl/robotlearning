@@ -22,17 +22,9 @@
 
 [2024] [CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning](https://arxiv.org/abs/2309.17046)
 
-[2024] [Learning Generic and Dynamic Locomotion of Humanoids Across Discrete Terrains](https://arxiv.org/abs/2405.17227)
-
 [2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
-[2024] [Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning](https://arxiv.org/abs/2408.14472)
 
-[2024] [Leveraging Symmetry in RL-based Legged Locomotion Control](https://arxiv.org/abs/2403.17320)
-
-[2025] [Learning Humanoid Standing-up Control across Diverse Postures](https://arxiv.org/abs/2502.08378)
-
-[2025] [BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds](https://arxiv.org/abs/2502.10363)
 
 
 

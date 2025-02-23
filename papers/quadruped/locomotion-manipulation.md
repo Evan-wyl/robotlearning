@@ -25,3 +25,5 @@
 [2024] [WildLMa: Long Horizon Loco-Manipulation in the Wild](https://arxiv.org/abs/2411.15131)
 
 [2024] [Combining Planning and Diffusion for Mobility with Unknown Dynamics](https://arxiv.org/abs/2410.06911)
+
+[2025] [Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation](https://arxiv.org/abs/2502.10894)

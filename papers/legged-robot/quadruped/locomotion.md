@@ -44,8 +44,6 @@
 
 [2024] [Reinforcement Learning from Wild Animal Videos](https://arxiv.org/abs/2412.04273)
 
-[2025] [VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion](https://arxiv.org/abs/2502.01536)
-
 [2025] [SATA: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning](https://arxiv.org/abs/2502.12674)
 
 

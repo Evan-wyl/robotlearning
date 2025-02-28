@@ -88,7 +88,7 @@ Papers, datasets, applications, tutorials.
 - [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
 - [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/navigation)
 - [Planning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/planning.md)
-- [Human Robot Collaboration](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-collaboration.md)
+- [Human Robot Interaction](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-interaction.md)
 
 ---
 

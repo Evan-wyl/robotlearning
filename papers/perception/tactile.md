@@ -6,6 +6,8 @@
 
 [2025] [AnyTouch: Learning Unified Static-Dynamic Representation across Multiple Visuo-tactile Sensors](https://arxiv.org/abs/2502.12191)
 
+[2025] [Sensor-Invariant Tactile Representation](https://arxiv.org/abs/2502.19638)
+
 
 
 ### Hardware

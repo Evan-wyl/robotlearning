@@ -30,6 +30,10 @@
 
 [2025] [VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation](https://arxiv.org/abs/2502.13508)
 
+[2025] [Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success](https://arxiv.org/abs/2502.19645)
+
+[2025] [ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration](https://arxiv.org/abs/2502.19250)
+
 
 
 ### Latent Action

@@ -22,6 +22,8 @@
 
 [2024] [Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction](https://arxiv.org/abs/2409.18121)
 
+[2025] [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning](https://arxiv.org/abs/2502.17432)
+
 
 
 ### ALOHAs

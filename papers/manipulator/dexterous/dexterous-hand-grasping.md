@@ -9,3 +9,7 @@
 [2024] [FFHFlow: A Flow-based Variational Approach for Multi-fingered Grasp Synthesis in Real Time](https://arxiv.org/abs/2407.15002)
 
 [2024] [A Surprisingly Efficient Representation for Multi-Finger Grasping](https://arxiv.org/abs/2408.02455)
+
+[2025] [AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency](https://arxiv.org/abs/2502.16420)
+
+[2025] [Multi-Keypoint Affordance Representation for Functional Dexterous Grasping](https://arxiv.org/abs/2502.20018)

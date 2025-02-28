@@ -48,6 +48,10 @@
 
 [2025] [AdaManip: Adaptive Articulated Object Manipulation Environments and Policy Learning](https://arxiv.org/abs/2502.11124)
 
+[2025] [Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach](https://arxiv.org/abs/2502.15613)
+
+[2025] [DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning](https://arxiv.org/abs/2502.16932)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

@@ -67,3 +67,9 @@
 ### Data Processing
 
 [2025] [Robot Data Curation with Mutual Information Estimators](https://arxiv.org/abs/2502.08623)
+
+
+
+### RL
+
+[2025] [Stop Regressing: Training Value Functions via Classification for Scalable Deep RL](https://arxiv.org/abs/2403.03950)

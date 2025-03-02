@@ -98,7 +98,6 @@ Papers, datasets, applications, tutorials.
 - [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
 - [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
 - [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/reinforcement-learning)
-- [Vision Reinforcement Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/vision-rl)
 
 ---
 

@@ -10,6 +10,8 @@
 
 [2024] [DeformPAM: Data-Efficient Learning for Long-horizon Deformable Object Manipulation via Preference-based Action Alignment](https://arxiv.org/abs/2410.11584)
 
+[2025] [One-Shot Affordance Grounding of Deformable Objects in Egocentric Organizing Scenes](https://www.arxiv.org/abs/2503.01092)
+
 
 
 ### Representation Learning

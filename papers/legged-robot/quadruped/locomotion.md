@@ -44,6 +44,8 @@
 
 [2025] [SATA: Safe and Adaptive Torque-Based Locomotion Policies Inspired by Animal Learning](https://arxiv.org/abs/2502.12674)
 
+[2025] [DFM: Deep Fourier Mimic for Expressive Dance Motion Learning](https://arxiv.org/abs/2502.10980)
+
 
 
 ### Multi-Objective Reinforcement Learning

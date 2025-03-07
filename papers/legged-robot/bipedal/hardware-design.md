@@ -6,6 +6,8 @@
 
 [2025] [ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation](https://arxiv.org/abs/2502.00893)
 
+[2025] [BodyGen: Advancing Towards Efficient Embodiment Co-Design](https://arxiv.org/abs/2503.00533)
+
 
 
 ### Sensors

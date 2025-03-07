@@ -8,3 +8,4 @@
 
 [2024] [LEGATO: Cross-Embodiment Imitation Using a Grasping Tool](https://arxiv.org/abs/2411.03682)
 
+[2025] [Shadow: Leveraging Segmentation Masks for Cross-Embodiment Policy Transfer](https://arxiv.org/abs/2503.00774)

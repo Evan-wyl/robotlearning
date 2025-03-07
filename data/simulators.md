@@ -17,6 +17,12 @@
 
 
 
+### Task Planning in Manipulation
+
+- [MuBlE](https://arxiv.org/abs/2503.02834): MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation
+
+
+
 ### Tactile Simulation
 
 - [TacEx](https://arxiv.org/abs/2411.04776): GelSight Tactile Simulation in Isaac Sim -- Combining Soft-Body and Visuotactile Simulators

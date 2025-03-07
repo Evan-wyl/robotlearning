@@ -18,6 +18,8 @@
 
 [2024] [Continuous Control with Coarse-to-fine Reinforcement Learning](https://arxiv.org/abs/2407.07787)
 
+[2025] [Multi-Stage Manipulation with Demonstration-Augmented Reward, Policy, and World Model Learning](https://arxiv.org/abs/2503.01837)
+
 
 
 ### Imitation Learning
@@ -51,6 +53,8 @@
 [2025] [Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach](https://arxiv.org/abs/2502.15613)
 
 [2025] [DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning](https://arxiv.org/abs/2502.16932)
+
+[2025] [Phantom: Training Robots Without Robots Using Only Human Videos](https://arxiv.org/abs/2503.00779)
 
 #### Universal Policy
 

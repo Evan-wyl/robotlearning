@@ -10,6 +10,8 @@
 
 [2024] [Vocal Sandbox: Continual Learning and Adaptation for Situated Human-Robot Collaboration](https://arxiv.org/abs/2411.02599)
 
+[2025] [FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction](https://arxiv.org/abs/2503.01363)
+
 
 
 ### Benchmark

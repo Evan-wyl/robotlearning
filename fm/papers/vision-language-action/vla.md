@@ -34,6 +34,8 @@
 
 [2025] [ObjectVLA: End-to-End Open-World Object Manipulation Without Demonstration](https://arxiv.org/abs/2502.19250)
 
+[2025] [GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation](https://arxiv.org/abs/2502.09268)
+
 
 
 ### Latent Action

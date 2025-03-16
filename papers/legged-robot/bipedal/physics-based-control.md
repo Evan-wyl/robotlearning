@@ -8,6 +8,8 @@
 
 [2023] [C⋅ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters](https://arxiv.org/abs/2309.11351)
 
+[2023] [CALM: Conditional Adversarial Latent Models for Directable Virtual Characters](https://arxiv.org/abs/2305.02195)
+
 [2024] [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
 
 
@@ -40,7 +42,7 @@
 
 ### Multi-Modal-directed Controllers
 
-[2024] [MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting](https://research.nvidia.com/labs/par/maskedmimic/assets/SIGGRAPHAsia2024_MaskedMimic.pdf)
+[2024] [MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting](https://arxiv.org/abs/2409.14393)
 
 
 

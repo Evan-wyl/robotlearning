@@ -46,6 +46,8 @@
 
 [2025] [DFM: Deep Fourier Mimic for Expressive Dance Motion Learning](https://arxiv.org/abs/2502.10980)
 
+[2025] [Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds](https://arxiv.org/abs/2503.08997)
+
 
 
 ### Multi-Objective Reinforcement Learning

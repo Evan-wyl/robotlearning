@@ -7,3 +7,5 @@
 [2024] [Keypoint Abstraction using Large Models for Object-Relative Imitation Learning](https://arxiv.org/abs/2410.23254)
 
 [2025] [SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation](https://arxiv.org/abs/2502.13143)
+
+[2025] [KUDA: Keypoints to Unify Dynamics Learning and Visual Prompting for Open-Vocabulary Robotic Manipulation](https://arxiv.org/abs/2503.10546)

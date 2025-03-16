@@ -1,4 +1,4 @@
-## Bimanual
+## Bimanual Manipulation
 
 [2017] [Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics](https://arxiv.org/abs/1703.09312)
 

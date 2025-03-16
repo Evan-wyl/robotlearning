@@ -13,3 +13,5 @@
 [2025] [AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency](https://arxiv.org/abs/2502.16420)
 
 [2025] [Multi-Keypoint Affordance Representation for Functional Dexterous Grasping](https://arxiv.org/abs/2502.20018)
+
+[2025] [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/abs/2503.08257)

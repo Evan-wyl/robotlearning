@@ -10,6 +10,8 @@
 
 [2024] [Sapiens: Foundation for Human Vision Models](https://arxiv.org/abs/2408.12569)
 
+[2025] [A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning](https://arxiv.org/abs/2503.06960)
+
 
 
 ### Survey

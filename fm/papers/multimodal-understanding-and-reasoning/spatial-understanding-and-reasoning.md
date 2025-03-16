@@ -6,6 +6,8 @@
 
 [2024] [Coarse Correspondences Boost Spatial-Temporal Reasoning in Multimodal Language Model](https://arxiv.org/abs/2408.00754)
 
+[2025] [Towards Ambiguity-Free Spatial Foundation Model: Rethinking and Decoupling Depth Ambiguity](https://arxiv.org/abs/2503.06014)
+
 
 
 

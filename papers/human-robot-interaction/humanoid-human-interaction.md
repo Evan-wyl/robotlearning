@@ -2,6 +2,10 @@
 
 [2025] [RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations](https://arxiv.org/abs/2502.13134)
 
+[2025] [Joint Decision-Making in Robot Teleoperation: When are Two Heads Better Than One?](https://arxiv.org/abs/2503.15510)
+
+[2025] [ImageInThat: Manipulating Images to Convey User Instructions to Robots](https://arxiv.org/abs/2503.15500)
+
 
 
 ### Datasets

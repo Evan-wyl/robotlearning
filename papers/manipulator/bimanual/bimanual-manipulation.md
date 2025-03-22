@@ -24,6 +24,8 @@
 
 [2025] [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning](https://arxiv.org/abs/2502.17432)
 
+[2025] [Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation](https://arxiv.org/abs/2503.10743)
+
 
 
 ### ALOHAs

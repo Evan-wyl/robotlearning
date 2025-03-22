@@ -56,6 +56,8 @@
 
 [2025] [Phantom: Training Robots Without Robots Using Only Human Videos](https://arxiv.org/abs/2503.00779)
 
+[2025] [Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations](https://arxiv.org/abs/2503.12297)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

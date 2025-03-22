@@ -12,6 +12,12 @@
 
 
 
+### Cross Embodiment
+
+[2025] [Humanoid Policy ~ Human Policy](https://arxiv.org/abs/2503.13441)
+
+
+
 ### High-Precision Manipulation
 
 [2025] [High-Precision Transformer-Based Visual Servoing for Humanoid Robots in Aligning Tiny Objects](https://arxiv.org/abs/2503.04862)

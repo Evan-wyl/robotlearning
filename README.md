@@ -20,6 +20,7 @@ Papers, datasets, applications, tutorials.
 
 - [DeepMind](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/deepmind.md)
 - [Robotics at Google](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/google.md)
+- [Navidia](https://github.com/Evan-wyl/robotlearning/blob/master/papers/great-institutions/nvidia.md)
 - [Tencent-RoboticsX](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/tencent.md)
 - [Intel EAI Lab](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/intel.md)
 - [Meta](https://github.com/Evan-wyl/robotlearning/blob/master/papers/great-institutions/meta.md)

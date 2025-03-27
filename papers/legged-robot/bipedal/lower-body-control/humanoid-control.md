@@ -24,20 +24,6 @@
 
 
 
-
-
 ### Multi-Objective Reinforcement Learning
 
 [2024] [Stage-Wise Reward Shaping for Acrobatic Robots: A Constrained Multi-Objective Reinforcement Learning Approach](https://arxiv.org/abs/2409.15755)
-
-
-
-### Imitation Learning
-
-[2024] [HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation](https://arxiv.org/abs/2309.14225)
-
-
-
-### Humanoid Control with LLM
-
-[2023] [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/abs/2310.06226)

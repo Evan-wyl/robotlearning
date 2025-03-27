@@ -32,6 +32,8 @@
 
 [2021] [From Motor Control to Team Play in Simulated Humanoid Football](https://arxiv.org/abs/2105.12196)
 
+[2022] [Imitate and Repurpose: Learning Reusable Robot Movement Skills From Human and Animal Behaviors](https://arxiv.org/abs/2203.17138)
+
 [2023] [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
 
 [2024] [Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning](https://arxiv.org/abs/2304.13653)

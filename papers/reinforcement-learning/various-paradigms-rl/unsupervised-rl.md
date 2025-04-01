@@ -4,15 +4,13 @@
 
 
 
-### Zero-Shot RL
-
-[2023] [Does Zero-Shot Reinforcement Learning Exist?](https://arxiv.org/abs/2209.14935)
-
-[2024] [Unsupervised Zero-Shot Reinforcement Learning via Functional Reward Encodings](https://arxiv.org/abs/2402.17135)
-
-
-
 ### Pretraining Representation
+
+[2018] [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070)
+
+[2021] [Pretraining Representations for Data-Efficient Reinforcement Learning](https://arxiv.org/abs/2106.04799)
+
+[2021] [Learning One Representation to Optimize All Rewards](https://arxiv.org/abs/2103.07945)
 
 [2023] [Proto-Value Networks: Scaling Representation Learning with Auxiliary Tasks](https://arxiv.org/abs/2304.12567)
 

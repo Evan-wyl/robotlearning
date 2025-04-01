@@ -2,6 +2,8 @@
 
 [2023] [Universal Humanoid Motion Representations for Physics-Based Control](https://arxiv.org/abs/2310.04582)
 
+[2024] [Grasping Diverse Objects with Simulated Humanoids](https://arxiv.org/abs/2407.11385)
+
 
 
 ### GAN-based Method
@@ -16,7 +18,11 @@
 
 ### VAE-based Method
 
+[2022] [Leveraging Demonstrations with Latent Space Priors](https://arxiv.org/abs/2210.14685)
+
 [2022] [Physics-based Character Controllers Using Conditional VAEs](https://dl.acm.org/doi/pdf/10.1145/3528223.3530067)
+
+[2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
 
 
 

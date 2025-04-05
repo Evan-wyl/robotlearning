@@ -1,4 +1,4 @@
-## Quadruped Locomotion and Manipulation
+## Locomotion and Manipulation
 
 [2022] [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://arxiv.org/abs/2210.10044)
 

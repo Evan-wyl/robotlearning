@@ -4,9 +4,10 @@
 
 Papers, codes, datasets, tasks, applications, tutorials.
 
-**Widely used by top conferences and journals:**
+**Widely used by top conferences, journals and workshops:**
 
-- Top Conferences: [[ICML MFM-EAI Workshop](https://icml-mfm-eai.github.io/)]
+- Conferences: [[ICML](https://icml.cc/)] [[CVPR](https://cvpr.thecvf.com/)] 
+- Workshops: : [[MFM-EAI](https://icml-mfm-eai.github.io/)] [[Embodied-AI](https://embodied-ai.org/)]
 
 
 

@@ -14,3 +14,10 @@
 
 [2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
 
+
+
+### Diffusion Method
+
+[2024] [PDP: Physics-Based Character Animation via Diffusion Policy](https://arxiv.org/abs/2406.00960)
+
+[2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/RobotMDM_2.pdf)

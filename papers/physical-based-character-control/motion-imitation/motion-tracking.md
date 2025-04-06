@@ -1,6 +1,6 @@
 ## Motion Tracking
 
-[2018] [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skill](*https://arxiv.org/abs/1804.02717*)
+[2018] [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skill](https://arxiv.org/abs/1804.02717)
 
 
 

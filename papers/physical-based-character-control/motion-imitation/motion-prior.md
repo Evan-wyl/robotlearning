@@ -1,10 +1,4 @@
-## Motion Imitation
-
-### Motion Clips Imitation
-
-[2018] [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skill](*https://arxiv.org/abs/1804.02717*)
-
-
+## Motion Prior
 
 ### Adversarial Method
 
@@ -23,6 +17,4 @@
 [2023] [Neural Categorical Priors for Physics-Based Character Control](https://arxiv.org/abs/2308.07200)
 
 [2023] [Universal Humanoid Motion Representations for Physics-Based Control](https://arxiv.org/abs/2310.04582)
-
-[2024] [VMP: Versatile Motion Priors for Robustly Tracking Motion on Physical Characters](https://la.disneyresearch.com/wp-content/uploads/VMP_paper.pdf)
 

@@ -74,7 +74,7 @@ Papers, datasets, applications, tutorials.
 - [Cross-Embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
 - [Sim-to-Real Transfer](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
 - [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)
-- [Animated Character Control](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/animated-character-control)
+- [Physical-based Character Control](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/physical-based-character-control)
 
 ---
 

@@ -3,10 +3,11 @@
 
 Papers, datasets, applications, tutorials.
 
-**Widely used by top conferences and journals:**
+**Widely used by top conferences, journals and workshops:**
 
 - Conferences: [[CoRL](https://www.corl.org/)] [[RSS](https://roboticsconference.org/)] [[CoLLAs](https://lifelong-ml.cc/)] [[ICML](https://icml.cc/)] [[ICLR](https://iclr.cc/)]  [[NeurlPS](https://nips.cc/)]  [[PMLR](https://proceedings.mlr.press/)] [[CVPR](https://cvpr.thecvf.com/)] [[IROS](https://ieee-iros.org/)] [[ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)] [[RAL](https://www.ieee-ras.org/publications/ra-l)] [[Humanoids](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/humanoids)] [[AAMAS](https://aamas2025.org/)] [[SIGGRAPH](https://www.siggraph.org/)] [[RLC](https://rl-conference.cc/)]
 - Journals: [[IJRR](https://journals.sagepub.com/home/ijr)] [[Science Robotics](https://www.science.org/journal/scirobotics)] [[T-RO](https://www.ieee-ras.org/publications/t-ro)] [[IJCV](https://link.springer.com/journal/11263)] [[Nature Machine Intelligence](lhttps://www.nature.com/natmachintell/)]
+- Workshops: [[Embodied-AI](https://embodied-ai.org/)]
 
 ---
 

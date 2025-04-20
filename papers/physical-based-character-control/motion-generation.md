@@ -2,6 +2,8 @@
 
 [2025] [Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs](https://arxiv.org/abs/2502.05641)
 
+[2025] [UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control](https://arxiv.org/abs/2504.12540)
+
 
 
 ### Text to Motion

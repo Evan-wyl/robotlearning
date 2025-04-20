@@ -36,6 +36,10 @@
 
 [2025] [GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation](https://arxiv.org/abs/2502.09268)
 
+[2025] [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020)
+
+[2025] [DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation](https://arxiv.org/abs/2503.16806)
+
 
 
 ### Latent Action

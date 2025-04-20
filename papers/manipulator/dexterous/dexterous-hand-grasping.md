@@ -15,3 +15,5 @@
 [2025] [Multi-Keypoint Affordance Representation for Functional Dexterous Grasping](https://arxiv.org/abs/2502.20018)
 
 [2025] [DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness](https://arxiv.org/abs/2503.08257)
+
+[2025] [RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception](https://arxiv.org/abs/2504.05287)

@@ -65,3 +65,5 @@
 [2024] [GraspSplats: Efficient Manipulation with 3D Feature Splatting](https://arxiv.org/abs/2409.02084)
 
 [2024] [D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation](https://arxiv.org/abs/2309.16118)
+
+[2025] [Novel Demonstration Generation with Gaussian Splatting Enables Robust One-Shot Manipulation](https://arxiv.org/abs/2504.13175)

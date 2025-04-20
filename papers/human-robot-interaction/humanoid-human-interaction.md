@@ -8,6 +8,10 @@
 
 [2025] [ImageInThat: Manipulating Images to Convey User Instructions to Robots](https://arxiv.org/abs/2503.15500)
 
+[2025] [Think-Then-React: Towards Unconstrained Human Action-to-Reaction Generation](https://arxiv.org/abs/2503.16451)
+
+[2025] [Enhancing Explainability with Multimodal Context Representations for Smarter Robots](https://arxiv.org/abs/2503.16467)
+
 
 
 ### Datasets

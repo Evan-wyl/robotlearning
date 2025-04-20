@@ -22,8 +22,24 @@
 
 [2024] [WHALE: Towards Generalizable and Scalable World Models for Embodied Decision-making](https://arxiv.org/abs/2411.05619)
 
+[2025] [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945)
+
 #### Diffusion Model and World Model
 
 [2023] [World Models via Policy-Guided Trajectory Diffusion](https://arxiv.org/abs/2312.08533v2)
 
 [2024] [Diffusion World Model](https://arxiv.org/abs/2402.03570v1)
+
+
+
+### Motion Dynamic World Model
+
+[2025] [Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning](https://arxiv.org/abs/2504.07095)
+
+
+
+### Latent Action
+
+[2024] [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758)
+
+[2025] [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)

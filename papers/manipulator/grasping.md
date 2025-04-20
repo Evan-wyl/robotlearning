@@ -1,5 +1,9 @@
 ## Grasping Manipulation
 
+[2025] [ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping](https://arxiv.org/abs/2504.10857)
+
+
+
 ### Dexterous
 
 [2024] [DexGANGrasp: Dexterous Generative Adversarial Grasping Synthesis for Task-Oriented Manipulation](https://arxiv.org/abs/2407.17348)

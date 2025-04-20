@@ -11,6 +11,7 @@
 - [RoboMimic](https://robomimic.github.io/docs/datasets/overview.html): A large-scale, diverse collection of task demonstrations spanning multiple human demonstrators of varying quality, multiple robot manipulation tasks of varying difficulty, and both simulated and real data.
 - [Robo Turk](https://roboturk.stanford.edu/): A Crowdsourcing Platform for Robotic Skill Learning through Imitation.
 - [RoboNet](https://www.robonet.wiki/): An open database for sharing robotic experience, which provides an initial pool of 15 million video frames, from 7 different robot platforms, and study how it can be used to learn generalizable models for vision-based robotic manipulation.
+- [RH20T](https://arxiv.org/abs/2307.00595): A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot
 
 ### Revelant Resources
 

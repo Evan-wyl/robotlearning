@@ -58,6 +58,8 @@
 
 [2025] [Train Robots in a JIF: Joint Inverse and Forward Dynamics with Human and Robot Demonstrations](https://arxiv.org/abs/2503.12297)
 
+[2025] [Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation](https://arxiv.org/abs/2503.24361)
+
 #### Universal Policy
 
 [2024] [One-Shot Imitation Learning with Invariance Matching for Robotic Manipulation](https://arxiv.org/abs/2405.13178)

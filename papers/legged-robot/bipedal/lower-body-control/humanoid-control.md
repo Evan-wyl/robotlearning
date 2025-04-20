@@ -22,6 +22,8 @@
 
 [2024] [Humanoid Parkour Learning](https://arxiv.org/abs/2406.10759)
 
+[2024] [Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies](https://arxiv.org/abs/2410.11825)
+
 
 
 ### Multi-Objective Reinforcement Learning

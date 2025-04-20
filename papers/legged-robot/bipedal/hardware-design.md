@@ -10,6 +10,12 @@
 
 
 
+### Humanoid Hands
+
+[2025] [RUKA: Rethinking the Design of Humanoid Hands with Learning](https://arxiv.org/abs/2504.13165)
+
+
+
 ### Sensors
 
 [2024] [ARMOR: Egocentric Perception for Humanoid Robot Collision Avoidance and Motion Planning](https://arxiv.org/abs/2412.00396)

@@ -6,8 +6,6 @@
 
 [2022] [Evo-NeRF: Evolving NeRF for Sequential Robot Grasping of Transparent Objects](https://openreview.net/pdf?id=Bxr45keYrf) 
 
-[2024] [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://arxiv.org/abs/2402.10329)
-
 [2024] [Yell At Your Robot: Improving On-the-Fly from Language Corrections](https://arxiv.org/abs/2403.12910)
 
 [2024] [Learning Visuotactile Skills with Two Multifingered Hands](https://arxiv.org/abs/2404.16823)
@@ -25,6 +23,8 @@
 [2025] [FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning](https://arxiv.org/abs/2502.17432)
 
 [2025] [Spatial-Temporal Graph Diffusion Policy with Kinematic Modeling for Bimanual Robotic Manipulation](https://arxiv.org/abs/2503.10743)
+
+[2025] [Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models](https://arxiv.org/abs/2503.23271)
 
 
 

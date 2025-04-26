@@ -24,6 +24,8 @@
 
 [2024] [Learning Smooth Humanoid Locomotion through Lipschitz-Constrained Policies](https://arxiv.org/abs/2410.11825)
 
+[2024] [Reinforcement Learning for Versatile, Dynamic, and Robust Bipedal Locomotion Control](https://arxiv.org/abs/2401.16889)
+
 
 
 ### Multi-Objective Reinforcement Learning

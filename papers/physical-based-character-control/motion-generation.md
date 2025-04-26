@@ -10,4 +10,6 @@
 
 [2022] [Human Motion Diffusion Model](https://arxiv.org/abs/2209.14916)
 
+[2023] [OmniControl: Control Any Joint at Any Time for Human Motion Generation](https://arxiv.org/abs/2310.08580)
+
 [2024] [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://arxiv.org/abs/2407.10481)

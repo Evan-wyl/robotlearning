@@ -20,6 +20,8 @@
 
 [2023] [Extreme Parkour with Legged Robots](https://arxiv.org/abs/2309.14341)
 
+[2023] [Learning and Adapting Agile Locomotion Skills by Transferring Experience](https://arxiv.org/abs/2304.09834)
+
 [2024] [Agile But Safe: Learning Collision-Free High-Speed Legged Locomotion](https://arxiv.org/abs/2401.17583)
 
 [2024] [Hybrid Internal Model: Learning Agile Legged Locomotion with Simulated Robot Response](https://arxiv.org/abs/2312.11460)

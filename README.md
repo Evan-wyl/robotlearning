@@ -67,7 +67,7 @@ Papers, datasets, applications, tutorials.
 - [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/legged-robot)
 - [Manipulator](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/manipulator)
 - [Cross-Embodiment Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/multi-embodiment-learning)
-- [Sim-to-Real](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-2-real.md)
+- [Sim-to-Real](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/sim-to-real)
 - [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)
 - [Physical-based Character Control](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/physical-based-character-control)
 

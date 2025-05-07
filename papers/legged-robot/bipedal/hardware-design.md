@@ -8,6 +8,8 @@
 
 [2025] [BodyGen: Advancing Towards Efficient Embodiment Co-Design](https://arxiv.org/abs/2503.00533)
 
+[2025] [Demonstrating Berkeley Humanoid Lite: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot](https://arxiv.org/abs/2504.17249)
+
 
 
 ### Humanoid Hands

@@ -17,3 +17,7 @@
 [2025] [A Unified and General Humanoid Whole-Body Controller for Fine-Grained Locomotion](https://arxiv.org/abs/2502.03206)
 
 [2025] [HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://arxiv.org/abs/2502.13013)
+
+[2025] [AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control](https://arxiv.org/abs/2505.03738)
+
+[2025] [Visual Imitation Enables Contextual Humanoid Control](https://arxiv.org/abs/2505.03729)

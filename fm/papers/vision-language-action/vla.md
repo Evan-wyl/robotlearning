@@ -40,6 +40,10 @@
 
 [2025] [DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation](https://arxiv.org/abs/2503.16806)
 
+[2025] [CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation](https://arxiv.org/abs/2505.02166)
+
+[2025] [Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions](https://arxiv.org/abs/2505.02152)
+
 
 
 ### Latent Action

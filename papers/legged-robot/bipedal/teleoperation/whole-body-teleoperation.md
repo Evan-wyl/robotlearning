@@ -17,3 +17,5 @@
 [2024] [Open-TeleVision: Teleoperation with Immersive Active Visual Feedback](https://arxiv.org/abs/2407.01512)
 
 [2024] [Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control](https://arxiv.org/abs/2412.07773)
+
+[2025] [TWIST: Teleoperated Whole-Body Imitation System](https://arxiv.org/abs/2505.02833)

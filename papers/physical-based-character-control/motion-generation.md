@@ -13,3 +13,9 @@
 [2023] [OmniControl: Control Any Joint at Any Time for Human Motion Generation](https://arxiv.org/abs/2310.08580)
 
 [2024] [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://arxiv.org/abs/2407.10481)
+
+
+
+### Motion Transition
+
+[2021] [Robust Motion In-betweening](https://arxiv.org/abs/2102.04942)

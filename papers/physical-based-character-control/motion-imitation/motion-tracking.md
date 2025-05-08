@@ -2,6 +2,8 @@
 
 [2018] [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skill](https://arxiv.org/abs/1804.02717)
 
+[2018] [SFV: Reinforcement Learning of Physical Skills from Videos](https://arxiv.org/abs/1810.03599)
+
 
 
 ### Adversarial Method

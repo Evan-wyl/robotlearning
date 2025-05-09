@@ -16,6 +16,8 @@
 
 [2024] [Learning to Walk and Fly with Adversarial Motion Priors](https://arxiv.org/abs/2309.12784)
 
+[2025] [ADD: Physics-Based Motion Imitation with Adversarial Differential Discriminators](https://arxiv.org/abs/2505.04961)
+
 
 
 ### Variational Autoencoder Method

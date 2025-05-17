@@ -71,36 +71,6 @@ Papers, datasets, applications, tutorials.
 - [Industrial Application](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/industrial-application)
 - [Physical-based Character Control](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/physical-based-character-control)
 
----
-
-- [Generative Models and its Application](https://github.com/Evan-wyl/Robot-Learning/tree/master/papers/generative-models-and-application)
-- [Diffusion Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/diffusion-model-and-application)
-- [Flow Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flow-and-application)
-- [Transformers and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/transformer-and-application)
-- [State Space Models and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/ssms-and-application)
-
----
-
-- [Speech](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/speech)
-- [Perception](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/perception.md)
-- [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/navigation)
-- [Planning](https://github.com/Evan-wyl/robotlearning/blob/master/papers/planning.md)
-- [Human Robot Interaction](https://github.com/Evan-wyl/robotlearning/blob/master/papers/human-robot-interaction.md)
-
----
-
-- [Continual Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/continual-learning)
-- [Deep Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/deep-learning)
-- [Evolutionary Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/el.md)
-- [Imitation Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/imitation-learning)
-- [Lifelong Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/lifelong-learning.md)
-- [Reinforcement Learning](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/reinforcement-learning)
-
----
-
-- [Flows and Diffusions](https://github.com/Evan-wyl/robotlearning/tree/master/papers/flows-and-diffusions)
-- [White-Box Networks](https://github.com/Evan-wyl/robotlearning/tree/master/papers/white-box-networks)
-
 
 
 ## 2. Datasets, Benchmarks, and Simulators

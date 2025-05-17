@@ -4,6 +4,8 @@
 
 [2024] [Aligning Cyber Space with Physical World: A Comprehensive Survey on Embodied AI](https://arxiv.org/abs/2407.06886)
 
+[2025] [Embodied Intelligent Industrial Robotics: Concepts and Techniques](https://arxiv.org/abs/2505.09305)
+
 
 
 ### Great Paper

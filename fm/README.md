@@ -69,15 +69,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 2.Datasets and Benchmarks
 
-Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm/data) for the popular robot learning **datasets, simulator and benchmark** results.
-
-
-
-## 3.Relevant Resources
-
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/docs/resources.md) for some awesome relevant resources, such as
-
-- Awesome Repository, including Large Model inference and evaluation.
+Please see [Here](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm/data) for the popular robot learning **datasets and benchmark** results.
 
 ------
 

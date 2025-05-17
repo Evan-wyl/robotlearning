@@ -27,13 +27,13 @@ Papers, datasets, applications, tutorials.
 - [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-physical-based-character-control)
 - [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-data-acquisition)
 - [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/09-industrial-application)
-- AI System on Robotics
+- [AI System on Robotics](https://github.com/Evan-wyl/robotlearning/tree/master/papers/10-ai-system-on-robotics)
 
 
 
 ## 2. Datasets and Benchmarks
 
-Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets, benchmarks and simulator** results. 
+Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets and benchmarks** results. 
 
 
 

@@ -11,18 +11,6 @@ Papers, datasets, applications, tutorials.
 
 ---
 
-**Better Results of Great Research Institute:**
-
-- [DeepMind](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/deepmind.md)
-- [Robotics at Google](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/google.md)
-- [Navidia](https://github.com/Evan-wyl/robotlearning/blob/master/papers/great-institutions/nvidia.md)
-- [Tencent-RoboticsX](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/tencent.md)
-- [Intel EAI Lab](https://github.com/Evan-wyl/Robot-Learning/blob/master/papers/great-institutions/intel.md)
-- [Meta](https://github.com/Evan-wyl/robotlearning/blob/master/papers/great-institutions/meta.md)
-- [Unitree](https://github.com/Evan-wyl/robotlearning/blob/master/papers/great-institutions/unitree.md)
-
----
-
 *The research result of  **Embodied AI** and **Foundation Models** can be found in [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).*
 
 
@@ -39,6 +27,7 @@ Papers, datasets, applications, tutorials.
 - [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-physical-based-character-control)
 - [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-data-acquisition)
 - [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/09-industrial-application)
+- AI System on Robotics
 
 
 

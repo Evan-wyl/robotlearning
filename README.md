@@ -19,15 +19,14 @@ Papers, datasets, applications, tutorials.
 
 :speaker: ***Must-read [papers](https://github.com/Evan-wyl/robotlearning/tree/master/papers) on Robot Learning***
 
-- [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/tree/master/papers/02-robot-learning-theory)
-- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/03-legged-robot)
-- [Manipulation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/04-manipulation)
-- [Multi-Embodiment Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/05-multi-embodiment-learning)
-- [Sim-to-Real](https://github.com/Evan-wyl/robotlearning/tree/master/papers/06-sim-to-real)
-- [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-physical-based-character-control)
-- [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-data-acquisition)
-- [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/09-industrial-application)
-- [AI System on Robotics](https://github.com/Evan-wyl/robotlearning/tree/master/papers/10-ai-system-on-robotics)
+- [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/tree/master/papers/01-Robot-Learning-Theory)
+- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/02-Legged-Robot)
+- [Manipulation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/03-Manipulation)
+- [Multi-Embodiment Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/04-Multi-Embodiment-Learning)
+- [Sim-to-Real](https://github.com/Evan-wyl/robotlearning/tree/master/papers/05-Sim-to-Reall)
+- [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/06-Physical-based-Character-Control)
+- [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-Data-Acquisition)
+- [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-Industrial-Application)
 
 
 

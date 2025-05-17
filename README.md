@@ -29,15 +29,11 @@ Papers, datasets, applications, tutorials.
 
 ## 0. Survey
 
-[2020] [Automatic Curriculum Learning For Deep RL: A Short Survey](https://arxiv.org/abs/2003.04664)
-
 [2020] [A Survey on Learning-Based Robotic Grasping](https://d-nb.info/122422468X/34)
 
 [2021] [Robot Learning from Randomized Simulations: A Review](https://arxiv.org/abs/2111.00956)
 
 [2022] [Guided reinforcement learning: A review and evaluation for efficient and effective real-world robotics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926159)
-
-[2022] [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/abs/2201.03916)
 
 [2023] [Transfer Learning in Robotics: An Upcoming Breakthrough? A Review of Promises and Challenges](https://arxiv.org/abs/2311.18044)
 
@@ -53,24 +49,20 @@ Papers, datasets, applications, tutorials.
 
 [2024] [Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](https://arxiv.org/abs/2408.04380)
 
-[2024] [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)
-
-:speaker: ***If you would like some specific areas' survey, such as reinforcement learning,imitation learning, and etc, please click related links in part one.***
-
 
 
 ## 1. Research Areas and Papers
 
-:speaker: ***There are just some pretty papers for beginners and interested figures.***
+:speaker: ***Must-read papers on Robot Learning***
 
-- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/legged-robot)
-- [Manipulation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/manipulation)
-- [Multi-Embodiment Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/multi-embodiment-learning)
-- [Sim-to-Real](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/sim-to-real)
-- [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/industrial-application)
-- [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/physical-based-character-control)
-- [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/data-acquisition)
-- [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/tree/master/papers/00-robot-learning/robot-learning-theory)
+- [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/tree/master/papers/01-robot-learning-theory)
+- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/02-legged-robot)
+- [Manipulation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/03-manipulation)
+- [Multi-Embodiment Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/04-multi-embodiment-learning)
+- [Sim-to-Real](https://github.com/Evan-wyl/robotlearning/tree/master/papers/05-sim-to-real)
+- [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/06-physical-based-character-control)
+- [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-data-acquisition)
+- [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-industrial-application)
 
 
 

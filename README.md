@@ -15,7 +15,7 @@ Papers, datasets, applications, tutorials.
 
 
 
-## 1. Research Areas and Papers
+## 0. Research Areas and Papers
 
 :speaker: ***Must-read [papers](https://github.com/Evan-wyl/robotlearning/tree/master/papers) on Robot Learning***
 
@@ -30,13 +30,13 @@ Papers, datasets, applications, tutorials.
 
 
 
-## 2. Datasets and Benchmarks
+## 1. Datasets and Benchmarks
 
 Please see [HERE](https://github.com/Evan-wyl/Robot-Learning/tree/master/data) for the popular robot learning **datasets and benchmarks** results. 
 
 
 
-## 3. Contributing
+## 2. Contributing
 
 If you are interested in contributing, please refer to [HERE](https://github.com/Evan-wyl/Robot-Learning/blob/master/CONTRIBUTING.md) for instructions in contribution.
 

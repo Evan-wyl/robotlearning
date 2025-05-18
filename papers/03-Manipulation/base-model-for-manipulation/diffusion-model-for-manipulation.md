@@ -21,5 +21,3 @@
 [2024] [Diff-Control: A Stateful Diffusion-based Policy for Imitation Learning](https://diff-control.github.io/)
 
 [2024] [ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy](https://arxiv.org/abs/2411.03990)
-
-[2025] [Learning Long-Context Diffusion Policies via Past-Token Prediction](https://arxiv.org/abs/2505.09561)

@@ -84,16 +84,6 @@
 
 
 
-### Visual RL
-
-[2024] [Learning to Manipulate Anywhere: A Visual Generalizable Framework For Reinforcement Learning](https://arxiv.org/abs/2407.15815v1)
-
-[2024] [Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning](https://hil-serl.github.io/)
-
-[2024] [When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?](https://arxiv.org/abs/2412.13662)
-
-
-
 ### One-Short Learning
 
 [2024] [One-Shot Manipulation Strategy Learning by Making Contact Analogies](https://arxiv.org/abs/2411.09627)

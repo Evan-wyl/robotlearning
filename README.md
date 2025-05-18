@@ -11,6 +11,12 @@ Papers, datasets, applications, tutorials.
 
 ---
 
+- **[New!]** Add the new part of CVPR2025
+- **[New!]** Add the new part of ICLR2025
+- **[New!]** Add the new part of RSS2025
+
+---
+
 *The research result of  **Embodied AI** and **Foundation Models** can be found in [fm](https://github.com/Evan-wyl/Robot-Learning/tree/master/fm).*
 
 

@@ -1,4 +1,4 @@
-## Surveys
+## Foundation Models
 
 [2021] [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 

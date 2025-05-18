@@ -15,29 +15,16 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 :speaker: ***Must-read [papers](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers) on Foundation Model***
 
-- [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/eai)
+- [Vision Language Action Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/01-Vision-Language-Action)
+- [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/02-Robotic-Transformer)
+- [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/03-LLM-and-Application)
+- [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/04-Multimodal-Large-Model-and-Application)
 
----
-
-- [Generative AI and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/generative-ai-and-application)
-- [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/llm-and-application)
-- [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/mmlm-and-application)
-- [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/world-models-and-application)
-
----
-
-- [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/robotic-transformer)
-- [Vision Language Action Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/vision-language-action)
-- [Learning from Video](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/learning-from-video.md)
-
----
-
-- [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/vision-foundation-model.md)
-- [Navigation](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/navigation.md)
-
----
-
-- [Theory](https://github.com/Evan-wyl/robotlearning/blob/master/fm/papers/theory)
+- [Embodied AI](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/06-Embodiment-AI)
+- [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/07-World-Models-and-Application)
+- [Generative AI and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/08-Generative-AI-and-Application)
+- [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/09-Vision-Foundation-Model)
+- [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/10-Navigation)
 
 
 

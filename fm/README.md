@@ -13,7 +13,7 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 ## 0.Research Areas and Papers
 
-:speaker: ***Must-read [papers](https://github.com/Evan-wyl/robotlearning/tree/master/papers) on Foundation Model***
+:speaker: ***Must-read [papers](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers) on Foundation Model***
 
 - [Embodied AI](https://github.com/Evan-wyl/Robot-Learning/blob/master/fm/papers/eai)
 

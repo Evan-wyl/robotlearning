@@ -17,13 +17,13 @@ Papers, codes, datasets, tasks, applications, tutorials.
 
 - [Vision Language Action Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/01-Vision-Language-Action)
 - [Robotic Transformer](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/02-Robotic-Transformer)
-- [Large Language Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/03-LLM-and-Application)
-- [Multi-Modal Large Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/04-Multimodal-Large-Model-and-Application)
+- [Large Language Models' Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/03-LLM-Application)
+- [Multi-Modal Large Models' Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/04-Multimodal-Large-Model-Application)
 
 - [Embodied AI](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/06-Embodiment-AI)
 - [World Model and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/07-World-Models-and-Application)
-- [Generative AI and its Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/08-Generative-AI-and-Application)
-- [Vision Foundation Model](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/09-Vision-Foundation-Model)
+- [Generative AI's Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/08-Generative-AI-Application)
+- [Vision Foundation Models' Application](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/09-Vision-Foundation-Model-Application)
 - [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/fm/papers/10-Navigation)
 
 

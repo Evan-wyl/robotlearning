@@ -11,9 +11,9 @@ Papers, datasets, applications, tutorials.
 
 ---
 
-- **[New!]** Add the new part of [CVPR2025](https://github.com/Evan-wyl/robotlearning/blob/master/papers/00-Latest/cvpr2025.md)
-- **[New!]** Add the new part of ICLR2025
-- **[New!]** Add the new part of RSS2025
+- **[New!]** Add the new part of [CVPR2025](https://github.com/Evan-wyl/robotlearning/blob/master/papers/00-Latest/CVPR2025.md)
+- **[New!]** Add the new part of [ICLR2025](https://github.com/Evan-wyl/robotlearning/blob/master/papers/00-Latest/ICLR2025.md)
+- **[New!]** Add the new part of [RSS2025](https://github.com/Evan-wyl/robotlearning/blob/master/papers/00-Latest/RSS2025.md)
 
 ---
 

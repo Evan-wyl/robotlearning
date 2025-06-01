@@ -12,6 +12,8 @@
 
 [2025] [Enhancing Explainability with Multimodal Context Representations for Smarter Robots](https://arxiv.org/abs/2503.16467)
 
+[2025] [H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies](https://arxiv.org/abs/2505.17627)
+
 ### Datasets
 
 [2025] [NatSGLD: A Dataset with Speech, Gesture, Logic, and Demonstration for Robot Learning in Natural Human-Robot Interaction](https://arxiv.org/abs/2502.16718)

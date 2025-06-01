@@ -19,3 +19,9 @@
 ### Motion Transition
 
 [2021] [Robust Motion In-betweening](https://arxiv.org/abs/2102.04942)
+
+
+
+### Motion Diffusion Model
+
+[2024] [Robot Motion Diffusion Model: Motion Generation for Robotic Characters](https://la.disneyresearch.com/wp-content/uploads/RobotMDM_red.pdf)

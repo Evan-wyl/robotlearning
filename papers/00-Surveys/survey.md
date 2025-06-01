@@ -1,7 +1,5 @@
 ## Surveys
 
-[2020] [A Survey on Learning-Based Robotic Grasping](https://d-nb.info/122422468X/34)
-
 [2021] [Robot Learning from Randomized Simulations: A Review](https://arxiv.org/abs/2111.00956)
 
 [2022] [Guided reinforcement learning: A review and evaluation for efficient and effective real-world robotics](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9926159)
@@ -19,3 +17,5 @@
 [2024] [Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes](https://www.arxiv.org/abs/2408.03539)
 
 [2024] [Deep Generative Models in Robotics: A Survey on Learning from Multimodal Demonstrations](https://arxiv.org/abs/2408.04380)
+
+[2025] [Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning](https://arxiv.org/abs/2501.02116)

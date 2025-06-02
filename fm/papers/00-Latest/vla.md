@@ -9,3 +9,5 @@
 [2025] [Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models](https://arxiv.org/abs/2505.07815)
 
 [2025] [Pixel Motion as Universal Representation for Robot Control](https://arxiv.org/abs/2505.07817)
+
+[2025] [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054)

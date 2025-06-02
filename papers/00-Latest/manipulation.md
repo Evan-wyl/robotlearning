@@ -6,7 +6,7 @@
 
 [2025] [UniSkill: Imitating Human Videos via Cross-Embodiment Skill Representations](https://arxiv.org/abs/2505.08787)
 
-
+[2025] [MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning](https://arxiv.org/abs/2504.16738)
 
 
 

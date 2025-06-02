@@ -6,6 +6,8 @@
 
 [2025] [FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation](https://arxiv.org/abs/2505.10075)
 
+[2025] [TesserAct: Learning 4D Embodied World Models](https://arxiv.org/abs/2504.20995)
+
 
 
 ### Benchmark

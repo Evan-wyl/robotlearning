@@ -10,6 +10,24 @@
 
 
 
+### Data Collection
+
+[2025] [DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories](https://arxiv.org/abs/2505.12705)
+
+
+
 ### Large Scale Training
 
 [2025] [FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control](https://arxiv.org/abs/2505.22642)
+
+
+
+### Loco-Manipulation
+
+[2025] [Learning Unified Force and Position Control for Legged Loco-Manipulation](https://arxiv.org/abs/2505.20829)
+
+
+
+### Human-Humanoid Interaction
+
+[2025] [H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies](https://arxiv.org/abs/2505.17627)

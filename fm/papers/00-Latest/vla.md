@@ -11,3 +11,7 @@
 [2025] [Pixel Motion as Universal Representation for Robot Control](https://arxiv.org/abs/2505.07817)
 
 [2025] [π0.5: a Vision-Language-Action Model with Open-World Generalization](https://arxiv.org/abs/2504.16054)
+
+[2025] [SAFE: Multitask Failure Detection for Vision-Language-Action Models](https://arxiv.org/abs/2506.09937)
+
+[2025] [SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models](https://arxiv.org/abs/2506.03574)

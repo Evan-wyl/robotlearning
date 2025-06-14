@@ -8,6 +8,16 @@
 
 [2025] [MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning](https://arxiv.org/abs/2504.16738)
 
+[2025] [Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop](https://arxiv.org/abs/2506.10968)
+
+[2025] [Real-Time Execution of Action Chunking Flow Policies](https://arxiv.org/abs/2506.07339)
+
+
+
+### Perception
+
+[2025] [UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation](https://arxiv.org/abs/2506.09284)
+
 
 
 ### Diffusion Policy

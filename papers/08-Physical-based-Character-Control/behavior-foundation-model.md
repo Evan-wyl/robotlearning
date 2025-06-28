@@ -4,6 +4,8 @@
 
 [2024] [MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting](https://arxiv.org/abs/2409.14393)
 
+[2024] [H-GAP: Humanoid Control with a Generalist Planner](https://arxiv.org/abs/2312.02682)
+
 
 
 ### Composite Motion

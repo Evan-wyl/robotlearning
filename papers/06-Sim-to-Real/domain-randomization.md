@@ -1,5 +1,7 @@
 ## Randomization Method
 
+[2017] [Robust Adversarial Reinforcement Learning](https://arxiv.org/abs/1703.02702)
+
 ### Randomization
 
 [2022] [Analysis of Randomization Effects on Sim2Real Transfer in Reinforcement Learning for Robotic Manipulation Tasks](https://arxiv.org/abs/2206.06282)
@@ -20,6 +22,8 @@
 
 [2018] [Policy Transfer with Strategy Optimization](https://arxiv.org/abs/1810.05751)
 
+[2019] [Active Domain Randomization](https://arxiv.org/abs/1904.04762)
+
 [2019] [How to pick the domain randomization parameters for sim-to-real transfer of reinforcement learning policies?](https://arxiv.org/abs/1903.11774)
 
 [2019] [Solving Rubik's Cube with a Robot Hand](https://arxiv.org/abs/1910.07113)
@@ -30,10 +34,18 @@
 
 [2021] [Understanding Domain Randomization for Sim-to-real Transfer](https://arxiv.org/abs/2110.03239)
 
+[2024] [Domain Randomization via Entropy Maximization](https://arxiv.org/abs/2311.01885)
+
+[2024] [Continual Domain Randomization](https://continual-dr.github.io/)
+
+
+
+### Offline Domain Randomization
+
+[2021] [DROID: Minimizing the Reality Gap using Single-Shot Human Demonstration](https://arxiv.org/abs/2102.11003)
+
 [2022] [Online vs. Offline Adaptive Domain Randomization Benchmark](https://arxiv.org/abs/2206.14661)
 
 [2023] [DROPO: Sim-to-Real Transfer with Offline Domain Randomization](https://arxiv.org/abs/2201.08434)
 
-[2024] [Domain Randomization via Entropy Maximization](https://arxiv.org/abs/2311.01885)
-
-[2024] [Continual Domain Randomization](https://continual-dr.github.io/)
+[2025] [Provable Sim-to-Real Transfer via Offline Domain Randomization](https://arxiv.org/abs/2506.10133)

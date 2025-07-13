@@ -27,13 +27,14 @@ Papers, datasets, applications, tutorials.
 :speaker: ***Must-read [papers](https://github.com/Evan-wyl/robotlearning/tree/master/papers) on Robot Learning***
 
 - [Robot Learning Theory](https://github.com/Evan-wyl/robotlearning/tree/master/papers/01-Robot-Learning-Theory)
-- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/02-Legged-Robot)
-- [Manipulation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/03-Manipulation)
-- [Multi-Embodiment Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/04-Multi-Embodiment-Learning)
-- [Sim-to-Real](https://github.com/Evan-wyl/robotlearning/tree/master/papers/05-Sim-to-Real)
-- [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/06-Physical-based-Character-Control)
-- [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-Data-Acquisition)
-- [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-Industrial-Application)
+- [Data Acquisition](https://github.com/Evan-wyl/robotlearning/tree/master/papers/02-Data-Acquisition)
+- [Legged Robot](https://github.com/Evan-wyl/robotlearning/tree/master/papers/03-Legged-Robot)
+- [Manipulation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/04-Manipulation)
+- [Multi-Embodiment Learning](https://github.com/Evan-wyl/robotlearning/tree/master/papers/05-Multi-Embodiment-Learning)
+- [Sim-to-Real](https://github.com/Evan-wyl/robotlearning/tree/master/papers/06-Sim-to-Real)
+- [Navigation](https://github.com/Evan-wyl/robotlearning/tree/master/papers/07-Navigation)
+- [Physical-based Character Control](https://github.com/Evan-wyl/robotlearning/tree/master/papers/08-Physical-based-Character-Control)
+- [Industrial Application](https://github.com/Evan-wyl/robotlearning/tree/master/papers/09-Industrial-Application)
 
 
 

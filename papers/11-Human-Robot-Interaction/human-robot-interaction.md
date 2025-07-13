@@ -12,6 +12,8 @@
 
 [2025] [FABG : End-to-end Imitation Learning for Embodied Affective Human-Robot Interaction](https://arxiv.org/abs/2503.01363)
 
+[2025] [Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction](https://arxiv.org/abs/2507.06404)
+
 
 
 ### Benchmark

@@ -17,3 +17,5 @@
 [2024] [FunGrasp: Functional Grasping for Diverse Dexterous Hands](https://arxiv.org/abs/2411.16755)
 
 [2024] [UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping](https://arxiv.org/abs/2412.02699)
+
+[2025] [GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training](https://arxiv.org/abs/2507.13097)

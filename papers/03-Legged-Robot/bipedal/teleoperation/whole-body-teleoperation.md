@@ -18,4 +18,6 @@
 
 [2024] [Mobile-TeleVision: Predictive Motion Priors for Humanoid Whole-Body Control](https://arxiv.org/abs/2412.07773)
 
+[2025] [HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://arxiv.org/abs/2502.13013)
+
 [2025] [TWIST: Teleoperated Whole-Body Imitation System](https://arxiv.org/abs/2505.02833)

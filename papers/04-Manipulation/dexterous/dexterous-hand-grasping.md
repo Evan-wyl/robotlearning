@@ -6,7 +6,7 @@
 
 [2024] [GenDexGrasp: Generalizable Dexterous Grasping](https://arxiv.org/abs/2210.00722)
 
-[2024] [FFHFlow: A Flow-based Variational Approach for Multi-fingered Grasp Synthesis in Real Time](https://arxiv.org/abs/2407.15002)
+[2024] [FFHFlow: A Flow-based Variational Approach for Multi-fingered Grasp Synthesis in Real Time](https://arxiv.org/abs/2407.15161)
 
 [2024] [A Surprisingly Efficient Representation for Multi-Finger Grasping](https://arxiv.org/abs/2408.02455)
 
